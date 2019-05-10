@@ -1,0 +1,3 @@
+The GD Options (both calls and puts) are booked year round.  They are all in N17872.9, N17872.A, N17872.B, N18064.6, and N18254.4.  I will begin looking at the unwind problem.
+
+DG

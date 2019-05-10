@@ -1,0 +1,2 @@
+looks like this deal got zeroed out and rebooked on #1019677 look and see if you see this - CP should now be CPR pipeline exchange.  No variance should occur.  Thanks.
+PL

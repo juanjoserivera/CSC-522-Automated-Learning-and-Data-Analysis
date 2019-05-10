@@ -1,0 +1,6 @@
+Thank you so much for this query.  At this time, I am not sure what happened to the numbers in our spreadsheet.  The data was pulled from AdHoc by calculating East, West, Eastbank, & Westbank.  However, the total we retrieved from AdHoc did not match the total Portcalc value.  I do not want you to spend time trying to figure out what happened to our spreadsheet because it could have been anything from using the wrong code to calc the books to simple user error.  There are too many variables that are unknown.
+
+The good thing is, it works now.
+
+Thanks,
+Stacey

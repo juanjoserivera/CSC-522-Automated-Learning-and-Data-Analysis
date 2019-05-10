@@ -1,0 +1,9 @@
+only works for gen and dataintervals of hourly and realtime at the moment.
+
+EXEC sp_AB_GetData 
+	@DataClass = 'gen'	,
+	@DataCode = 'sd3'	,
+	@StartDate = '1 FEB 2001'	,
+	@EndDate 	= '1 MAR 2001'	,
+	@HourType 	 = '7x24'	,
+	@DataInterval = 'hourly'

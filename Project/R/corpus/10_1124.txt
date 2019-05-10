@@ -1,0 +1,2 @@
+stg adjusted means factoring in cost of carry and taxes
+stg curve looks more realistic in market areas when you add basis on.

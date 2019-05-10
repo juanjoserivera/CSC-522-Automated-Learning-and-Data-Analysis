@@ -1,0 +1,5 @@
+Dave --
+
+Do we have a strong preference for what DSTAR utilities should do?  I think that we want to communicate with OMTR and others at FERC to push a single RTO in the West (leaving CA) outside.  Also, having the Transco originally within the RTO West makes alot of operational sense and should not limit the economics of the Transco.
+
+Jim

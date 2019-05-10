@@ -1,0 +1,9 @@
+Group,
+I can now be reached with email outside of work at wwilliamsiii@palm.net
+This should work even if my cell does not.
+
+
+ [mailto:wwilliamsiii@palm.net]
+
+
+BW

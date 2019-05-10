@@ -1,0 +1,6 @@
+Eric,
+
+John is comfortable with sending out a 5 year curve to Egypt
+also he does not want to adjust the length of the forward price curve in the system due to non liquidity in the market that far forward
+
+Dutch

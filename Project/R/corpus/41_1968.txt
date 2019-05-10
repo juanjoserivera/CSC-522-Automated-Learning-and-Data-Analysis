@@ -1,0 +1,59 @@
+Jim:
+Here's the DG stuff from the Hertzberg letter
+***************************************************************************8
+
+Key Barriers to the Development of Distributed Generation and Proposals to 
+Remove the Barriers
+
+Barrier:  Excessive and Unnecessary Utility Stand-by Charges
+
+Solution
+The executive orders issued by the Governor on February 14th took a step in 
+the right direction, but don,t go nearly far enough.  Utility stand-by 
+charges have always been designed by the utilities to protect their monopoly 
+position, extract monopoly prices from customers, or both.  They must be 
+eliminated for all distributed generation applications.  There is no reason 
+to limit the elimination of these charges to generation facilities that are 
+less than 1MW.  These limits will only lengthen unnecessarily the time it 
+takes for California to close the significant gap between supply and demand 
+and reduce the risk of black outs this summer. 
+
+The provisions of SB27X eliminating stand-by charges were stripped from the 
+bill.  This will likely thwart any attempts to encourage the near-term 
+development of distributed generation and reduce the severe supply-demand 
+imbalance in California.
+
+The language eliminating stand-by charges should be re-inserted into SB27X 
+and modified to remove all caps on plant size. 
+ 
+Barrier: Excessive delays and costs related to interconnecting facilities 
+with investor-owned and municipal utilities
+
+Solution:   
+The Governor,s executive order regarding interconnection is a step in the 
+right direction*D-D-26-01 requires utilities to complete interconnection 
+studies within 7 days.  California should ensure that this requirement 
+applies to all generation facilities, including distributed generation.  In 
+addition, the financial conflicts the utilities face when interconnecting 
+generation facilities are simply too powerful to overcome through executive 
+orders or other regulations.  
+
+To the greatest extent possible, California should shift control over 
+interconnection away from the utility and place that control with the 
+California ISO.  This could be accomplished through amendments to SB 27X.
+
+Barrier:  Permitting and Air Quality Issues
+Developers of distributed (i.e., &on-site8) generation that is 50 MWs or 
+greater must receive certification from the California Energy Commission and 
+therefore face all of the impediments to development that large-scale 
+generation faces.  
+
+Solution: 
+California should ensure that the executive orders (D-22-01 thru D-26-01) 
+issued by the Governor to expedite plant siting and maximize plant output 
+apply equally to smaller scale, &distributed generation8 facilities. In 
+addition, distributed generation that is less than 50 MWs continues to face 
+local opposition.  The State should ensure that local, parochial interests 
+cannot block otherwise beneficial distributed generation projects.  
+
+These objectives could be accomplished through amendments to SB27X.

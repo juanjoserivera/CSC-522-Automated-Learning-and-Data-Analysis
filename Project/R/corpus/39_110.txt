@@ -1,0 +1,13 @@
+Kevin,
+
+My apologies for not getting back sooner, but I sort of wanted to see how the Enron real-time products did before proceeding with this.  It seems like real-time is a success, so let's get going with this.  
+
+I call this product DART (Day-Ahead/Real-Time).  It's basically a physical product that is transacted on a day-ahead cash basis, but is delivered on real-time.  For example, on the day-ahead, lets say I post a "US Pwr Phy Firm  Mid-C Peak Oct04 to Oct05 DART"  $27 at $28.  If I get hit, then the party selling to me is obligated to deliver on Oct 5th, real-time 25 MW each hour.  I would be long real-time at $27.  If a party lifts my $28, then I would be obligated to deliver to them on Oct 5, real-time, 25 MW each hour.  I would be short at $28.
+
+The mechanics of this deal are much like a regular day-ahead cash transaction.  The primary difference is we would have to flag these deals somehow such that they would not get mixed with our regular day-ahead transactions that needed to be prescheduled.
+
+As far as the product language goes, I think if you add the following language to what you provided below, we should be OK (obviously subject to legal review).
+
+"This product is intended to be transacted on a Day-Ahead basis, for delivery on a Real-Time basis.  Day Ahead means the trading day prior to the day of delivery, consistent with WSCC scheduling and trading practices.  Real-time means the actual Delivery Day.  Real-time deliveries shall be consistent with generally accepted WSCC scheduling timelines and practices."
+
+Take a look, give me a call.  Thanks.

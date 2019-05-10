@@ -1,0 +1,5 @@
+#992523 is the valid deal.  When the second deal was created, the deand charges should have been deleted.
+
+It has been fixed.
+
+Thanks

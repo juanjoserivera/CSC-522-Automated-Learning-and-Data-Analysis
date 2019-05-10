@@ -1,0 +1,3 @@
+financial contracts are 1-way
+
+you can obtain global contract numbers

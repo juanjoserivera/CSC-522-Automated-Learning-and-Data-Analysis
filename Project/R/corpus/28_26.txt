@@ -1,0 +1,1 @@
+For the 100mw, use 622332.  For the 622285, use 5062820

@@ -1,0 +1,36 @@
+OK Gang:
+
+Well, I,ve been crunching numbers all day, and haven,t yet gotten to the 
+writing.  I've attached Dylan's original responses for reference.  Figure 
+it'll be a memo from Time's CEO to the Time Board.
+
+I,ve leaving now for Mendocino, but will be back early tomorrow to finish 
+this up.  Please check out the spreadsheet.
+
+The case is sort of confusing*how do Time,s analysts value Time at $189-212, 
+when they,re trading at 109 the day before the announcement of the deal with 
+Warner.  That doesn,t jive.  Are they saying that, absent synergies, the 
+combined Time/Warner is worth the enterprise value of Time at 189-212 plus 
+the enterprise value of Warner at $63-71 (again, the analysts valuation)?  
+That just seems ridiculous, give where they,re trading.
+
+Anyway, here,s where my analysis is heading----tell me if I,m smoking crack.
+
+The deal isn,t really $175 per share.  It,s $175 LESS the taxes that will 
+have to paid (since it,s a purchase deal) PLUS the value of the tax shield 
+created by the net increase of $8.9B in new debt that Paramount will take 
+on.  Does this seem right?  Could folks look at my spreadsheet?  I,ve got it 
+conceptually set up, but I,m not quite sure how to calculate the taxes paid 
+under the purchase method or the value of the tax shield (assuming that this 
+is correct.  If I,m just completely out of it with this angle, just let me 
+know.  In any case, seems that there,s some value in the tax-free 
+(Time-Warner) versus the taxable (Time-Paramount) deals.  Presumably, we 
+could take the total enterprise value of Time-Warner (nontaxed) and compared 
+it to the total enterprise of Paramount-Time (taxed) and compare the two.  I,
+ve got a hunch that the Time-Warner number may win the day, but I haven,t 
+gotten that far in the crunching yet.
+
+In any case, I,ll be back around Noon tomorrow and will crank the puppy out.
+
+Best,
+Jeff

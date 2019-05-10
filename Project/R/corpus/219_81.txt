@@ -1,0 +1,3 @@
+This is not what i wanted.
+
+I wanted MTM value or Undiscounted cash per month, not necessarily per book. I.e. what will the books liquidate if prices dont move for Nov, Dec, Jan ect

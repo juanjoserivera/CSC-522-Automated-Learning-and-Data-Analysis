@@ -1,0 +1,6 @@
+Most everything we use on the public network is on the P:\\ drive in the following folder:
+
+\\napdx-dv1\common\Trading\California\CAScheduling\Cash\Position\SW
+
+Thank you,
+Holden

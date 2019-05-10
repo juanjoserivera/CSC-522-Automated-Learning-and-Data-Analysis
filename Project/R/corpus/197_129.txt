@@ -1,0 +1,10 @@
+Hi
+
+Donald is having an access violation when he tries to run the Path Confirmation Report. Vish is aware of this, and wants to do some investigating tomorrow, but I don't know if Donald will have time.  Maybe you can do this with Vish and Donald's Passwords?
+
+Stacy still has performance issues running the report launcher locally.
+
+
+I am just ducky.
+
+C

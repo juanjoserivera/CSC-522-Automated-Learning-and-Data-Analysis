@@ -1,0 +1,1 @@
+The imbalance becomes part of thecumulative imbalance subject to book-out/cash-out.  The alert day imbalances are treated differently - the alert day imbalances are settled at 200% of the high (weekly) index for overburns on an overage alert day and 50% of the low ( weekly) index for underburns on an underage alert day.

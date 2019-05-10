@@ -1,0 +1,3 @@
+Only inactivate those books that don't have a trader name next to it on the book request.  There are only a about 6 that should be inactivated.
+
+KK

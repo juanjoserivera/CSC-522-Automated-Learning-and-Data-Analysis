@@ -1,0 +1,8 @@
+You are correct, 
+The EOL trades were not properly acccounted for. 
+We need FSP 2000, not FSP 2002...
+I think we have it sorted out now though.
+
+But yeah, too much stress is never healthy...I don't know exactly what the deal is.
+
+Bill

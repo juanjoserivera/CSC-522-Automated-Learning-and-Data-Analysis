@@ -1,0 +1,2 @@
+I think the only other solution is to post two curves, one with an SP and one with PR.  You should be able to simply set up the same curves as risk type PR and have it look to the SP curve.   Then you would publish two curves with the exact same name and value, just two different risk types.  The only other option I see is to change the deals back to the "old" aeco curve that we used prior to this.
+PL

@@ -1,0 +1,5 @@
+I think I fixed the trailblazer path....the curve description on the curves tab didn't match the contract CB tab.  The ref# should go away once you roll it for today.  Try that this morning and let me know if it works.
+
+Thanks
+
+KK

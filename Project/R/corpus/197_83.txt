@@ -1,0 +1,6 @@
+Please see Stacy's sheet.
+
+Is it possible that if the "Get Now" button is pressed twice BEFORE results are given that this is done?
+
+
+It might help to grey out the GET Now button when it is pressed, and have it re-light when the New Data button has been pressed?

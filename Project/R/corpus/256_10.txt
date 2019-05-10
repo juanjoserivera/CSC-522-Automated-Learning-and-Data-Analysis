@@ -1,0 +1,4 @@
+The zone and UNA meter exist in sitara already. Two of the five meters that will be assigned 
+by schedulers need to be set up. As it is, the zone is mapped to Socal curves -
+but should be PG&E as you said below.
+Jason

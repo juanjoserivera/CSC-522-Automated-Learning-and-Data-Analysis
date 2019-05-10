@@ -1,0 +1,1 @@
+http://finance.yahoo.com/q?s=IPIX&d=c&k=c1&t=2y&l=on&z=m&q=l

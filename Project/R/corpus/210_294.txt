@@ -1,0 +1,5 @@
+Dave,
+
+Since I'm thinking of it, what we'd like to strive for is, for one, to be able to double click on the bars and get a list of the the plant outages that make up the total and also to be able to select date ranges.  Also, it would be be great to be able to be able to select daily or monthly averages over a day range or month range, respectively.  Maybe have the current page be the default with control boxes to modify the criteria.  
+
+Mat

@@ -1,0 +1,24 @@
+As far as Houston standards, they made sense to me and they seemed to have more expertise in the matter.  
+
+How bad did things get yesterday?
+
+
+
+
+
+From:	Robert Anderson/ENRON@enronXgate on 05/10/2001 10:51 AM CDT
+To:	Cooper Richey/CAL/ECT@ECT
+cc:	Tim Heizenrader/ENRON@enronXgate 
+Subject:	RE: Servers & Administration
+
+	
+Cooper -
+
+I think that the three of us should talk about this... however, unless Tim H disagrees, we should probably wait until after he has completed the scheduled meeting(s) that he has with PDX & Houston IT regarding the current policy issues. These meeting(s) should happen today or tomorrow. In the mean time, I will review this document.
+
+Clarification question: If we agree that, ideally, Houston is not going to handle administration of these servers, what is the basis of the decision to follow Houston standards? Is it that you agree with their conclusions or that you want to stay compliant? Just curious...
+
+As you point out, these issues have been long-time coming -- and if what happened yesterday is the price that we have to pay to get things running as smoothly and reliably as possible, then I am glad that it happened. Relative to the good that can come from this, we got a bargain!
+
+Take Care,
+Bob

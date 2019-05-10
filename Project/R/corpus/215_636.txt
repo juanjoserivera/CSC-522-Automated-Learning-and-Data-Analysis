@@ -1,0 +1,15 @@
+David --
+ 
+My thoughts.
+ 
+I would change the section "Reliability" to "Operations".  The Current framework is Non-standardized;  Poor Seams Interface
+ 
+Under Access to Transmission I would change it to say that "Not all Users on the System take service in a non-discriminatory manner."  Utilities can't discriminate versus like users.
+ 
+Under Generation - I would change "optional" to Optimal.
+ 
+I don't also understand the 99%.  Easier to say 100%*   * - Public Power recipricoity issues.
+ 
+Thanks,
+ 
+Jim

@@ -1,0 +1,13 @@
+Expected value of game = 1/2 * 0 + 1/4 * 1 + 1/8 *2 + 1/16 *4 +1/32 * 8+....
+			    = 0      	+.25 	+.25	+.25	+.25 	+...
+			    = infinity
+
+
+
+
+
+"Eva Pao" <epao@mba2002.hbs.edu> on 05/13/2001 03:11:46 PM
+Please respond to <epao@mba2002.hbs.edu>
+To:	<John.Arnold@enron.com>
+cc:	 
+Subject:	waiting

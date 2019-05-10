@@ -1,0 +1,5 @@
+I still think that Enron should be advocating some form of Negawatt program for non-retail access states.  Using an RTP tariff that more closely tracks the wholesale prices from an RTO balancing energy market with locational signals can be used without any retail access and can have the load response needed to keep prices from skyrocketing - of course this would require a DA market because the signals need to come in ahead of the usage.
+
+By the way, I disagree that we need a wholesale rate for capacity.  We should make sure that we put this in our comments on RTO Week.
+
+Jim

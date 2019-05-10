@@ -1,0 +1,5 @@
+Colin,
+
+Great.  As we discussed, we'll need the final query to list all counterparties for each product with net quantities stated for each day (dates listed as column headings) of the current month.  Ideally, the query will be executed daily and posted in html or xls on the Gas Fundy website.  I understand that we do not yet have permission from EOL to hit their database regularly and that you will have someone else from your team finish out this task.  I'm available today to help any way I can.  Thanks.
+
+Mat

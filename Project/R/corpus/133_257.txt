@@ -1,0 +1,5 @@
+1. move to the appropriate book based on the logic - Canadian deal needs to go to CAD
+2. should only have to change deals from NG-Price to bankruptcy (deals are not in any other book)
+3. The Canadian logic deals will probably be in GJ and the US logic should be in NG
+4. Financial only
+5. Cutoff date 1/1/2002

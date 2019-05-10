@@ -1,0 +1,3 @@
+Could we change the gas daily intra-month and index to GDM and GDY, rather than GDL and GDX.  Tell me how much trouble that is to change.  IT also made some changes to the physical org region names.  I will have to get you those changes.
+
+Thanks

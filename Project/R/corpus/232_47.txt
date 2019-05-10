@@ -1,0 +1,12 @@
+David,
+
+Diana Allen and the IT team are currently working on resovling the bad Zone P day ahead and real time data.  Diana told me that it was pulling the PJM data.  
+
+As far as the shift notes go:
+I talked to Rob Benson about the shift notes and he said that they have improved greatly.  The PJM summary page is pretty accurate (usually w/in 50 cents of the actual number).  The link for the spreadsheet is:  http://eastpower.test.corp.enron.com/portal/summary/pjmsummary.aspx  .. you might have been using an old version.  
+
+I will continue to manage the Northeast physical book.  It allows me to effectively hedge my long or short position in the off peak market. 
+
+Paul.
+
+While writing the e-mail Diana said that she fixed the Zone P problem.

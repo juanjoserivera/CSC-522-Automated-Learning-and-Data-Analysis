@@ -1,0 +1,3 @@
+Everything is lumped together, meaning price, basis, and index, in that file.
+
+DG

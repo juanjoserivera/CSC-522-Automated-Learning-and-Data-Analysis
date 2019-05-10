@@ -1,0 +1,11 @@
+We need to be able to monitor everything there is to see just as we would monitor a TW on NNG interconnect.  
+Along with the below mentioned items from Ben, we also need  All Accums, (previous and current 
+mmbtu and mmcf), All Flows both MMbtu and MMcf. on all runs, 2" rotary, 4" turbine meter, 10" ultra-sonic.
+All available History info..  This information request is for monitoring TW and El Paso at the Griffith Site.
+Gary, Steve, Dale please review and if you think we need anything else, now is the time to speak up.  We
+need as much information as possible to insure a smooth transition for gas control.  From what TW is 
+hearing we could take over the operation sometime next week.  
+Dale once we have the additional requests, will you foward them to Ben or would you like me to.  I will be 
+glad to help.  
+
+DS

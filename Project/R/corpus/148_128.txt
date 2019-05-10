@@ -1,0 +1,31 @@
+Shirley,
+
+Please find attached the excel file for the Financial desk.
+
+
+
+Thanks,
+
+Errol McLaughlin, X5-8274
+
+
+From: Shirley McDowell/ENRON@enronXgate on 04/18/2001 03:37 PM
+To: David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON
+cc: Jeffrey C Gossett/HOU/ECT@ECT, Stephen Stock/ENRON@enronXgate, Zhiyong 
+Wei/ENRON@enronXgate, Hal McKinney/ENRON@enronXgate, Kam Keiser/HOU/ECT@ECT, 
+Phillip M Love/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, Richard 
+Burchfield/ENRON@enronXgate 
+
+Subject: FW: TRV User Information Needed
+
+David and Errol -
+Please provide the information that was requested and distributed to you 
+(below) on April 4.  This information is needed to establish the TRV (Trader 
+Report Viewer) security setup.  In order to meet scheduled TRV development, 
+test, and implementation dates please provide your region's information to me 
+by 2:00pm tomorrow, Thursday, April 19.  
+
+Thank you for your immediate response.  Please let me know if you have any 
+questions or need additional information.  
+
+Shirley

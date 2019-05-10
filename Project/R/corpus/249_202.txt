@@ -1,0 +1,9 @@
+In order to point to the UBS environment in EnPower you need to change your PortCalc Host to the following.  This screen is reached through Tools - Option Environment.  Also, copy the PortCalc Host into your FTP Host:
+
+ 
+
+Let me know if you have any questions.
+
+Stacey
+
+<Embedded Picture (Device Independent Bitmap)>

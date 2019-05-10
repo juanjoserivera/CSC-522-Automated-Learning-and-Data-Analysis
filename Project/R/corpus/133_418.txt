@@ -1,0 +1,2 @@
+We can now calc the price book and we will cross reference the list with a fwd detail of the price book to verify there are no deals with terminated counter parties.  Because of the translation to the bankruptcy book, we can not calc the bankruptcy book for a while, so we will cross reference those in the morning.  I will keep you posted.
+PL

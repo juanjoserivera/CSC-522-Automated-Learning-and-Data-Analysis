@@ -1,0 +1,15 @@
+Tiffany
+
+This is the value by risk type as of Nov-30th.
+Price					$(1,252,140,705)
+Basis					$(230,828,141)
+Index					$(6,649,278)
+Gas Daily				$498,824
+Gas Daily Index			$3,984,475
+Canadian Gas Daily		$1,265,707
+Canadian Gas Daily Index	$44,840
+
+Let me know if this is what you needed.
+
+KK
+x3-5781

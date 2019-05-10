@@ -1,0 +1,1 @@
+Steve Stonestreet at CGAS did verify that metered production on CGAS is "attached" to the AS (aggregation service) contracts, and from there you would schedule it to a transport contract or into the IPP contract.  CGAS and Dominion work very similar when talking about metered production.

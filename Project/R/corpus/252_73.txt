@@ -1,0 +1,10 @@
+Group,
+
+Going forward we will be delivering parking or taking lending energy at one point per schedule with Portland General. We will either deliver or take energy from them at Portland General System. OR we will deliver or take energy from them at Mid-C. 
+
+PGE real-time has had difficulty with scheduling the energy in real-time to or from a point other than originally prescheduled. Therefore ONLY schedule the energy to or from the originally prescheduled delivery point. In the case below we would deliver the energy to Portland General System--NOT the MID-C.
+
+We should continue to be flexible at PGE's request. Please see me with any questions.
+
+Thanks,
+Bill

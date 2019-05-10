@@ -1,0 +1,18 @@
+probability   *	payout	=
+1 heads									.5		0	= 0
+   tails		2 heads 							.25		1 	= .25
+		    tails		3 heads					.125		2	= .25	
+				   tails		4 heads			.0625		4	= .25	
+						   tails		5 heads	.03125		8	= .25
+
+
+
+
+"Eva Pao" <epao@mba2002.hbs.edu> on 05/13/2001 03:23:47 PM
+Please respond to <epao@mba2002.hbs.edu>
+To:	<John.Arnold@enron.com>
+cc:	 
+Subject:	RE: waiting
+
+
+which game is that?

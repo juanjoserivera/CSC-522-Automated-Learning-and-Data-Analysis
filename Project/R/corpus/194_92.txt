@@ -1,0 +1,5 @@
+Sell 60 June, 2001 NYMEX Contracts @ $3.87
+Sell 40 June, 2001 NYMEX Contracts @ $3.805
+Buy 250 June, 2001 NYMEX Contracts @ 3.738
+
+Sell 100 July, 2001 NYMEX Contracts @$3.87

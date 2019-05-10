@@ -1,0 +1,4 @@
+Group,
+When tiering adjustment bids, the CAISO system will not read more than 10 bids. Also, remember to have the tier monotically increasing.
+Thanks,
+Bill

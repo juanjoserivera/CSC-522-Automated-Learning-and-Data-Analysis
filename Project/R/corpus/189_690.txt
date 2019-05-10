@@ -1,0 +1,26 @@
+When I try to approve this, I get a message that the approval was already 
+assigned to Michelle Cash. What gives?
+
+
+
+	ARSystem <ARSystem@mailman.enron.com>
+	03/19/2001 07:22 PM
+		 
+		 To: "richard.b.sanders@enron.com" <richard.b.sanders@enron.com>
+		 cc: 
+		 Subject: Your Approval is Overdue: Access Request for andrew.edison@enron.com
+
+
+This request has been pending your approval for  5 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000023375&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000023375
+Request Create Date : 3/13/01 10:24:06 AM
+Requested For       : andrew.edison@enron.com
+Resource Name       : Live Link
+Resource Type       : Applications

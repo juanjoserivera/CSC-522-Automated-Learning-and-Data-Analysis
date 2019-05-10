@@ -1,0 +1,6 @@
+Tim,
+
+I typically do not like to give access to m:\common\power\ directory as this is where all the DPR information is.  A member of your fundamentals team, Maria Van Houton, would like access to the drive in order to access curve data that the risk group puts together.  If this is o.k. with you I will approve, otherwise I will tell her to get the information from the curve directory m:\power2\region.
+
+Thanks,
+Stacey

@@ -1,0 +1,6 @@
+Sell 100 July, 2001 NYMEX Contracts @ $3.825
+Buy 50 July, 2001 NYMEX Contracts @ $3.775
+
+Open position is short 50 July, 2001 NYMEX Contracts @ $3.825
+Settlement was $3.79
+July, 2001 profit to date is $190,000

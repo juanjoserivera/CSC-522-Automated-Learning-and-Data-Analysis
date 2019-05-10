@@ -1,0 +1,9 @@
+When I try to search offers I get the following error message:
+
+
+
+
+
+
+The DBAccess Componet is NOT Installed. Please contact the system 
+administrator.

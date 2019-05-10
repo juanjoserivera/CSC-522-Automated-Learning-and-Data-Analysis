@@ -1,0 +1,61 @@
+Louise - These are excerpts from the most recent version of the PPM I thought 
+you might want to see.  The document itself is attached.  It strikes me that 
+there are some remaining inaccuracies here but I don't know how strongly you 
+feel about them.
+
+PPM Page 12
+The unique technology behind EnronOnline is primarily based on the 
+proprietary price manager software that Enron has developed to allow 
+real-time price updates to be displayed.  The price manager is a system that 
+allows traders to manipulate the prices displayed based on activity on the 
+site and in the marketplace.  The system can be set up to increase or 
+decrease posted bid/offers by a certain dollar amount in response to market 
+movement or to a sale or purchase of a specific product.  The system also has 
+capability to link several products and adjust prices with the movement of 
+any other product.  Traders continually monitor these movements and can 
+override or change a price at any time and the site will be automatically 
+updated, thereby providing a liquid market at all times for the customers.  
+Finally, the system is also capable of customizing some trades by combining 
+the appropriate underlying transactions.
+
+
+PPM Page 22
+Louise Kitchen
+Managing Director - EnronOnline
+ENW
+Louise Kitchen is President and COO of EnronOnline and has managed the 
+business since the initiation of the project in November 1999.  Louise was 
+responsible for the development and launch of EnronOnline and remains 
+responsible for the ongoing operation of the business.  Louise ran Enron,s 
+retail operation in the U.K. from 1997 to 1999, where she introduced 
+electricity sales as an incremental offering to natural gas, which led to a 
+ten-fold increase in the customer base.  She joined Enron in the spring of 
+1994, with responsibility for building a gas trading business for Enron in 
+Europe.  Prior to joining Enron, Louise was employed by PowerGen, where she 
+worked in electricity trading before taking responsibility for PowerGen,s gas 
+trading activities.  Louise received her Bachelor of Arts in Economics and 
+French at Kingston University. 
+
+
+PPM Page 25
+
+The EnronOnline system is capable of handling over 3,000 price changes each 
+minute, which is necessary to keep up with a volatile marketplace and to keep 
+the best price available at all times.  Also built into this system are 
+checks and balances from risk control policies that monitor all positions and 
+manage risk.  
+
+[and very similar to the excerpt from page 12 above]
+The unique technology behind EnronOnline is primarily based on the 
+proprietary price manager software that Enron has developed to allow 
+real-time price updates to be displayed.  The price manager is a system that 
+allows traders to manipulate the prices displayed based on activity on the 
+site and in the marketplace.  The system can be set up to increase or 
+decrease posted bid/offers by a certain dollar amount in response to market 
+movement or to a sale or purchase of a specific product.  The system also has 
+capability to link several products and adjust prices with the movement of 
+any other product.  Traders continually monitor these movements and can 
+override or change a price at any time.  The site is automatically updated, 
+thereby providing a liquid market at all times for the customers.  Finally, 
+the system is also capable of customizing some trades by combining the 
+appropriate underlying transactions to satisfy the request of the purchaser.

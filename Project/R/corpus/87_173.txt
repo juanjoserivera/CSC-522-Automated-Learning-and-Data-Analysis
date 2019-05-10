@@ -1,0 +1,1 @@
+Ok, but make sure the documentation of the email follows the invoice for the payment, otherwise we will have to go back to him to appriove the payment.   On the otherhand, there is no reason that a DASH can't be used for non-discretionary approvals as well, and if it doesn't have to go to RAC, then it doesn't.

@@ -1,0 +1,6 @@
+intercompany trades do not necessarily terminate upon bankruptcy - the parties don't have to perform but for valuation purposes the market positions are not terminated until notice is sent.  I've been talking to Jim and others to help determine when we should get the trades officially terminated.  This issue needs to be addressed soon.
+ 
+
+
+Elizabeth Sager 
+713-853-6349

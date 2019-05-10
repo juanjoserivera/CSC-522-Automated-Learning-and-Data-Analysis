@@ -1,0 +1,6 @@
+We have decided to name our books FB-West1 thru 10......for each region
+
+We will have a matrix saved for everyone to be able to look at with the book names, trader names, sitara books, P&L file name, global id, and everything else that anyone might want to see.  I think this will make things more consistent than coming up with new stupid names like before.  All books, including the financial books, will have the same portfolio and book codes.  Physical books will be seperate but will all be the same.
+
+
+KK

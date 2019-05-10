@@ -1,0 +1,1 @@
+It only shows a draft sent, no executed contract.

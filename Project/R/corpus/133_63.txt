@@ -1,0 +1,2 @@
+I have set up the new basis curves for West and the are based off the old curves, so they are in the old format.  They are located in the Netco Directory under west/curves/CA BASIS NEW and WEST BASIS NEW.  I am still working on GDY and Phy/GD.  The Phy/GD is in the new format and will be located in the same directory as the above, with the title West phys curves.  GDY will be in the same location as filename West GDY and it is also in the new format.  The phys/GD file will be complete tomorrow and the GDY will be done today.
+PL

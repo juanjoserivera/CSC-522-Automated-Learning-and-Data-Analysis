@@ -1,0 +1,1 @@
+It's showing the percentage of capacity subscribed vs. total capacity.

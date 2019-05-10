@@ -1,0 +1,20 @@
+Received test message.
+
+
+   
+	Enron North America Corp.
+	
+	From:  Greg Piper @ ENRON                           05/17/2000 12:03 PM
+	
+
+To: gwhalle@ect.enron.com
+cc:  
+Subject: Test
+
+Test message from Tech Support via Greg testing his address book.  Please 
+reply with a click on the reply button.  
+
+Thanks,
+
+Vel A. Watkins
+Tech Support

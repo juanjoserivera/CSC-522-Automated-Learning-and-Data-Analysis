@@ -1,0 +1,15 @@
+Colin,
+
+I left you a message at your hotel, but will try here as well.
+
+give me a call when you get a chance
+
+work 	403 974 6946
+cell	403 512 3312
+
+basically, the olap server is unresponsive (hangs IE when a cube is brought up)  and Chris
+can't get a pulse using the OLAP manager.  We're contemplating rebooting the dev box, but
+are afraid this will trigger the cube deletions we saw before.  any other tactics you can think 
+of?
+
+Cooper

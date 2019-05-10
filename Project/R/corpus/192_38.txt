@@ -1,0 +1,3 @@
+I talked to Arvina this morning and she noticed that she has calculated the loss return using the wrong indicies.  She will be fixing that this morning.  I am attaching a summary of the loss return calculation and a quick summary of checking I did against Arvina spreadsheet.  There is a deal that we entered in differently, but the net result is the same.  
+
+Diana

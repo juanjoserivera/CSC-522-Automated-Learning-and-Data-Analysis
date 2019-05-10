@@ -1,0 +1,3 @@
+Kim: 
+
+A very general question:  shouldn't all of the financial power templates provide for corrections to published prices and rounding to four places for commodities quoted in MMBtus?  Your template does not contain either of these.

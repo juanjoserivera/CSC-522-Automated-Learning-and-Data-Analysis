@@ -1,0 +1,82 @@
+Kim,
+ Stacy (Dickson) Granmayeh has reviewed the proposed Master Contract that you 
+drafted for enovate, L.L.C. and I have likewise reviewed the proposed Master 
+Contract that you forwarded to Enron North America Corp.
+
+ As I indicated earlier, these contracts are similar to the contract we 
+started with last year in documenting the transaction that was ultimately 
+entered into.  I recall providing a copy of our Sample Enfolio Master Firm 
+Purchase/Sale Agreement together with the credit departments requirements 
+which they required in order to enter into the transaction.  I am told that 
+those credit requirements relating to triggering events and collateral 
+threshold will also be necessary before Enron North America Corp. can enter 
+into a transaction this year.
+
+ Unless I specifically state that a comment relates to enovate or to Enron, 
+these comments relate to both entities.
+
+ 1. The correct name for enovate is:  enovate, L.L.C.
+
+ 2. Change the Confirming Party in Section 3.12 to Seller.
+
+ 3. Section 4.1 needs to be altered in such a way to make the verbal 
+agreement of the Parties binding at the time of the phone call.  As written, 
+any agreement between the Parties is not binding until a Transaction 
+Confirmation is executed by both Parties.
+
+ 4. The word "Contract" in Section 5.1.1.b. should be changed to 
+"Transaction".
+
+ 5. The concept of "Point(s) of Receipt" and "Point(s) of Sale" need to be 
+collapsed into Point(s) of Delivery at which point title and possession is 
+transferred from the Seller to the Buyer. No need for two separate concepts.
+
+ 6. Delete Sections 6.5 and 6.6 in their entireties.
+
+ 7. Alter Section 8.3.3 concerning Locked Prices in such a way to make the 
+Locked Prices binding at the time of the phone call; not upon the passage of 
+48 hours for receipt of confirmation.
+
+ 8. The term "Commodity Charge Index Adjustment" used in Section 8.1, 8.2 and 
+8.3 needs to be defined.
+
+ 9. The first sentence of Section 10.3 should be altered to delete the last 
+phrase &of the negligence of the other Party8 and include the following 
+phrase in its place:  &the gross negligence, willful misconduct or bad faith 
+of the other Party.8
+ 
+ 10. Delete the phrase &(not via facsimile)8 from the first sentence of 
+Section 12.1.
+
+ 11. Add the following phrase at the end of Section 15.3: &; the loss of 
+Buyer,s Markets; or Buyer,s inability economically to use or resell gas 
+purchased hereunder.8
+
+ 12. Delete the phrase &or Buyer or Seller claims force majeure for a period 
+exceeding seven (7) cumulative days or five (5) consecutive days during the 
+Transaction Term8 in Section 16.1.b.
+
+ 13. Add the following sentence to the end of Section 16.1.e:  &Party fails 
+to perform any covenant set forth in this Contract.8
+
+ 14. Delete the third sentence of Section 16.2 in its entirety.
+
+ 15. Delete Section 16.3.d in its entirety.
+
+ 16. The Corporate Guarantee in Section 19 should be a payment guarantee not 
+a performance guarantee.
+
+ 17. With regard to enovate, change &Wisconsin8 to &Illinois8 in Section 
+21.5; and with regard to Enron, change "Wisconsin" to "Texas" in Section 21.5.
+
+ 18. Section 21.7 requires &mutual execution of an appropriate supplemental 
+written Transaction Confirmation8 for an effective modification.  This 
+conflicts with Section 8.3.3, which does not require execution of a 
+Transaction Confirmation for a Locked Price.
+
+ 19. Delete Section 22.e in its entirety.
+
+ 20. In Exhibit A, delete Section 12, Regulatory Contingency, in its entirety.
+
+ Please review the foregoing and provide revised contracts to both enovate 
+and Enron for further review in accordance with the foregoing matters.

@@ -1,0 +1,18 @@
+When operational capacity changes during any cycle the below comments will need to inserted into the point
+or group comment section in CAS. 
+1.  Socal Window
+2.  Low line pack inventory
+3.  I/C or plant non performance
+4.  High line pack inventory
+5.  Compression status
+6.  Other
+  
+*During normal business hours except for Evening and ID-2, Myself, Gary, Steve, Terry, or John should be 
+ responsible for loading comments into CAS unless the Reps. have been given the directive to update comments.
+*Weekends, and Holidays, Reps. will be loading comments into CAS.
+*When new points or groups show up to be allocated that have not previously been allocated, you will need
+ to page me or in my absence Gary, Steve.  We will let you know what to do with the capacity either update
+ or allocate.  
+If you have any questions please call me or page.
+
+Thanks DS

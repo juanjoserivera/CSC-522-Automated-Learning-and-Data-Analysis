@@ -1,0 +1,53 @@
+I've made a list of issues Heather and I have discussed based on VEPCO's 
+suggested revisions.  Some of the issues are commercial, some legal, some 
+just reminders.  Comments are appreciated.
+
+1. Term.  What will we accept?
+
+2. Availability:  single computation despite source of power (market or 
+facility). Is forced outage the correct concept since we want to have some 
+discretion, and LD structure should apply even if power coming from the 
+market?  Note VEPCO,s insertion of a new event of default under 7.1 for 
+failure to deliver energy when the Facility is not in a forced outage.  
+Liquidated damages language still ok?  LD,s should apply regardless of 
+scheduled source of power ) no cost of cover for market power.
+
+3. Our position is that Contract Capacity set at contract signing, then 
+adjusted (if necessary) based on performance tests, not subject to adjustment 
+after that time: ditto for the demand charge.  What is the right number for 
+the Capacity?  Is there a benefit to Enron to have a correction curve exhibit?
+
+4. Failure to complete facility suggested as a termination event.  Is 
+September long enough?
+
+5. We need to be able to supply from either or both sources (market and 
+facility) during a day, but this doesn,t give us right to change during the 
+day after the schedule is set.
+
+6. Note the Start Up definition (as suggested by VEPCO) and how it is 
+applied.  Reject 50% requirement at this point, subject to their explanation.
+
+7. Note: construction of the facility now required (2.3). 
+
+8. Define commercial operation.
+
+9. Confirm that Enron has sufficient protection from interconnection 
+failures/delays.
+
+10. Day ahead scheduling (3.4)  Are we ready to commit?
+
+11. Number of start ups. (2.3 e)
+
+12. Force majeure ) consistency with interconnection agreement, relief for 
+certain equipment failures.  Is concept logically developed throughout the 
+document?  Note distinction between market and facility power in force 
+majeure language.
+
+13. Dispute resolution:  arbitration vs. litigation/venue. Virginia law?
+
+14. Change in law.  Counter with CIL as termination event?
+
+15. Exhibit A ) Heather is working on this.
+
+
+Kay

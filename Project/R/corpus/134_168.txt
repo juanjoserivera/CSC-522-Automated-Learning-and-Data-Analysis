@@ -1,0 +1,3 @@
+I small adjustment I uncovered - the Saxet adjustment of $(46,505) should be 
+in Feb 2000 production instead of Jan 2000.
+PL

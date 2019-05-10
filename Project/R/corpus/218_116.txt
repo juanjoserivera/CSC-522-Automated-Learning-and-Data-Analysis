@@ -1,0 +1,3 @@
+When I go into the publication area to add magazines nothing happens. I added 
+Megawatt Daily and Electric Power Daily and then hit the finished button, at this point 
+nothing happens.

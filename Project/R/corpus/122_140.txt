@@ -1,0 +1,1 @@
+ok - let me know when you guys can try to come up with a solution.  also, mike would like to know if eol can work on a new functionality that would allow a trader to create a fixed price physical product that could link to price, basis, and index in order to prevent arb opportunities from the market.  any ideas on that?

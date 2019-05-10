@@ -1,0 +1,6 @@
+We need to be able to rely on the repeated running of the build route. Running a month long sheet from scratch is a huge problem for us, it forces us to do massive amounts of work over and over again.
+
+I need you to find out why this is happening, and let me know when it is fixed.
+
+
+Cara

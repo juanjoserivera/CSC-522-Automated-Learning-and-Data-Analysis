@@ -1,0 +1,57 @@
+David;
+
+Here are our initial thoughts regarding the Posting Agreement form.  I should 
+be in all day today and tomorrow.  Please feel free to call to discuss.
+
+At the closing of the Transaction, the Company and Enron will enter into a 
+&Posting Agreement8 pursuant to which Enron will agree to post prices for 
+certain products to the Company,s platform in a manner that permits the 
+Company,s customers to electronically attempt to transact, through the 
+Company,s website but on EOL,s database, with respect to Subject Products 
+(defined below).  
+
+The Company will provide, at the Company,s expense and in accordance with 
+Enron,s specifications and technical requirements t[specifications annex?], 
+an interface which will be used by Enron to post prices for Subject Products 
+on the Company,s website.  Enron will provide, at Enron,s expense and in 
+accordance with Enron,s specifications and technical requirements [annex?], 
+an interface for the Company,s customers to attempt transactions (as 
+discussed below) on the EOL database.  The parties will also establish a 
+credit interface to facilitate Enron,s credit decisions with respect to 
+attempted transactions.
+
+The Company,s customers will be permitted to attempt to transact against 
+prices posted by Enron at Enron,s sole discretion.  Accordingly, prices 
+posted by Enron on the Company,s website shall not be deemed to be offers to 
+sell or buy, and all attempted transactions must be validated against the EOL 
+database in accordance with EOL,s customary operating policies and 
+practices.  The point of contract for all transactions consummated on prices 
+that are posted by Enron shall be the EOL database, and all of such 
+transactions will be consummated pursuant to EOL,s General Terms and 
+Conditions, or the terms of a master agreement between the Company,s customer 
+and Enron, if any.  [manner in which the Company,s customers will agree to 
+transact under EOL,s General Terms and Conditions] 
+
+[process of and responsibility for &mapping8 the products offered by the 
+Company and the prices posted by Enron in order to ensure accurate matching 
+of Subject Products between the Company,s website and EOL,s database]
+
+Enron will not be required to pay to the Company any commission or other 
+charge with respect to any transaction completed with EOL through the Company,
+s Platform.  Commissions charged to those customers completing transactions 
+with EOL shall not exceed the Company,s standard rates.  Each party shall be 
+solely responsible for the costs and expenses of operating and maintaining 
+its respective platform; the Company will be responsible for all 
+telecommunication costs and expenses from the Company,s website to EOL,s 
+website. 
+
+Prior to Closing, the Company and Enron will agree to specific products with 
+respect to which Enron will post prices on the Company,s Platform (the 
+Subject Products8).  Products may be added or deleted by subsequent agreement 
+of the parties, but Enron shall have no obligation to post prices with 
+respect to products for which it then does not post prices on EOL, or to 
+otherwise act in a manner that is inconsistent with or contrary to its 
+business methods, practices or policies employed on EOL.
+
+[Circumstances under which the Agreement may be terminated by a party, and 
+consequences of either party,s breach of the Agreement]

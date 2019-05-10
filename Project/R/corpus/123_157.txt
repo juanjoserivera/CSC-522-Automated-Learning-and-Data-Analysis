@@ -1,0 +1,1 @@
+It's more related to the size of this transaction and the fact that the transport model apparently doesn't calc var.  I have no fundamental concerns but this one hit me from left field.  On our other issue, I working on getting something in front of you this week.

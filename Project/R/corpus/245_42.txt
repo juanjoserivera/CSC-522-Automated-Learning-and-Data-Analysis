@@ -1,0 +1,23 @@
+Here is an excerpt from my write-up on my projects....
+
+3.  Agricultural Modeling
+
+In an effort to help the Financial Trading Group begin effectively trading ag 
+commodities, we have attempted to locate a commercially available crop model 
+to predict macro-crop effects based on real-time weather data and forward 
+weather scenarios.  We have purchased a model known as DSSAT, which is highly 
+regarded in the agricultural modeling community.  One of the primary authors 
+of this software, Joe Ritchie, has recently retired from Michigan State 
+University and is moving to Texas.  Dr. Ritchie ahs expressed interest in 
+providing assistance to us in setting up this software.  His new address is 
+217 Camino Principal, Belton, Texas 76513 and telephone is 254-933-7742.
+His colleague, Dr. Gerritt Hoogenboom, at the University of Georgia has 
+confirmed that this is the best software for our needs and that Dr. Ritchie 
+would be ideal for providing us the help that we need.
+
+A second software product known as &Pcyield8 has been suggested.  Pcyield is 
+based on the DSSAT model but is supposed to be more user friendly.  However, 
+Dr. Hoogenboom has suggested that the DSSAT model that we purchased is 
+probably the better fit for our needs.  The salesman for Pcyield is named 
+Bill Bodine and he works for a company called Mpower 3.  He has indicated 
+that he wants to visit us in Houston on February 2nd.

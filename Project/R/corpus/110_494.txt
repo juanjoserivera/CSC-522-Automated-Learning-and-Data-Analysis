@@ -1,0 +1,10 @@
+Hello Chris,
+
+Thanks for your message.  The first two pages look like an good opening to an article on
+a spark spread option.
+
+A few comments.
+
+1. A spark spread model has two primary uses. It can be used for pricing stand alone options
+traded in the OTC markets and also can be used as foundation stone for a real options valuation
+model of a generation plant.

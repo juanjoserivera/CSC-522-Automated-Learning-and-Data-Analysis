@@ -1,0 +1,11 @@
+Alan,
+
+I have a few questions regarding the emminent implementation of the new target pricing mechanism.
+1. Does uninstructed energy still get paid (if not, we cannot hedge financials)
+2. The CISO Table 1. lists an unintended consequence as " Target price may be manipulated due to no obligation to deliver"
+	Why is there no obligation to deliver?
+3. Is there still a load deviation penalty? Or would that be considered seperately?
+
+Thanks for the help.
+
+Bill

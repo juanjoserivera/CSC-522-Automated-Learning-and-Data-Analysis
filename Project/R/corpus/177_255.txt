@@ -1,0 +1,22 @@
+These are to bring the Alberta Power Decision Support Web Hosting infrastructure up to 
+the Houston hardware spec (2 servers required)
+
+Also. I'm contemplating using this configuration to replace the box running
+things under my desk at the moment (2 servers required)
+
+
+
+
+
+From:	Todd Bowen/ENRON@enronXgate on 05/09/2001 04:33 PM CDT
+To:	Cooper Richey/CAL/ECT@ECT
+cc:	 
+Subject:	FW: Price Quote for Pizza Boxes for Power...
+
+Cooper,
+ 
+Please reply to me and explain again what this is for... I lost the thread.
+ 
+Regards,
+ 
+Todd

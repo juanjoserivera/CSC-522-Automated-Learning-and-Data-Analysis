@@ -1,0 +1,1 @@
+If we have not located any dealmaker interested in this counterparty can we close out this counterparty and get it out of the work cue?

@@ -1,0 +1,11 @@
+---------------------------
+Microsoft Visual C++ Runtime Library
+---------------------------
+Runtime Error!
+
+Program: C:\Reuters\Desktop\kobra\kernel\winnt\bin\kobra.exe
+
+ abnormal program termination 
+---------------------------
+OK   
+---------------------------

@@ -1,0 +1,66 @@
+It looks a good deal to me.  Mark
+
+
+
+	Peter Keohane
+	05/09/2001 09:56 AM
+		 
+		 To: John J Lavorato/Enron@EnronXGate, Mark E Haedicke/HOU/ECT@ECT
+		 cc: Rob Milnthorp/CAL/ECT@ECT, Sharon Crawford/CAL/ECT@ECT
+		 Subject: NGX Final Settlement
+
+SOLICITOR/CLIENT PRIVILEGED COMMUNICATION
+
+John and Mark, we have finalized our negotiations with NGX and have received 
+from them final executed paper for our execution.  All of them (NGX, OM, 
+Enerdata and Zarzeczny) have agreed (with the exception of Westcoast, who is 
+not really relevant and who sold out their position in NGX to OM after 
+commencement of the litigation).  
+By its terms, we have until Friday to confirm our agreement.  The key terms 
+are:
+1. EOL third-party transaction data will be included in the index on a 
+real-time basis;
+2. Other electronic trading systems may have their data included in the index 
+if they meet the criteria for inclusion (similar product, audit rights) (i.e. 
+we deleted the "most favour nations" requirement for inclusion of other 
+systems not being on more favourable terms);
+3. Enron pays a one-time C$25,000 set-up fee;
+4. Enron pays an index management fee of C$5,000 per month, unless Enron 
+trades at least 50,000 TJ,s per month on NGX;
+6. Enron pays normal NGX trading fees;
+7. Enron pays no audit fees or other fees or costs;
+8. Lawsuit is released with everybody bearing their own costs;
+9. Enron agrees to confidential audit rights to independent auditor ) but no 
+customer information is provided to NGX;
+10. No non-compete.  Enron is expressly allowed to:
+ (a) develop, establish, publish or promote any alternative or competing 
+index: 
+ (b) post, settle against, or use in any transaction, any alternative or 
+competing index;
+ (c) provide information to Gas Daily and Inside FERC, etc;
+ (d) display any transactional information on EOL; 
+11. Term is 3 years, commencing after information transfer systems are in 
+place, but not later than Dec. 31 (failing which lawsuit is revived, but 
+against NGX only);
+12. Enron can terminate at any time on 60 days notice (but lawsuit is 
+released);
+13. Enron can terminate at any time for NGX breach (lawsuit is revived, but 
+against NGX only);
+14. NGX can change its products and Enron has the option to change and be 
+included or not to change;
+15. The method for calculating and compiling the index cannot be changed in 
+the future without our approval, and the agreements between NGX and Enerdata 
+which give NGX the rights to the index cannot be amended or terminated 
+without our consent;
+16. Deal is subject to ENA senior management approval by Friday; and
+17. The above has been approved and executed by NGX, OM, Enerdata and 
+Zarzeczny.
+This has been a tremendous amount of work with little involvement by outside 
+counsel.  Both Rob and I believe it is an excellent deal for Enron given the 
+fact that pursuing the lawsuit will be extremely costly (both in terms of 
+expenses and the time and effort of dedicating resources to the litigation) 
+and difficult to litigate.  The deal really amounts to an option to Enron to 
+have its EOL data included in the index for C$25,000 and releasing the 
+lawsuit.  Please let me know by Friday if we want to execute.
+
+Regards, Peter.

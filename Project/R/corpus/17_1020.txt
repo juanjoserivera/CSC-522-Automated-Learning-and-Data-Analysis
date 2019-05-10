@@ -1,0 +1,1 @@
+Yes, I think that it makes sense to keep the system available over the weekend for the foreseeable future.  I had operations teams accessing critical data, available only in SAP, on Friday evening and Sunday this past weekend.  It is very likely that our need to do so will continue, unlimited to weekdays.  Thanks.  --Sally

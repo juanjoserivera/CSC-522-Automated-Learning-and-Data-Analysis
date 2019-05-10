@@ -1,0 +1,59 @@
+Steve and Lindy, as I mentioned in our staff meeting, it is probably not 
+going to be possible to solve our max rate cap dilemma by making a tariff 
+filing unless we can 1) get FERC to change its mind about its policy that 
+recourse rates always be available as an alternative to negotiated rates or 
+2) prove that Transwestern lacks market power and should therefore be allowed 
+to charge market based rates.
+
+The following is a very brief outline of what would be required to prove lack 
+of market power.  A warning:  lack of market power is very difficult to 
+prove.  Koch, a pipeline that most in the industry would agree does lack 
+market power, tried and failed.  The deck is already stacked against us in 
+TW's case given the withholding of capacity by El Paso's affiliate and the 
+price conditions in California.  However, we do need to analyze the 
+possibilities for TW, if not to the Cal. border, then on other parts of our 
+system.  Additionally, we need to discuss acceptable incentives for shippers 
+to pay negotiated rates if we do not end up changing our tariff.
+
+Would you be availabile on Tuesday to discuss this?  Please let me know.  In 
+the meantime, here is a summary of FERC's policy on market based rates.
+
+***
+
+To obtain authority to charge market based rates, TW would first have to 
+request a declaratory order, and in its application provide information 
+showing it meets the requirements outlined below.  If the Commission finds 
+all requirements have been met, it will issue an order and TW would then make 
+the appropriate tariff filing to put market based rates into effect.
+ 
+Application for declaratory order must include:
+
+1.  Detailed description of the services proposed for market-based rate 
+treatment.  I assume in our case it would be firm transportation service.
+
+2.  A statement defining the relevant product and geographic markets 
+necessary for establishing the applicant lacks market power with respect to 
+the services at issue.  The Commission requires a narrow definition of the 
+market("firm transportation" is probably narrow enough, but for our purposes 
+we might want to narrow it down more (i.e., firm transportation East of 
+Thoreau).  We have to define substitute services available to shippers(other 
+pipelines are a "good substitute" only if shippers can obtain the same 
+quality of service on a timely basis, and if the other pipelines offer such 
+service at a price that would deter TW from raising its prices more than 
+10%.  All relevant "origin markets" must be defined (Panhandle; West Texas) 
+as well as "destination markets," and alternatives for shippers in those 
+markets identified.  Transportation alternatives are only good alternatives 
+if they provide a netback to shippers that is roughly the same as if they 
+used TW.  Note that the Commission has rejected capacity release as a good 
+alternative since it does not guarantee a shipper its desired contract 
+quantity.
+
+3.  Market share and HHI calculations; discussion of other relevant 
+competitive factors.  Commission looks at size of market share, mitigating 
+factors such as ease of entry, and market concentration as measured by HHI.  
+Market concentration has to be calculated for each relevant receipt point and 
+delivery point.  HHI is calculated by adding up the total market share and 
+squaring it.  There is a presumption of no ease of entry for transportation 
+services  because of the expense involved in constructing facilities.
+
+4.  Proposal for accounting for costs and revenues.

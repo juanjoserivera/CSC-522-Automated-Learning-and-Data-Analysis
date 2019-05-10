@@ -1,0 +1,9 @@
+I made a couple of suggestions on slide 17: a wording change in the first 
+bullet and I dropped ECT from the example list -- I think the EES and EBS 
+examples are more alike and make the point more cleanly.
+
+I think showing the ranges for MDs on slides 14 and 19 is fine.
+
+I didn't see a reference to the possibility of an EMD level.  I think that's 
+probably OK -- Jeff can still speak to it if he wants to when he discusses 
+the ranges in the MD level.

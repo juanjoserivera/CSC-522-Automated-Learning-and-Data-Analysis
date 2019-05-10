@@ -1,0 +1,7 @@
+Sanjeev,
+
+Could you run the detail for these post-id's in grey.  These are the physical post-id's that were excluded from the original request.  You don't need to run the other post-id's, just the new column I.
+
+Thanks again,
+
+Kam

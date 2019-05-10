@@ -1,0 +1,124 @@
+Contact Steve Walton
+
+
+
+	Eric Hirst <Eric@EHirst.com>
+	11/10/2000 10:03 AM
+		 
+		 To: Skean@enron.com (Steve Kean)
+		 cc: 
+		 Subject: Outline for Project on Real-Time Markets
+
+Dear Steve,
+
+Once again, I call on you for advice. Who, within Enron, should I talk with 
+about a new project I am working on, related to real-time balancing 
+operations and markets (all the messy stuff that causes so many problems 
+within all the existing ISOs)?
+
+Here is the outline for the project. Can you send me your suggestions on 
+revising the outline, other people at Enron (and elsewhere) to contact 
+related to these markets, and written materials on how the various ISO 
+markets operate. 
+
+Thanks.
+
+Eric
+----------------
+ISSUES TO DISCUSS FOR PROJECT ON:
+REAL-TIME BALANCING OPERATIONS AND MARKETS
+November 6, 2000
+
+1. Introduction: Importance of real-time operations and markets 
+Essential for reliability, especially security 
+Basis for all forward contracts (hour- and day-ahead, block monthlies, 
+bilaterals) 
+Real-time prices motivate generation-capacity decisions: new construction, 
+repowering, retirements 
+Ensure equitable treatment for &new8 intermittent and distributed resources 
+2. Physical Requirements and Operations 
+Balance generation to load in near-real time (intrahour) 
+Normal conditions (frequency response, CPS1, CPS2) 
+Contingency conditions (DCS) 
+In neither case is it necessary for generation to exactly balance load over 
+short time periods (e.g., 10 minutes), but must balance energy over longer 
+intervals 
+Benefits of aggregation 
+Performance and characteristics of individual generation and load resources: 
+random fluctuations, energy level, ramp rate, acceleration rate, startup 
+time, minimum run time, block loading, energy-limited characteristics of 
+hydro units, etc 
+Control-area balance vs individual-schedule balance, good vs bad inadvertent 
+interchange 
+NERC and FERC requirements 
+3. Operations with Vertically Integrated Utilities 
+Unit commitment 
+Economic dispatch 
+Regulation 
+Contingency reserves 
+Control area forecasts of loads and resources, effects of forecasts on unit 
+commitment and dispatch 
+Treatment of (payments and penalties for) energy imbalance and inadvertent 
+interchange 
+4. RTO Operations and Markets 
+Generation not owned by RTO, RTO must purchase outputs from generation and 
+load resources 
+Relationship between real-time operations and markets, how are resources 
+dispatched (and by whom) and how are they compensated 
+Time interval (1, 5, 10, or 15 minutes) for dispatch and price setting; what 
+are the tradeoffs in choosing among these intervals 
+Single market-clearing price in each interval vs pay-as-bid for each resource 
+Pay for energy only or pay also for maneuverability (e.g., ramp and 
+acceleration rates); how do resource constraints determine which resources 
+are permitted to set the market-clearing price and which aren't, and why? 
+Set prices ex ante or ex post? If prices set ex ante, what is the basis for 
+the value? 
+Should unit commitment (resource scheduling) be done by individual suppliers, 
+by RTO, or both? 
+Relationship between real-time markets and ICAP and RMR requirements, and RTO 
+requirements to ICAP and RMR units to bid resources into real-time market 
+Treatment of exports and imports, rules governing interchange scheduling 
+(number of schedule changes per hour permitted, ramp rates for schedule 
+changes) 
+To what extent does the RTO make short-term forecasts of load and generation, 
+how far into the future (10 minutes to 24 hours), how does the RTO use these 
+forecasts? Should the RTO commit and dispatch resources on the basis of 
+expected future conditions (i.e., beyond the current and next interval)? Who 
+pays for these RTO decisions? 
+Should RTO publish prices and let demand and supply respond to the price 
+signal, or should RTO dispatch resources up and down based on supplier bids? 
+If the RTO explicitly dispatches resources, should uninstructed deviations be 
+treated differently, in terms of payment or penalties, from instructed 
+deviations? What about a resource,s failure to follow instructions? 
+Under what circumstances should RTO go &out-of-market8 for resources? What 
+should set the price of (payment to) these resources? 
+Under what conditions, if any, are penalties appropriate, for what kinds of 
+behavior, what determines the magnitude of the penalty? Should penalties 
+apply to generation only or to loads also? 
+How, if at all, should capacity assigned to ancillary services (especially 
+the reserve services) be incorporated into real-time operations and markets? 
+For example, should the capacity assigned to contingency reserves be set 
+aside and used only when a major outage occurs? Or should such reserves be 
+used routinely whenever it is economic to do so, as long as sufficient 
+capacity is available to meet the NERC reserve requirements? 
+How should intermittent resources (e.g., wind) be treated in real-time 
+operations and markets? Should they be treated any differently from a large, 
+volatile load? 
+Can retail loads participate in real-time markets? How? 
+5. Case Studies of U.S. ISOs 
+California 
+PJM, New York, and New England 
+ERCOT 
+ 6. Conclusions and Recommendations 
+Key features of operations and markets 
+What works 
+What are the options 
+What problems still remain 
+
+----------------------------------------------
+Eric Hirst
+Consulting in Electric-Industry Restructuring
+106 Capital Circle
+Oak Ridge, TN 37830
+865-482-5470 (phone & fax)    Eric@EHirst.com
+http://www.EHirst.com/

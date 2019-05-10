@@ -1,0 +1,1 @@
+i would like to know the total number of trades, average number daily, total volume, and average daily volume for the second quarter

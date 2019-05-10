@@ -1,0 +1,1 @@
+Thanks for the updates.  When we had the problem with the server resynchronization, did someone from the Infrastructure team alert you ahead of time that they were going to do this during normal business hours, or did you have to be the detective to determine the cause once the problem was at hand.  Let me know. Thanks. --Sally

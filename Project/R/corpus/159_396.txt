@@ -1,0 +1,19 @@
+The following provisions are proposed to be added into the Confirms for the 
+Firm GTC.  Please review and revise as appropriate.
+
+
+
+If a Triggering Event occurs, the Notifying Party may (at its election) set 
+off any or all amounts which the Affected Party owes to the Notifying Party 
+or it Affiliates (under this Agreement or otherwise) against any or all 
+amounts which the Notifying Party owes to the Affected Party (either under 
+this Agreement or otherwise).
+
+
+"Affiliate8 means, with respect to any person, any other person (other than 
+an individual) that, directly or indirectly, through one or more 
+intermediaries, controls, or is controlled by, or is under common control 
+with, such person.  For this purpose, "control" means the direct or indirect 
+ownership of fifty percent (50%) or more of the outstanding capital stock or 
+other equity interests having ordinary voting power.  [Probably want to name 
+EPMI specifically]

@@ -1,0 +1,1 @@
+If Chattahoochee converted all of their SFTS  to FTS-1 for the purpose of release, there is no problem with a gap.  If they still hold any SFTS,  they cannot have FTS-1 capacity at the same time, even for 1 month.

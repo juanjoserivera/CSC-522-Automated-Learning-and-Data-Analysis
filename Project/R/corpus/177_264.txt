@@ -1,0 +1,5 @@
+DELETE FROM tmpWX_Forecast
+
+INSERT tmpWX_Forecast (WXReportDate, WXForecastDate, DataSourceCode, WXStationCode, MaxTemp_C, MinTemp_C, AvgTemp_C, Retrieved) VALUES (?,?,?,?,?,?,?,?)');
+
+EXEC sp_DCI_Transfer_WX_Forecast @DataSourceCode = 'MRF'

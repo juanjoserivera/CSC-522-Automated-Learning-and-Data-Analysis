@@ -1,0 +1,84 @@
+I also think this is a great idea - there would be a tremendous benefit if 
+the EEI contract became the standard for on-line trading platforms.  While 
+Enron currently uses simplified GTCs for trading online with those 
+counterparties with whom we do not have a Master Power Trading Contract (if 
+we do that agreement governs power trades), we have talked about and likely 
+will eventually make the EEI contract the "default" contract if there are no 
+other arrangements in place.  I would fully support and provide any 
+assistance to pursue this idea with and through EEI.
+
+
+
+	drusso@reliantenergy.com
+	10/30/2000 06:07 PM
+		 
+		 To: "Pooya, Babak" <Babak.Pooya@SouthernEnergy.Com>
+		 cc: "'Andy Katz'" <AKatz@eei.org>, fmdutton@aep.com, hemu@dynegy.com, 
+elizabeth.sager@enron.com, bbrou91@entergy.com, mroger3@entergy.com, 
+wfhenze@jonesday.com, dperlman@powersrc.com, rosteen@powersrc.com, 
+drusso@reliantenergy.com, pdondanville@schiffhardin.com, "Pooya, Babak" 
+<Babak.Pooya@SouthernEnergy.Com>, "Edmonds, Sonnet" 
+<sonnet.edmonds@SouthernEnergy.Com>
+		 Subject: RE: Oct 13 Meeting Follow-Up
+
+
+
+GREAT IDEA!!!
+Let me know how RES can support such an effort.
+
+
+
+
+"Pooya, Babak" <Babak.Pooya@SouthernEnergy.Com> on 10/27/2000 03:04:52 PM
+
+To:   "'Andy Katz'" <AKatz@eei.org>, fmdutton@aep.com, hemu@dynegy.com,
+      elizabeth.sager@enron.com, bbrou91@entergy.com, mroger3@entergy.com,
+      wfhenze@jonesday.com, dperlman@powersrc.com, rosteen@powersrc.com,
+      drusso@reliantenergy.com, pdondanville@schiffhardin.com, "Pooya,
+      Babak" <Babak.Pooya@SouthernEnergy.Com>
+cc:   "Edmonds, Sonnet" <sonnet.edmonds@SouthernEnergy.Com>
+
+Subject:  RE: Oct 13 Meeting Follow-Up
+
+
+Andy,
+
+I could provide language by the end of next week, if needed by then.
+
+Separately, I understand that we intend to emphasize marketing efforts
+towards all potential EEI users, but utilities in particular due to that
+group's lower acceptance rate to date.  Another "group" to which I believe
+that we should emphasize our marketing efforts includes the online trading
+platforms.
+
+Three types of online trading platforms presently exist: (1)proprietary
+exchanges (EnronOnline, Dynegydirect); (2) consortium platforms (ICEX); and
+(3) independent, third-party platform (Altra) [these platforms are similar
+to (2)but differ in that the shareholders/backers have not committed
+liquidity].  The volumes traded on these types of electric platforms are
+significant and growing.  According to MegawattDaily, Ameren Energy
+conducts
+about 40% of next-day deals and 30% of forwards on various electronic
+platforms.  There are presently close to 25 platforms (of course, with so
+many competitors, as usually happens, there will probably be a weeding out
+and/or consolidations/mergers...the Jurassic period notwithstanding, as
+blame for the mass dinosaur extinction lay with an errant meteor or
+possibly
+the taking up of cigarette smoking by the majority of the dinosaurs
+according to Larsen...all apologies for the joke).
+
+As each platform system has different definitions, products, and contracts,
+and as several of the platforms are considering adopting standard
+contracts,
+I believe an opportunity exists to push the EEI as either the exclusive
+standard agreement used for trading on a particular platform or as a
+default
+agreement for those proprietary and other platforms under which trading
+partners lack executed Masters with the counterparty.  In fact, according
+to
+published sources, Houston Street, RedMeteor, and others have been working
+with others for several months on developing industry standards.
+
+Just a thought.
+
+Babak

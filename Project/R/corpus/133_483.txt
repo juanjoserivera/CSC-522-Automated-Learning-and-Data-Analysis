@@ -1,0 +1,2 @@
+FYI when  we put in a new deal in sitara we only update the volume section(top section of sitara).  We do not touch the expected volumes area - that is for schedulers to make changes and modify.  Please shout with any questions.
+PL

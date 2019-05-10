@@ -1,0 +1,33 @@
+From:  Larry Joe Hunter                           03/21/2000 10:50 AM
+	
+
+To: Sara Shackleton/HOU/ECT@ECT
+cc:  
+Subject: Re: Statex confirm language  
+
+Sara, 
+
+We didn't get the attachment with this one.  could you please resend.  Also, 
+the first paragraph looks like this:
+
+ Reference is made to the Master Agreement dated as of rFinancialMasterDate_ 
+(the "Agreement") between rCounterpartyName_ ("Counterparty") and Enron North 
+America Corp. (&ENA8), pursuant to which this Confirmation is delivered and 
+to which the Transaction contemplated herein is subject.
+
+Thanks,
+Joe
+
+
+
+
+
+Sara Shackleton
+03/21/2000 10:11 AM
+To: John Suttle/HOU/ECT@ECT, Larry Joe Hunter/HOU/ECT@ECT
+cc:  
+Subject: Statex confirm language
+
+Attached is revised language to drop in the confirm.  John:  Please approve.  
+Joe:  edit my margins AND does the preamble of the confirm use the word 
+"Agreement" to define the Master Agreement?  THIS IS NOT AN ISDA!

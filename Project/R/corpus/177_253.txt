@@ -1,0 +1,1 @@
+SELECT GenCode FROM LkpAB_GenerationCode

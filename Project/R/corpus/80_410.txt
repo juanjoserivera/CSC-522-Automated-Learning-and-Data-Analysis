@@ -1,0 +1,4 @@
+Please delete the first total row in gray and the row below it that says "Western Canada Region Notional."  Then have the bottom total row sum all of the positions.
+
+Thanks,
+Mike

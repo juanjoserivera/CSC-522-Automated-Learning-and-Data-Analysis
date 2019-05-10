@@ -1,0 +1,3 @@
+Ok, once that is done, we need to set up the RMS access query to extract the new VaR and dump it in the positions by trader spreadsheet.
+
+KK

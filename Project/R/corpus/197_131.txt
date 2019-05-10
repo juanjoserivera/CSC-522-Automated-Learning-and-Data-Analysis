@@ -1,0 +1,5 @@
+The old build route remembered what the user chose last for delivery points, and had it in the defaults each time Build route was opened.
+
+Can this be duplicated in the PSW version of build route?
+
+C

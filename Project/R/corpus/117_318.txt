@@ -1,0 +1,8 @@
+Zhiyong,
+
+We have decided to take the curve history with us to UBS for the attached curves.  We have changed the names for some of the curves so column J has additional curves that we would like to bring history.  We will not continue publishing those in the future however.
+
+
+Thanks
+
+Kam

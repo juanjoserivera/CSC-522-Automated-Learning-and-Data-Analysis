@@ -1,0 +1,9 @@
+Thanks for the feedback.  
+
+Your model now assumes a modification to the Distribution tariff to include a new rate element.  That may get around the Settlement (although OCA in PA will think that now D is going up and there is no offset in the G rate so consumers are getting screwed because they won't switch).  
+
+Also, can the PaPUC implement this charge and direct the EDCs to transfer the funds to third-party generators?  Seems like that would require legislative changes.  
+
+I like the idea that there should be fixed charge for ICAP - one way to get that number would be to go back to the EDC stranded cost cases and look at their filed testimony - remember if they are earning more from the market than that $ amount, they are overearning on their stranded costs.
+
+Jim

@@ -1,0 +1,17 @@
+Steve --
+ 
+Thanks.  Looks good.  Some thoughts for you to consider:
+ 
+1.    Not sure that Impact #1 makes sense to present.  No real reason to set CTC = 0 c/kwh on Jan 5 (CalPX was still in operation).  I think that Impact #2 better captures the idea.  Also, probably not good to use the term "CTC Eliminated".  Maybe should say "CTC = 0 c/kwh".  Given the CPUC's March 27 Order, the Utilities have a claim for additional generation related stranded costs until March 31, 2002.
+ 
+2.     In calculating Impact #2, what did you use as the Jan 19 - Aug baseline?  Did you calculate the hit of ($104.5) from actual bills or based on our DJ Index model (there is a fundamental difference in likelihood based on the baseline)?  Also, I assume that the Feb - Aug timeframe was relatively low because EES and EEMC had most of their load on bundled service.
+ 
+3.    Probably should discuss in a footnote the different models for PX Credit calculation and most specifically the PG&E Adjustment.  Also, may be interesting to have the $ impact of the PG&E Adjustment (the rate adjustment to re-capture their previous mistake).  I think that this is something we need to go into the CPUC to fight pretty quickly.
+ 
+4.    Should Impact #4 and Impact #5 apply to SCE's loads?  In column 4 it looks like it does.  SCE is not currently hitting our bills with this surcharge.
+ 
+5.    Probably better to model Impact #5 as of Oct 1 not Sept 1.
+ 
+6.    Can you break out the volumes for "vintage" contracts versus "retail gen with passthru" contracts?  You haven't shown anything for (a) Utility Undercollection costs or (b) CDWR bond fees.  These costs may hit our vintage contracts.
+ 
+Jim

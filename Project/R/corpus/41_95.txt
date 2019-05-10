@@ -1,0 +1,149 @@
+Here are IEP's comments on caps.  It's from a draft circulated last Friday, 
+but just spoke with Smutney, and he said that the comments did not change 
+substantively .  Very briefly, "IEP is generally opposed to caps, but if 
+FERC's going to go with a soft cap, 1) there's a lot of clarification needed, 
+2) it needs to include "upward ratchet," a la Heber and 3) it must be linked 
+with other reforms (i.e., forward contracting, siting, retail markets, 
+etc.)."  The comments do not explicitly address the level of the cap.  They 
+also call for a technical conference.
+
+Anything to add, Sue?
+******************************************************************************
+***************************************
+B. Issues Concerning Implementation of the &Soft Cap.8  
+
+IEP has concerns about the implementation of the &soft cap8 proposal.  IEP 
+has not and does not support price caps because it impedes the operation of 
+the market and distorts price signals.  Such mechanisms should have no place 
+in competitive markets in the long-run.  The Staff Report notes that caps do 
+not work. Citation; Also MSC,   IEP is concerned, as are others, that the 
+soft cap proposal will fail to attract new investments in supply or foster 
+meaningful demand response.   It is particularly problematic in terms of 
+attracting new capacity that will operate as peaker units for a limited 
+number of hours when weather-induced demand cannot be met from less expensive 
+units or imports. Notwithstanding the apparent opinion of SMUD otherwise, 
+there are demands which materialize only for a fraction of a percentage of 
+the total hours of a year, and therefore some resources will only be 
+dispatched a short number of hours to meet that need.  These resources tend 
+to be fast ramping, less efficient units that are not designed or intended to 
+operate as &baseload8 facilities.  Hence the suggestion that they &just 
+operate more8 to recover their costs is misplaced.  
+The soft cap also appears to be especially problematic to power marketers who 
+make wholesale purchases for subsequent resale but who may not own the 
+underlying physical generation assets.  These entities have a major role in 
+the marketplace in terms of bringing demand and supply together and they seek 
+return on the risks they undertake.  These entities will perceive the &soft 
+cap8 as a &hard cap8 which will chill their participation in California, 
+particularly when regional supplies become tight and expensive.  This 
+unintended consequence must be avoided or the markets will be hobbled.  
+IEP echoes the concern articulated by the CAISO that the soft cap proposal 
+may divert or require additional ISO resources.    It will clearly compound 
+the settlement processes at the CAISO as transactions above the soft cap will 
+require additional tracking and segregation to allow for potential 
+&unwinding8 should the bids be disallowed.  It will also require some form of 
+new software to provide for potential calculation of the weighted averaged 
+prices suggested in the November Order, presumably in 10-minute increments, 
+to blend with the market clearing prices established in the various markets.  
+Moreover, if that averaged price associated with bids above the cap is 
+modified often, then CAISO will be required to &re-run8 settlements or 
+undertake subsequent settlement adjustments.  It is possible that these 
+efforts*which are suggested as temporary measures in the November Order*would 
+take away from CAISO,s efforts at developing solutions to longer-run problems 
+in terms of software modifications/development.  At first blush the details 
+regarding implementation of the soft cap proposal are not straightforward as 
+currently described, and any further exploration this approach will at least 
+require a &technical conference8 to clarify the mechanics and to ensure that 
+it can be done in a reasonable manner.  
+IEP could only support the soft cap proposal if it is part of a negotiated 
+package of inter-jurisdictional programs, and provided that it is subject to 
+an pre-established unidirectional escalation mechanism, or a similar one-way 
+mechanism that is tied to the development of new capacity within the WSCC.  
+The inter-jurisdictional elements must include:
+? establishment of standards applicable to potential refunds based on 
+allegations of market power abuse in FERC jurisdictional markets; 
+? definition of durable reasonableness review standards applicable to 
+wholesale purchases by the load serving utilities such that they will no 
+longer be discouraged from entering bilateral arrangements on a forward basis;
+? establishment of a &road map8 by the California Commission that delineates 
+a firm timeline*with milestones*for the review and resolution of retail 
+market issues including market-based demand responsiveness;
+? establishment of a &road map8 by this Commission, in consultation with the 
+CAISO, that delineates a firm timeline*with milestones*for the review and 
+resolution of implementation issues associated with the Commission,s 
+subsequent order in this docket as well as other outstanding proposals such 
+as generation interconnection rules and congestion management;
+? establishment of firm sunset date, not to exceed 2003, to bound the 
+duration of soft cap, and implement a unidirectional escalation mechanism, 
+not subject to subsequent lowering, which is based either on a 
+pre-established schedule or tied to increases in installed capacity within 
+the WSCC.
+
+
+
+	Susan J Mara
+	11/22/2000 10:21 AM
+		
+		 To: James D Steffes/NA/Enron@Enron
+		 cc: Alan Comnes/PDX/ECT@ECT, bernadette Hawkins/Corp/Enron@Enron, 
+Christopher F Calger/PDX/ECT@ECT, David Parquet/SF/ECT@ECT, Debra 
+Davidson/PDX/ECT@ECT, Dennis Benevides/HOU/EES@EES, gfergus@brobeck.com, 
+Ginger Dernehl/NA/Enron@Enron, Jeff Dasovich/NA/Enron@Enron, Jeff 
+Richter/HOU/ECT@ECT, Joe Hartsoe/Corp/Enron@Enron, Joseph 
+Alamo/NA/Enron@Enron, Jubran Whalan/HOU/EES@EES, kcurry@bracepatt.com, 
+lanai.wolfe@enron.com, Marcia A Linton/NA/Enron@Enron, Mary Hain/HOU/ECT@ECT, 
+Maureen McVicker/NA/Enron@Enron, Mona L Petrochko/NA/Enron@Enron, Neil 
+Bresnan/HOU/EES@EES, Paul Kaufman/PDX/ECT@ECT, rcarroll@bracepatt.com, 
+Richard Shapiro/NA/Enron@Enron, Robert Badeer/HOU/ECT@ECT, Sarah 
+Novosel/Corp/Enron@Enron, Steven J Kean/NA/Enron@Enron, Tim Belden/HOU/ECT@ECT
+		 Subject: Re: Enron's Response Today - Key Point to Focus On
+
+I know that WPTF is supporting Hebert's approach and would suggest starting 
+with $250 or higher with big increments every six months.  WPTF is also 
+asking for clarification on what the cap applies to.  I don't recall what the 
+comments said on refund and I haven't taken a look at the WPTF final yet.  
+I'll let you know.  I'll check on the others today.
+
+
+
+	James D Steffes
+	11/22/2000 07:30 AM
+		
+		 To: Alan Comnes/PDX/ECT@ECT, bernadette Hawkins/Corp/Enron@Enron, 
+gfergus@brobeck.com, Christopher F Calger/PDX/ECT@ECT, David 
+Parquet/SF/ECT@ECT, Debra Davidson/PDX/ECT@ECT, Dennis Benevides/HOU/EES@EES, 
+Ginger Dernehl/NA/Enron@Enron, Jeff Dasovich/NA/Enron@Enron, Jeff 
+Richter/HOU/ECT@ECT, Joe Hartsoe/Corp/Enron@Enron, Joseph 
+Alamo/NA/Enron@Enron, Jubran Whalan/HOU/EES@EES, kcurry@bracepatt.com, 
+lanai.wolfe@enron.com, Marcia A Linton/NA/Enron@Enron, Mary Hain/HOU/ECT@ECT, 
+Maureen McVicker/NA/Enron@Enron, Mona L Petrochko/NA/Enron@Enron, Neil 
+Bresnan/HOU/EES@EES, Paul Kaufman/PDX/ECT@ECT, rcarroll@bracepatt.com, 
+Richard Shapiro/NA/Enron@Enron, Robert Badeer/HOU/ECT@ECT, Sarah 
+Novosel/Corp/Enron@Enron, Steven J Kean/NA/Enron@Enron, Susan J 
+Mara/NA/Enron@Enron, Tim Belden/HOU/ECT@ECT, Richard Shapiro/NA/Enron@Enron
+		 cc: 
+		 Subject: Enron's Response Today - Key Point to Focus On
+
+As I've been thinking about our response today, I would like Enron to focus 
+on making sure that the California (WSCC) markets are as good a possible for 
+business over the next 15 to 24 months.  Following that idea, I think that 
+the key points are (1) clarifying/raising the soft cap and (2) reducing the 
+burden/risk of the prospective refund period.
+
+I know that we had discussed leading off with the debate over market power / 
+retroactive refunds, but I think that (a) FERC is not inclined to do much 
+more on this issue, (b) FERC wants to fix the market as much as it can given 
+the current political realities, and (c) if retroactive refunds become an 
+issue, we still have our full compliment of resources to later fight this 
+fight.
+
+I would recommend that the pleading and Alan's testimony be modified to bring 
+these issues to the top of the ticket.   We should still include all of our 
+other arguments.
+
+Finally, I want to make sure that Enron is taking the right position by 
+quietly supporting a $250/Mwh soft cap with safe harbor fixes?  Sue Mara, can 
+you please try and find out what EPSA, IEPCA, and WPTF are going to file?  I 
+want to make sure that we are in the ball park on this issue but not getting 
+too soft.
+
+Jim

@@ -1,0 +1,3 @@
+Patrick,
+
+Can we track down who/how these trades are getting entered into the system?  Is there someone entering the trades into the system?  Is this just an old counterparty/book set up in GCP that needs to get renamed.  Legal (me) has no idea why trades are being done out of EGM.  Can we find out who is doing them?

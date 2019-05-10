@@ -1,0 +1,9 @@
+Carl,
+
+The attached spreadsheet will show you the MTM value for all gas deals with TXU Energy Trading Company as of Nov-30.
+Please see the PBI tab for Price, Basis and Index and the GD Options tab for options.
+
+Thanks
+
+Kam
+x3-5781

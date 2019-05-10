@@ -1,0 +1,12 @@
+I would probably not sign on directly, but would support the document with the additional thoughts --
+
+1.	I don't understand a 6 month collaborative to work through SMD - this only extends the implementation.
+2.	Need to push harder on doing away with the Reserve obligation.
+3.	I would argue that the RTO need not run a Day Ahead market.  Also, why does a Day Ahead market provide "sufficient capacity committed in the right places for the next day in order to supply load reliably"?  California has a DA market and people simply did not participate.  The argument that a DA market replaces a Unit Committment process doesn't seem complete?
+4.	The position and implications on CM and RT market going in at the same time needs to be made more clear - does this mean that Enron supports delaying all RTO "activity" (e.g., OASIS, single tariff, rates) until CM is complete?
+5.	What is a "point-to-point" financial hedge?  Does this imply node-to-node?  Can we include some discussion of market "hubs"?  How could I obtain a hub-to-node hedge?  Also, what about the allocation or auction process for FTRs?  How should existing transmission arrangements be managed?
+6.	Do we agree to Incremental pricing vs. Rolled-In?  Will this cause any heartburn for ETS?  What about the cost of expansion to meet the needs of incremental generation?  Should this be borne by the system or the generator?
+
+My thought is that this is a big piece and Enron should probably file its own comments rather than sign on.  Sarah Novosel is working on Enron comments.
+
+Jim

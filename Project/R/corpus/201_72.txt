@@ -1,0 +1,19 @@
+i do not manage an eol stack.
+
+
+From: Mike Hernandez/ENRON@enronXgate on 01/23/2001 10:37 AM
+To: Jeffrey A Shankman/HOU/ECT@ECT
+cc:  
+Subject: RE: Migration to Windows 2000
+
+The connection to EOL or other web applications will be as fast as it is now, 
+as this is solely dependent on your network hardware (cables, network card, 
+etc.)  The mgiration to Windows 2000 will not impact this in any way.  One 
+thing I need to verify though, do you use Stack Manager with EOL?  I did not 
+see any instances of it on your machine, but I just want to double-check, as 
+this program will not work under Windows 2000.
+
+
+Thanks
+
+-Mike

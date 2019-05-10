@@ -1,0 +1,1 @@
+We aslo want to add the California delivery points as receipts points with a potential interruptible back-haul rate to the EOC delivery points.

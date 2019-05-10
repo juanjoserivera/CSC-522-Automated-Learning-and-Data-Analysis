@@ -1,0 +1,7 @@
+Krishna,
+
+I modified the file you sent to me (see attached). For OPT TYPE, what is the code for a Call? for a Put?
+
+How does this modified model look? The data is monthly prices. I changed the formula for Vol. Did I get it right?
+
+Paul

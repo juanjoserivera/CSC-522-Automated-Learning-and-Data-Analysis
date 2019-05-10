@@ -1,0 +1,3 @@
+I understand all the following except the Index-Option.  Why would it be treated as a Spread-Option?
+
+Stacey

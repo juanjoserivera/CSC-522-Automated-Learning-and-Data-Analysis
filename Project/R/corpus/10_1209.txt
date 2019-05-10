@@ -1,0 +1,1 @@
+Are we proposing to pay refco for order flow, like a tick per trade, or are we going to give them our prices and then they widen them to add their juice?

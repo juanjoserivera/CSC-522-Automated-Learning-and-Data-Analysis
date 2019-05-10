@@ -1,0 +1,4 @@
+Now that Will has been cleaning out scheduling tables, will you ensure that the prepays in the document below are still in the scheduling system.  If they are not, we can autoschedule them.  
+
+Thanks,
+Stacey

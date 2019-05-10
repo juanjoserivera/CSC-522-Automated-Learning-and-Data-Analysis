@@ -1,0 +1,9 @@
+Hi George
+
+You will want to liquidate the June Exotic Options today (using the valuation spreadsheet- Basis Pipe Options 2001.xls) as well as update the Option P&L file to account for the June Exotic option's value you calculate.  You will actually roll-over the Options P&L tomorrow, after you finalize the 31st's P&L (the final P&L file will include any Prior Month Adjustments as well as broker fees).  
+
+You will update the Basis Pipe Options 2001.xls when the actual published indexes come out...so that will most likely be Monday.  At that point you can send the file to Beatrice Reyna in it's final version.
+
+If you have any other questions just come by and get me and we'll go over them.
+
+Susan

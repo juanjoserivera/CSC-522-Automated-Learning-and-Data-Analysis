@@ -1,0 +1,10 @@
+The FERC is presently deliberating on more restrictive rules, but I'll answer in the context of the current rules.
+
+There are three main principles behind the current rules:
+1. Pipeline can't share shipper information with affiliate
+2. Pipeline can't share transportation info with affiliate -- unless pipeline is willing to publicly post info, and
+3. Pipeline and affiliates must operate as separately as reasonably possible.
+
+There is no prohibition on the pipeline having affiliate information, but the real root of your question is whether the entities are operating separately.  For example, pipeline gets forward price curve info from affiliate -- we'd argue that this is just info that helps pipeline do its job better.  But, compare with scenario where pipeline has a detailed list of all affiliates sales obligations - price, terms, etc. -- the argument can be made that the entities are not operating separately and the only reason that the pipe has this info is to favor affiliate business.  There was a real case to this effect.  The pipeline & affiliate attended a joint strategy meeting each morning.  The pipeline claimed that it only listened during the meeting.  FERC found that the pipeline and affiliate were not operating separately and fined the pipeline.
+
+So, I'd say that the rules are asymmetric for the case where the pipeline wants access to research/training/historical type info, but probably symmetric when it comes to matters of day to day contracts of transactions.

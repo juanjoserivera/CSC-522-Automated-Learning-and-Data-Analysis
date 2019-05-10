@@ -1,0 +1,25 @@
+Has this been addressed?
+
+
+
+
+
+
+Brenda H Fletcher
+03/27/2000 11:53 AM
+To: Chris Germany/HOU/ECT@ECT
+cc: Scott Goodell/Corp/Enron@ENRON, Mark Feldman/HOU/ECT@ECT, Mary Theresa 
+Franklin/HOU/ECT@ECT 
+Subject: CGAS K# 39764 - Deal #77349
+
+The invoiced rate on this contract is for  interruptible gathering but the 
+information on the deal reflects a Firm contract. How do you suggest handling 
+so the contract type, rate schedule and firmness are consistent with the 
+pipeline?
+
+Also, there are 10 contracts that we were invoiced for processing charges 
+that are not on the Service List in Path Manager for Feb.
+Are you working on getting contracts and deals added?
+
+Thanks,
+Brenda

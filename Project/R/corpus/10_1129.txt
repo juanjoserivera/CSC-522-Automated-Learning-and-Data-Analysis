@@ -1,0 +1,1 @@
+This guy is working on an EOL project for me right now.  Can you send him a file with our EOL trades for today or yesterday with product, price, buy/sell, and timestamp but counterparty names deleted

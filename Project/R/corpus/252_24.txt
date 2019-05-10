@@ -1,0 +1,10 @@
+Guys,
+
+When you see Four Corners #5 come back tonight. Please use the fundies website to send out a message confirming it to Traders and RT. Also, you should give BPA and CERS a call tonight to see if they are selling off cheap power. Also, we are long 50mws flat at PV (see Kate's email)...The prices are $27 and $37. Feel free to sell off up to HE 17 at around 39...if you can get 43 bal peak--go for it!!! We sold 50's across the peak at PV tonight. This was a result of the Four Corners 5 derate so prices may fall hard tomorrow. Please try to find some information on the status of SouthPoint and the Desert Basin unit tonight as well (this used to be Reliant's plant --rumor has it this is now SRP's starting tomorrow). As a bonus, CalPine scheduled off of SouthPoint for tomorrow while the plant was still down for maitenence...If you get cut--sell them the off peak at PV for $75...MAKE THEM WEAR IT! As an added bonus don't forget LADWP and CORAL cut us off for "credit reasons"...please treat them as you would any other non-performing counterparty...
+
+
+Finally, Services has a new deal with a cement company in NP-15. We will liquidate the energy for the Services Desk RT at NP-15 +/- $2. We need to make a buy/sell from imbalance under Services at $0 price. We then make a buy/sell from Services under St-Whourly at NP-15 +/- $2. Finally we buy/sell from/to Counterparty X under the St-Whourly book. Then we need to give Services the swap deal # and the price. The mw values should be on Kysa's sheet. If this procedure works...please send out an email detailing the procedure with whatever comments are necessary when this goes physical.
+
+Have fun and good luck.
+Thanks,
+Bill

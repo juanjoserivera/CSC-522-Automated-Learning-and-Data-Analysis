@@ -1,0 +1,22 @@
+Suresh,
+
+It did not work.
+
+Vince
+
+
+
+
+
+Suresh Raghavan@ENRON
+04/21/2000 01:32 PM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: Enrondirectfinance URL and userid & password
+
+The internal URL is http://dev.directfinance.enron.com.
+
+Please use the userid test and the password test.  And obviously, send us any 
+comments you might have.
+
+Thanks.  SR:-)

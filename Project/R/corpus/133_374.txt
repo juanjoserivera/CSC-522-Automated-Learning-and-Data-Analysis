@@ -1,0 +1,2 @@
+I think we should also put the position report file in there that Jad/Couch created as a backup to the CEPos/East Positions.  Couch can you put the query file you set up for the price desk?
+PL

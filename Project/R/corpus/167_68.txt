@@ -1,0 +1,3 @@
+Serena,
+
+Please use the new sheet to schedule california.  It is called ca0117estate. It is in the 2002 directory.  This will be the only sheet we use.  We will no longer have a separate EES Sheet.  The load will be pulled into this new sheet.  See me for details and questions.

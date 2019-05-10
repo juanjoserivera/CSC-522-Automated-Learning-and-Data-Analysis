@@ -1,0 +1,9 @@
+Please split the following deals into their respective pre and post bankruptcy desks:
+
+Counterparty Name	Trades Terminated	Early Termination Date	
+			
+AES Eastern Energy LP	775220, 814567, 821656, 821666, 842776, 842777, 857752	12/11/2001	
+
+
+Thanks,
+Stacey

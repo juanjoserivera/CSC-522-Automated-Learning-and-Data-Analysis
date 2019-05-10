@@ -1,0 +1,5 @@
+Simply
+ 
+People, systems and floor space.
+ 
+Back to front applications with no specific counterparty data.  WE have historical pricing etc but no counterparty names.  You could get most of it from Reuters.

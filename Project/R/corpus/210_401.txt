@@ -1,0 +1,7 @@
+Juan Carlos,
+
+The line you deleted simply saves the current record.  Deleting it will not cause any problems in a read-only database.  In the regular working version, deleting may result in edits to a record not being saved.
+
+Mat
+
+PS.  I hope things are well on the island.  Please pass along my regards to everyone.

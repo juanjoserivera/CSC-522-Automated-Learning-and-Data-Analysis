@@ -1,0 +1,2 @@
+here is the file.  You would change the two curve tabs and the publish tabs are linked up.  The BOM file is unchanged.  The two basis files now only have basis curves in them.  Let me know any changes you would like.  Thanks.
+PL

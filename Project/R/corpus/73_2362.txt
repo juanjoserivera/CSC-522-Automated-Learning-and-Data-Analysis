@@ -1,0 +1,3 @@
+Hi team.  I'm going to set myself up as the Navigator administrator for Enron North America unless someone else wants to do it.  We use Navigator for activity on Columbia Gas, Columbia Gulf, Crossroads, and KO Transmission.  I think we also use Navigator to download the invoices.
+
+I'm going to kill all the ID's shown below except mine.  Should I set up anyone else with an ID?

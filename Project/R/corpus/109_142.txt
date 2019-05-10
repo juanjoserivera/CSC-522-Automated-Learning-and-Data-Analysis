@@ -1,0 +1,9 @@
+Jinbaek,
+
+There is still an error in the definition of
+the bid-offer spread.
+
+Can you look into it? I have sent it already 
+to Greg Whalley, my boss, before I caught it.
+
+Vince

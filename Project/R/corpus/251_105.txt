@@ -1,0 +1,1 @@
+We decide to leave out the $ value in order to focus them on the structure.  I do not see the conversation about option values on the pipe?

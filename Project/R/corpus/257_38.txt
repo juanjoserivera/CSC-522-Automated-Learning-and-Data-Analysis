@@ -1,0 +1,16 @@
+Suzanne,
+
+I calculate a total amount due of $1,839,120.46. That is:
+
+	   932,967 gallons @ $0.46396
+	1,625,526 gallons @ $0.41700
+	1,679,706 gallons @ $0.39200
+	   178,500 gallons @ $0.39200
+
+Total	4,416,699 gallons @ $0.416402 average price.
+
+Please confirm.
+
+Thanks,
+
+Paul

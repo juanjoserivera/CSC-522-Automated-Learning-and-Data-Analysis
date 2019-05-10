@@ -1,0 +1,5 @@
+Talked with PG&E today and they would like to flow rate today and we can talk to them each day.  Our imbalance is 
+85,000 mmbtu they owe TW.  I will visit with Mike O'Donnell about our imbalance.  For now use the scada point
+for daily flow rates and not the spread sheet.
+
+DS

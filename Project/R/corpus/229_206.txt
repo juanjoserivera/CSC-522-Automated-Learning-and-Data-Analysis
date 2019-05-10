@@ -1,0 +1,33 @@
+Is there some way to ensure that the user reads this?  Do they have to click 
+on it before it will go away or does it appear in a pop-up box that has to be 
+acknowledged?
+
+
+
+	David Forster@ENRON
+	09/08/2000 03:42 PM
+		 
+		 To: Teresa Smith/Corp/Enron@Enron
+		 cc: Mark Dilworth/LON/ECT@ECT, Dave Samuels/HOU/ECT@ECT, Andy 
+Zipper/Corp/Enron@Enron, Mark Taylor/HOU/ECT@ECT
+		 Subject: Message Text
+
+Teresa,
+
+Further to our conversation, please use the following for the ticker messages 
+for Price Limit Order events:
+
+
+Ticker Message for expired PLO:
+
+"Expired: Price Limit Order entered at [time] has expired without execution"
+
+
+
+Ticker Message for credit failure:
+
+"Transaction Failure: Price Limit Order entered at [time] has been rejected 
+due to credit limitations"
+
+
+Dave

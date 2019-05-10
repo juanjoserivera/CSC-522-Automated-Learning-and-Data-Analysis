@@ -1,0 +1,2 @@
+i fixed it. until further notice PJM to NY deals will have a trans. id of 5062820,5064308,or 5064505.  NY to PJM trans id is 5042199.
+	lc

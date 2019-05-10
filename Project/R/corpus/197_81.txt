@@ -1,0 +1,8 @@
+Donald was trying to sort by POR AND POD,  Donald gets a repeating error of "invalid variant type conversion".
+
+I tried to do that and no problem, but I am using the app locally, and Donald for some reason still has to go thru the windows 2000 terminal server.  I really want him to be able to use the app locally like it was designed to be used.
+
+
+Please let me know.
+
+C

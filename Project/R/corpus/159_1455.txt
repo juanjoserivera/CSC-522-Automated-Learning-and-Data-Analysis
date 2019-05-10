@@ -1,0 +1,1 @@
+Judy,  I will be working on that form next.  Should be ready tommorrow or Monday.  For the Linder dealer we can use the firm GTC with a modified DCQ.  I forwarded the language for the DCQ to Ellen.

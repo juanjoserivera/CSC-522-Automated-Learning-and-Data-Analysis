@@ -1,0 +1,4 @@
+Rod,
+      This would be preferable, but I don't understand what rules could be changed to alter the existing accounting treatment.  Also, Kent's numbers do not decline over the suggested ten year life of the project, and I'd bet that the injection and withdrawal rates decline just like they did after the project was initially developed.  The other thing to keep in mind is that there will be no long term contracts securing the anticipated cash flow.  We will be relying on our storage desk to secure margins in the short term market (which is the only way to do high injection/high withdrawal storage to capture short term market anomalies).  Are you okay with that?  I am.
+
+Dan

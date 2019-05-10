@@ -1,0 +1,131 @@
+ARTICLE X.  PERFORMANCE GUARANTEES AND ACCEPTANCE
+
+   
+10.1   Performance Guarantees. Seller guarantees that each Unit will meet the 
+Performance Standards for Electrical Output, Efficiency, Water Consumption, 
+Noise and Emissions as set forth in Section 10.2, when Performance Tests are 
+conducted in accordance with the Performance Test Procedures.
+
+10.2  Performance Standards. Each Unit shall meet Performance Standards as 
+described in this Article and as set forth in the following table below in 
+order to achieve Acceptance:
+
+	2MW Power Plants	2.4MW Power Plants	3.0 MW Power Plants
+Electrical Output, kW	2000 kW	2400 kW	
+Heat Rate (LVH)	48%	48%	
+Water Consumption	600 gal/h	620 gal/h	
+Sound level	65 dB(A) at 100 feet	65 dB(A) at 100 feet	
+Emissions			
+Nox	<1 ppmv	<1 ppmv	
+SOx	<0.1 ppmv	<0.1 ppmv	
+CO	<20 ppmv	<20 ppmv	
+VOC	<20 ppmv	<20 ppmv	
+Particulates	<100 mg/m3	<100 mg/m3	
+
+
+10.2.1   Heat Rate Guarantee.  Seller guarantees that the Heat Rate as 
+measured for each of the Units 
+as demonstrated during the Performance Test, shall be __BTU/kWh. In the event 
+the Heat Rate exceeds the Minimum Heat Rate Guarantee, Seller shall take all 
+necessary actions to correct, retest the deficient Unit and cause the 
+deficient Unit to meet the Minimum Heat Rate Guarantee.  Failure to meet the 
+Heat Rate Guarantee shall prevent Acceptance, unless Purchaser explicitly 
+waives this guarantee in writing.  
+
+10.3.2   Electrical Output Guarantee.  Seller guarantees that the Electrical 
+Output of each Unit as demonstrated in the  most recent Performance Test 
+shall be equal or greater than 2000 kW (for a 2.0 MW Unit), 2400 kW (for a 
+2.4 MW) Unit, and 3000kW (for a 3.0 MW Unit). [Is this a net number?  Where 
+is it measured?]
+  
+10.3.3   Emissions Guarantee. Seller guarantees that the emissions of the 
+[Unit] for the above listed categories when the [Unit] is operated 
+[conditions?]
+
+10.3.4   Water Consumption Guarantee. 
+
+10.3.5 [Sound Guarantee. Seller guarantees that the near field average 
+A-weighted sound pressure levels of the [Unit?  Facility?] shall not exceed 
+65dB(a) 9referenced to 20 micropascals) when measured during the Performance 
+Test at one and a half (1.5) meters above the ground level and one (1) meter 
+from the surface of the Equipment.]
+
+10.3.6 Reliability.
+
+10.4    Remedy for Failures to Meet Performance Guarantees.  Except as 
+specified in Section 10._] the failure to achieve the Performance Guarantees 
+by the Acceptance Deadline [to be defined] shall constitute a default under 
+this Agreement, and Purchaser shall have the remedies specified in Article [].
+
+10.5   Testing.
+
+10.5.1   Notice of Installation Completion; Conducting Tests. Seller shall 
+deliver Notice to Purchaser that a Unit has achieved Installation Completion 
+so that the Unit is ready to be tested.  Within [fourteen (14) days] of 
+receipt of this Notice, Purchaser shall perform the Performance Tests in 
+accordance with the Performance Test Procedure; however, Purchaser shall not 
+be required to conduct Performance Tests prior to [] days from the Delivery 
+Date, or date of actual delivery, whichever is latest. Purchaser shall give 
+Seller five (5) days notice of the time of the Performance Tests. Seller 
+shall be present or to have a representative present at the Performance 
+Tests, and shall provide technical advice during the tests; however, 
+Purchaser may at its option conduct the test without Seller, assuming notice 
+was properly given in accordance with this section.
+
+10.5.2   Test Results. Performance Tests shall be conducted on a unit-by-unit 
+basis. Upon the completion of each Performance Test Purchaser will issue a 
+Performance Test Certificate setting forth the results achieved during such 
+test.  In the case of multiple Performance Tests on a Unit, performance shall 
+be measured by the most recent Performance Test.
+
+10.5.3   Costs of  Retests.  If one or more additional Acceptance Tests are 
+required doe to the failure of a Unit to pass its Acceptance Test, Seller 
+will bear the additional costs (if any) incurred by Purchaser [in excess of 
+those costs normally associated with operating the Unit]. Such additional 
+costs may include, but not be limited to, cost of testing, instrumentation, 
+fuel, consumable spare parts, and additional personnel required to conduct 
+the tests.
+
+10.6   Acceptance.  Upon the successful completion of the Performance Test 
+for a Unit, Seller shall submit a Performance Test Certificate to Purchaser 
+indicating that a Unit has achieved the Performance Standards and it ready 
+for Acceptance.  Purchaser shall within ten  (10) days of receipt of such 
+Performance Test Certificate, either sign such certificate acknowledging 
+concurrence or reject such certificate specifically stating the reasons for 
+such rejection. Acceptance for each Unit (and its associated Equipment) shall 
+occur upon the issuance of the Performance Test Certificate by Purchaser as a 
+result of the Unit having met the Performance Guarantees.  Acceptance of the 
+each Unit to be installed in a Facility shall occur when all of the following 
+have occurred: 
+
+(a) the issuance of a Performance Test Certificate by Purchaser as a result 
+of a Performance Test indicating that the final Unit has met the Performance 
+Standards;
+
+(b) all completion of training  and the delivery of O & M Manuals and special 
+tools required hereunder shall have occurred;
+
+(c) Seller has delivered to Purchaser a waiver of liens in form as shown in 
+Exhibit-S that have been or could have been placed upon the Equipment and 
+that there are no outstanding claims of Seller or any Vendor with respect to 
+the Equipment for that particular Facility;
+
+(d) all of the Units in the Facility have achieved Installation Completion. 
+[and there are no punch list items remaining to be completed.]
+
+10.7 Obligation to Improve Performance.  If the Performance Test should 
+indicate that a Unit has met the Specific Performance Guarantees but not the 
+Guaranteed Performance Criteria, then for a period of ninety (90) days 
+following the Performance Test Seller shall have the obligation to use 
+reasonable efforts to improve performance so that the Guaranteed  Performance 
+Criteria are met. Such efforts shall be at Seller,s sole cost and risk. 
+Performance Tests shall be conducted in accordance with this Article.  
+
+10.8    Reduced Purchase Amount for Failing to Meet Guaranteed Performance 
+Levels.  Should the Performance Test of a Unit demonstrate that the Unit has 
+met the Performance Standards except for the Electrical Output Performance 
+Standard, the Purchase Amount related to that Unit shall be reduced by the 
+percent by which the Unit fails to meet the Power Output/kW Performance 
+Standard, so long as the Unit has achieved ninety percent of the guaranteed 
+level. Seller shall within 30 days refund any prior payment received for the 
+Unit in excess of the reduced Purchase Amount.

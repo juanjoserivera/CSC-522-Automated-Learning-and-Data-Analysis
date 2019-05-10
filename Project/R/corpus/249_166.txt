@@ -1,0 +1,4 @@
+This is the latest on our status of calculating and reporting the DPR.  Rick Buy, our chief risk officer, asked that we get back to normal as soon as possible.  I am currently working on termination statuses and when deals will be killed etc.  I am also working on a way to get the PCS cleaned up.  Continue to run the calc with the true-up flag off as this will cause more confusion than it is worth.
+
+Thanks,
+Stacey

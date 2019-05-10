@@ -1,0 +1,5 @@
+Terrific.  I called to let Kim know.  They will be leaving in just a few hours.  One last item.  Can you make them a reservation on this flight.  Kim will purchase the tickets at the Dallas Airport.
+ 
+Flight: 	 Continental Airlines flight 1662 on a McDonnell Douglas MD80 Jet - non-stop	
+Depart: 	 Dallas/Ft Worth, TX (DFW) - Wed, Jan 09 at 4:40pm	
+Arrive: 	 Houston, TX Bush (IAH) - Wed, Jan 09 at 5:45pm

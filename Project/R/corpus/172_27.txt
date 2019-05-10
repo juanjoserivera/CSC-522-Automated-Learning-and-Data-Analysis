@@ -1,0 +1,13 @@
+Kevin,
+
+Please change the Descriptor from
+
+US Gas Fin Spd   Nymex NL1 vs PEN      Sep01  USD/MM-L
+
+to
+
+US Gas Fin Spd   Nymex LD vs PEN      Sep01  USD/MM-L
+
+all else looks fine.
+
+Dutch

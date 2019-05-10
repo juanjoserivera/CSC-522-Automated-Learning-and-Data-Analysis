@@ -1,0 +1,3 @@
+After setting up the portfolio, please customize the view to show the most relevant data.
+
+Thanks.

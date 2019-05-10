@@ -1,0 +1,3 @@
+My only addition would be to strengthen the answer to #5 - RTOs, even if formed, do not explicity resolve the question of the Native Load Exception.  I think that this is critical to highlight if this issued is raised.
+ 
+Jim

@@ -1,0 +1,6 @@
+Deal 717768 should be kept whole.  This is a baseload purchase.  Deal 544392 should still act as the swing buyback on days that the plant underpulls.
+
+D
+
+
+FYI.  Anytime a purchase is done at an industrial point with a fixed price, the purchase should be kept whole.  Only the buybacks with Gas Daily pricing take the swings.

@@ -1,0 +1,8 @@
+The Index settles during bid week for the following month (last week of Sep for Oct) and is
+published around this time. This curve is probably in the system as basis, code D, which is the
+difference between the Index and NYMEX settle. This index is the Oct price curve (P) plus the Oct 
+basis curve (D). Deals are +/- a few cents for 
+The index (I) curve is next month's curve at what these differentials are trading at. It is not the actual
+"index". It is what is added to the index for physical deals priced off index.
+I know it is confusing.
+Jason

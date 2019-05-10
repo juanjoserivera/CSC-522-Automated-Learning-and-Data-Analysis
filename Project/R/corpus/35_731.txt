@@ -1,0 +1,23 @@
+Jeff:
+While I don't quite follow how terminating the Fixed taints the Floating 
+since we have separated the 2, I am okay with this if this is how our 
+commercial people understand how it works.
+Carol
+
+
+
+	"Eldredge, Jeff" <jeldredge@velaw.com>
+	06/18/2000 04:05 AM
+		 
+		 To: "St. Clair, Carol (Enron)" <carol.st.clair@enron.com>
+		 cc: 
+		 Subject: RE: June 16th draft of swap assignment
+
+
+
+Thanks for your comments.  A new draft should be out shortly that addresses
+your comments.  Re the deleted language in 3.4, it is considered essential
+that nothing can happen to terminate the Fixed Payment side of the Swap
+since this could arguably taint the Floating Payment obligations.  The
+investors are very sensative to this concern and I'm not sure we care.  Let
+me know if you disagree.

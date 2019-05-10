@@ -1,0 +1,12 @@
+means the &Daily Midpoint8 price set forth in Gas Dailyc (Financial Times 
+Energy), or successor publication, in the column "Daily Price Survey" under 
+the listing applicable to the geographic location closest in proximity to the 
+Delivery Point(s) for the relevant gas day.  If there is no single &Daily 
+Midpoint8 price published for that particular Gas Day, but there is published 
+a "Common" range of prices under the above column and listing, then the Spot 
+Price shall be the average of such &Common8 high and low prices.  In the 
+event that no +Daily Midpoint8 price or &Common8 range of prices is published 
+for that particular Gas Day, then the Spot Price shall be the average of the 
+following: the price (determined as stated above) for each of the first Gas 
+Day immediately preceding and following the Gas Day in which the default 
+occurred for which a Spot Price can be determined.

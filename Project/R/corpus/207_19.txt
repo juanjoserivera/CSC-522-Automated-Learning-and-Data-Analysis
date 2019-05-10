@@ -1,0 +1,4 @@
+It appears that there is a 10mw transmission schedule missing on peak from Pac System border to Mid C.  This has us out 320 mw at Mid C for 8/1/01.	
+
+thanks- 
+ryan

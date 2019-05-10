@@ -1,0 +1,13 @@
+Janine --
+
+Good job.
+
+On the hourly market price index, until we have LMP dispatch, the best we can do is a public index.  Let's not ask for too much.  Just something we can hedge against.  Can you talk with the EWS folks for the best index option???
+
+Also, if the default is a monthly public index, why do the customer's need any "parking"?  They can move directly to the new option.
+
+What is your definition of "functioning wholesale market"?  Are we stating that unless an RTO is running, we can't get rid of the PPO?  Maybe just resolve the Imbalance issue.  More specifics would be helpful.
+
+Thanks,
+
+Jim

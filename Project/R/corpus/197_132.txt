@@ -1,0 +1,9 @@
+Please have the default set to "Starting on" not  "Active on".
+
+
+We use Starting on Every day, and Active on much more rarely.
+
+
+Thanks,
+
+Cara

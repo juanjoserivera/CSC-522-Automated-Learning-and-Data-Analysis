@@ -1,0 +1,1 @@
+The currency P&L is missing from the preliminary again.  We shouldn't post P&L to the executive management reports with missing components.

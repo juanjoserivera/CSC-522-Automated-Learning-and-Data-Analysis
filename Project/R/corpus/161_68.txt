@@ -1,0 +1,1 @@
+Louis, I, for now, have requested wholesale basis positions(price equivalent) be keep out of the price report. Further I have requested a seperate basis report that will show similiar information contained in the price report. I would like to look at basis correlations before including them in fixed price.

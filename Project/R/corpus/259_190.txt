@@ -1,0 +1,1 @@
+Financial settlement occurs between Enron and the customer.  The pool is agnostic to what its participants do (i.e. generators that do 3rd party physical hedge are still paid by the pool, consumers of electricity who do 3rd party physical hedges also pay the pool)

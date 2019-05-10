@@ -1,0 +1,3 @@
+Sounds good to me.  FYI - the option true-up was a different issue, related to the way options were being input into the system.  They had days which would fall out of the calc, not a last day of the month problem.
+
+Stacey

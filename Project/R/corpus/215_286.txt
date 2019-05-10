@@ -1,0 +1,5 @@
+Wade -  Anywhere that we have Supplier Consolidated Billing Enron put up some form of credit to cover 45+ days of Utility charges.  So while I am unsure of the form of collateral, if Evan provides a list of where we are doing Supplier Consolidated Billing, we should be able to construct a Collateral Obligation worksheet.  We also have collateral in each ISO (NE-ISO, NYISO, PJM, CAISO).  
+
+It will take some time to de-DASR to Dual Billing and until our accounts switch, the Utilities will hold the Collateral.  
+
+Jim

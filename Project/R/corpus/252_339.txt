@@ -1,0 +1,19 @@
+Fran,
+If this deal was zeroed out (and it has been after the fact), then we should also have received a credit for no longer buying from MPC (the other side of the deal, 
+deal #549160). We should only lose $40 (the net difference). Any ideas?
+
+Thanks,
+Bill
+
+From: 	Chang, Fran  
+Sent:	Tuesday, July 03, 2001 10:05 AM
+To:	Williams III, Bill; Thompson, Virginia
+Subject:	RE: PMA's
+
+Virgina and Bill:
+
+During our month-end processes I have researched deal #549162.1.  The counterparty did change as Bill pointed out, but what makes you suffer a loss in the prior month adjustments was due to the volume being zeroed out for HE 3.  Originally the deal liquidated with HE3 (40MWh*$135), HE4(15MWh *$135), and HE5 (20MWh*$135), but on 4/19/2001 the volume for HE3 was zeroed out in scheduling, which means originally you were given too much $ for the sale and therefore we are now taking that revenue you made in HE3 back.
+
+Thanks,
+Fran
+x7973

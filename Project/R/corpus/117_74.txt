@@ -1,0 +1,10 @@
+Stephen,
+
+I made a copy of your BenchbyTrader and cleaned it up a little by taking out all the hidden rows and old traders.  It is saved to the same directory as UBS BenchByTrader.xls
+
+
+Can you look at this and check the macros to make sure it all still works?  Can you use that going forward?
+
+Thanks
+
+KK

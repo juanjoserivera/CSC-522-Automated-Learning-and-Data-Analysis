@@ -1,0 +1,17 @@
+Group,
+
+Ryan sent this email out once already, here it is again.  The oasis site map is http://www.nwoasis.org/OASIS/NODE
+The details of checking for ATC are as such Red=PAC(t), Blue=IPC(t)
+
+Leg 1. PACW to ENPR
+Leg 2. ENPR to BOBR
+Leg 3. BOBR to PATHC
+Leg 4. PATHC to PACE
+Leg 5. PACE to FC3
+
+We can do a buy resell with EPE to move this to PV or can use APS tranny to move this to Mead or PV as well.
+When scheduling from BOBR to FC3 on PAC (t) be sure to just put in the POR/POD and do NOT schedule each wheel seperately.  This will prevent us from being charged $5.84 each time.  Total cost for this tranny should be $5.84 +$2.38 +$5.84 = $14.06.  There will also be losses.  If using this wheel for a services customer, be sure to add in for losses and scheduling fees.  Also, be sure to LOG OUT of the IPC website when finished, otherwise we will be locked out if we time out!  There should already be a template for a tag to move this energy from PAC system border in the NW to FC345.  This path has had approximately 400 mws of tranny availabe the last few days.
+Please see me with questions.
+
+Thanks,
+Bill

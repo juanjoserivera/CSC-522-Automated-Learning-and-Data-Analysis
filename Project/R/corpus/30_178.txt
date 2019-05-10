@@ -1,0 +1,7 @@
+EPMI needs you to buy:
+700 CIN
+100 COMED
+50 off-peak CIN
+
+EPMI needs you to sell:
+100 ENT

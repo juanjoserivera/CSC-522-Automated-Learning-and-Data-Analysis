@@ -1,0 +1,36 @@
+What do you think of this? (sorry it isn't redlined yet)
+
+(b) Intra-Day Scheduling. Buyer may, upon at least four (4) Hours minimum 
+advance notice to Seller, request changes to a Schedule by way of an 
+Intra-Day Schedule Notice. Any such changes shall be in increments of at 
+least 50 MW and may not exceed the Contract Capacity nor reduce the Schedule 
+to less than four (4) Hours. If the Intra-Day Schedule Notice requires an 
+increase in the Scheduled Energy per the Day-Ahead Schedule Notice, Seller 
+shall, at its sole discretion determine whether to dispatch the Facility or 
+provide Energy from Market Sources.  Seller shall use commercially reasonable 
+efforts to provide Buyer with a price to accommodate Buyer,s Intra-Day 
+Schedule Notice. Such price shall include lost profit from any transaction 
+which would be cancelled in order to accommodate Buyer,s Intra-Day Schedule 
+Notice, plus all additional costs (whether direct or indirect); provided, 
+however, that such costs shall be limited to costs actually incurred by 
+Seller (including cost of cover, penalties, liquidated damages, cancellation 
+charges or the like due to another Person) with respect to (i) transactions 
+entered into by Seller with other Persons prior to receipt of Buyer,s 
+Intra-Day Schedule Notice (provided that such transactions and the terms 
+thereof can be verified in an audit to be performed in accordance with 
+Section 8.3, (ii) transactions that must be entered into by Seller in order 
+to accommodate Buyer,s Intra-Day Schedule Notice or (iii) extra costs 
+incurred in operating the Facility to accommodate such notice.  For the 
+avoidance of doubt, such costs shall not include Seller,s lost opportunity 
+costs with respect to transactions that Seller may have been able to obtain 
+but were not entered into by Seller prior to receipt of the Intra-Day 
+Schedule Notice.  If Buyer accepts Seller,s price, then the Schedule shall be 
+revised to reflect the changes. If Seller is unable to accommodate Buyer,s 
+Intra-Day Schedule Notice, such Hours shall not be included as Scheduled 
+Energy for the purpose of determining the Forced Outage Rate. Seller shall 
+have the right, but not the obligation, to resell any Energy not taken by 
+Buyer due to a decrease in Energy pursuant to an Intra-Day Schedule Notice 
+provided, however, that the revenues from any such sales will be offset 
+against the additional costs to be charged to Buyer as provided in this 
+Section 3.4(c).
+(d)

@@ -1,0 +1,79 @@
+I still don't understand.  But we are net short crude, and Crude, company 
+wide got longer 1000 contracts yesterday.  This is counter to what you are 
+saying below... Jeff
+
+
+To: Jeffrey A Shankman/HOU/ECT@ECT
+cc: John L Nowlan/HOU/ECT@ECT 
+Subject: Re: Liquids Violation Memo: Nov. 6  
+
+You are correct, JBLOCK got longer 495K barrels.  However, crude is a huge 
+hedge component on this deal and net crude position for Liquids is short.
+As you can see on the Component VaR graph, with the short position in crude, 
+it is eating up most of Agg-Liquids VaR.  Therefore, putting on any long 
+position in products (this includes LPG's) would act as a hedge.  
+
+
+
+
+
+Jeffrey A Shankman@ECT
+11/07/2000 12:41 PM
+To: Christian LeBroc/Corp/Enron@ENRON
+cc: John L Nowlan/HOU/ECT@ECT 
+
+Subject: Re: Liquids Violation Memo: Nov. 6  
+
+how did it reduce var if we added to the underlying positions?
+
+
+To: Jeffrey A Shankman/HOU/ECT@ECT
+cc: John L Nowlan/HOU/ECT@ECT 
+Subject: Re: Liquids Violation Memo: Nov. 6  
+
+JBlock does take up some of the VaR for Agg-Liquids; however, it is not a 
+contributor of VaR violation for effective date Nov. 6.  As matter of fact, 
+the VaR for JBlock went down.  The component VaR graph below shows that 
+heating oil was a hedge but no longer as of yesterday.  Gasoil is still a 
+hedge for Agg-Liquids but the hedge is reduced.    
+
+
+
+
+
+Jeffrey A Shankman@ECT
+11/07/2000 12:07 PM
+To: Christian LeBroc/Corp/Enron@ENRON
+cc: John L Nowlan/HOU/ECT@ECT 
+
+Subject: Re: Liquids Violation Memo: Nov. 6  
+
+Where is the mention of J Block hedges. 
+
+
+   
+	
+	
+	From:  Christian LeBroc @ ENRON                           11/07/2000 12:04 PM
+	
+
+To: Chris Abel/HOU/ECT@ECT, Susan D Trevino/HOU/ECT@ECT, Michael 
+Benien/Corp/Enron@ENRON, Homan Amiry/LON/ECT@ECT, Bjorn 
+Hagelmann/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, Jeffrey A 
+Shankman/HOU/ECT@ECT, John L Nowlan/HOU/ECT@ECT
+cc: John Swinney/HOU/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Michelle 
+Bruce/HOU/ECT@ECT 
+Subject: Liquids Violation Memo: Nov. 6
+
+Liquids desk has a VaR violation for effective date Nov. 6 of  $8.2MM, over 
+its limit by 3 percent. 
+
+The violation was due to heating and gasoil going shorter by 939K barrels.  
+Essential, shorten the heat/gasoil position reduced the overall net long 
+products, portfolio causing the crack spreads to widen when crude oil is net 
+short 5MM barrels.
+
+Furthermore, volatility on crude was up 3 percent with 15 cents upward move 
+in price. 
+
+Christian

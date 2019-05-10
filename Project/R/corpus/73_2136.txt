@@ -1,0 +1,3 @@
+In the past someone at Bridgeline would call someone at ENA or vice versa to approve the deal ticket so that the deal terms would populate the accounting system.  Note: this would only happen with Brigdeline because it is and Enron affiliate and because we are using the same trading systems.
+
+Approving this ticket will give Bridgeline the ability to bill ENA.  I think there might be another way to do this without someone at ENA approving a ticket.  I'll see what I can do.

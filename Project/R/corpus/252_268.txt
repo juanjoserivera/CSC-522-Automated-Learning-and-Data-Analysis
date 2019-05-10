@@ -1,0 +1,3 @@
+Kate,
+I think we need to enter the buy from EPE flat to our day ahead sale to STSW.  Otherwise the new deal sheet shows revenue that we did no receive.
+B

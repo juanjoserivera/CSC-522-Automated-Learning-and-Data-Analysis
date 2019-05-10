@@ -1,0 +1,37 @@
+How close did I get?
+
+10.2 Effect of Force Majeure.  In the event of a Force Majeure event 
+affecting Seller,s ability to Deliver Scheduled Energy from the Facility, the 
+following shall occur:  
+(a) Seller shall as soon as reasonably practicable use commercially 
+reasonable efforts to fulfill its obligations to deliver Scheduled Energy 
+from Market Sources until notice is provided pursuant to Section 10.2(b) 
+below.  do we want to delete this?  Gary didn't seem to like it.
+(b) Not later than ten (10) Days following the onset of the Force Majeure 
+event, Seller shall (i) issue a notice to Buyer stating whether Seller will 
+continue to fulfill its obligations to Buyer hereunder from Market Sources 
+until the Force Majeure event is terminated or (ii) declare Force Majeure and 
+relieve Buyer from its obligation to pay the Demand Charge during the time 
+that Seller is unable to meet its obligations hereunder, computed on a daily 
+basis.  If Buyer does not Schedule Energy during the ten (10) day evaluation 
+period and Seller declares Force Majuere, then  Buyer,s relief of the 
+obligation to pay the Demand Charge shall commence as of the date of the 
+Force Majeure event.
+(c) If, during the ten (10) day evaluation period referenced above, Buyer 
+Schedules Energy and Seller continues to Deliver Energy, but then declares 
+Force Majeure, Buyer,s relief from the obligation to pay the Demand Charge 
+shall commence on the date of the declaration of Force Majeure and not on the 
+date of onset of the Force Majeure event.  If, during the ten (10) day 
+evaluation period Buyer Schedules Energy and Seller initially Delivers Energy 
+but subsequently fails to Deliver, Buyer shall be relieved of the obligation 
+to pay the Demand Charge from the date Seller fails to Deliver Energy, and 
+not on the date of onset of the Force Majeure event.  Such relief from the 
+Demand Charge shall be computed on a daily basis.  
+In the event of a Force Majeure affecting Buyer,s ability to receive Energy 
+from Seller, payment of the Demand Charge shall continue.
+10.3 Termination Due to Force Majeure. If an event of Force Majeure continues 
+in effect for twelve (12) consecutive Months, then the Party not declaring 
+Force Majeure may terminate this Agreement upon providing written notice of 
+such termination to the other Party (but if such event of Force  Majeure 
+terminates before any such termination notice is provided, then this 
+Agreement shall continue in full force and effect).

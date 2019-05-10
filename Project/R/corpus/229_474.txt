@@ -1,0 +1,56 @@
+Enron Online Transactions
+.  Any member of the Envera Network (an &Envera Network Member8) who is a 
+customer of EOL may submit to EGM an irrevocable offer to buy or sell any 
+petrochemical, natural gas liquids, or plastics product that is then traded 
+by EGM on EnronOnline, on the standard terms and conditions (including 
+without limitation quantity, quality, shipping dates and payment terms) as 
+are established for such products on EnronOnlinev, at a price that is between 
+the bid and ask prices then posted by EGM on EnronOnlinev, with such offers 
+being a binding commitment by such Envera Network Member to complete the 
+proposed transaction on the same trading day (as trading days are determined 
+by EGM).  EGM agrees to conditionally accept such offers, subject to the 
+following requirements and limitations:
+ Current Envera Network Members (as of the Closing Date) may submit such 
+offers on or before the first anniversary of the Closing Date, and not 
+thereafter.  Any Envera Network Member who first becomes a member after the 
+Closing Date but before December 31, 2001, shall have until the first 
+anniversary of its membership agreement with Envera in which to submit such 
+offers, but not thereafter.  Any Envera Network Member who first becomes a 
+member after December 31, 2001, shall not be entitled to submit any offers to 
+EGM under this Section 8.2.  All of EGM,s obligations under this Section 8.2 
+shall expire no later than December 31, 2002.
+ The irrevocable offer by the Envera Network Member must be placed as a limit 
+order on EnronOnlinev and made irrevocable until the end of the trading day 
+in writing (by facsimile or otherwise) or otherwise in accordance with the 
+standard confirmation procedures of EGM.  In no event will EGM be liable for 
+any failure to complete any limit order or trade.  
+ The Envera Network Member must be a registered user of EnronOnlinev and 
+qualified to trade in the product that is the subject of the offer, all in 
+accordance with the standard terms established by EGM or EnronOnlinev.
+ EGM will accept or reject the offer on or before the close of the trading 
+day and will communicate such acceptance or rejection to the Envera Network 
+Member; if accepted the transaction will be completed through EnronOnlinev.  
+EGM's acceptance or rejection may be based on EGM,s ability to reverse the 
+trade with a third party or otherwise fully mitigate the risk created by the 
+trade, and on such criteria as EGM applies to such trades generally, 
+including without limitation its evaluation of the credit risk of such Envera 
+Network Member based on EGM's standard credit policies then in effect.
+ Any trades of similar products by EGM shall be independent of the 
+transaction offered by the Envera Network Member.  EGM's trades will be for 
+its own account and in no event shall EGM trade for or on behalf of the 
+Envera Network Member.
+ Neither EGM nor EOL will charge the Envera Network Member any transaction 
+fees with respect to such transaction.
+ The aggregate number of transactions that EGM will be obligated to accept 
+pursuant to this Section 8.2 shall not exceed one hundred (100) per Envera 
+Network Member, and shall not exceed an aggregate of five thousand (5,000).
+ No offers shall be accepted by EGM under this Section 8.2 after December 31, 
+2002.
+ No transactions under this Section 8.2 will be executed if, in the sole good 
+faith judgment of EOL or EGM, upon advice of its counsel, the result or 
+effect of which may be that any of EGM, EOL, or EnronOnlinev, their 
+Affiliates or any of their respective businesses (i) could become subject to 
+regulation under the Commodities Exchange Act, as amended; (ii) could become 
+subject to regulation by the Commodities Futures Trading Commission; or (iii) 
+could become subject to any regulatory proceeding, investigation, action, 
+inquiry or review.

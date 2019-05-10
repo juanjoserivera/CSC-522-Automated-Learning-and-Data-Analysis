@@ -1,0 +1,6 @@
+I will have 4 books:
+
+CAND-MGMT-BAS for all AECO and DAWN BASIS
+CAND-MGMT-GD for fixed price AECO and DAWN 
+CAND-MGMT-PR for NYMEX
+CAND-MGMT-PWR fot Alberta, MID-C, Ontario, NY, NEPOOL, PJM, Cinergy power

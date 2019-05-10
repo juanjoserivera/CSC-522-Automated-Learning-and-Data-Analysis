@@ -1,0 +1,12 @@
+Please start the following task in the morning:
+
+Using the Official 11-30 calcs that you exported deal summaries from, add the following counterparty's MTM by desk:
+Constellation 
+Energy Authority
+Sempra Energy Trading
+Public Service of Colorado
+
+I believe the calc that identified our top-levels had extra transactions or values that did not fall out of our books.  Once you have figured out the total for the above counterparties compare them to your top-levels.
+
+Thanks,
+Stacey

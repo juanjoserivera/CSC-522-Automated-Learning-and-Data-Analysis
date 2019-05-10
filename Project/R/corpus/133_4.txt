@@ -1,0 +1,2 @@
+attached are the curve files for your part of the West - basis, index, GDY, phy and gas daily.  Please take a look and make sure I have not put a curve in the wrong region.  Due to size, I am sending them in three different emails. Thanks.
+PL

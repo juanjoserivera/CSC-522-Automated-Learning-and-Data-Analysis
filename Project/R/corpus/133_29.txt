@@ -1,0 +1,2 @@
+Please modify the curve files you are currently loading to incorporate the database changes.  These changes need to be made today.  Please ask myself or Russ if you need any help.  Thanks.
+PL

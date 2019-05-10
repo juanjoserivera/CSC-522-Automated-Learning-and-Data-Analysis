@@ -1,0 +1,18 @@
+We can't wait for another meeting - we are in front of the OOC on Monday with the Enron Americas plan.
+
+Here's my numbers (I got them from etrade!!!!!):
+
+0 - 5000 transactions per day		$  8:00/normal transaction (including internals)
+> 5,000 transactions			$ 10:00/normal transaction 
+Options					$ 10:00/ per option (using option grid)
+Take or Pay				Minumum Number of transactions per annum = 1,000,000
+Service Interruption (outage)		Reduction in our bill of $100,000		(less than 30 minutes)
+					Reduction in our bill of $500,000		(greater then 30 minutes)
+Per product type set up 			0		(its in your interest as the number of transactions is high in ENA.  It think this issue is for other groups.)
+On development 			0		(its in your interest - I think this again an issue for other groups.)
+
+Now we all have the same incentive - grow the number of trades. I think this is pretty close for us.  Only paying once for a sleeve trade.
+
+Let the games begin!
+
+Louise

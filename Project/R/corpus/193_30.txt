@@ -1,0 +1,3 @@
+Why are we doing a hot tap?  Is this a new I/C?   If so is it a receipt or delivery.  Seems like gas control doesn't know anything about it.
+
+Thanks ds

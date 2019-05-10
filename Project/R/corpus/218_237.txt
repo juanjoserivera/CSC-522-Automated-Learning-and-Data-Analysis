@@ -1,0 +1,15 @@
+Kimberly,
+	I am more than happy to get this issue resolved, however, this is the first that I have heard about getting a number to the customer by EOB 9/28/01.Here are some of the questions that I have regarding this deal:
+						1) What index are we settling this contract at. I see that you have both a 10-min Dec price along with an hourly price in the spreadsheet that you sent me. My 
+						     is that it would be settled at the Dec since that is what the ISO pays at, but I need confirmation that the customer has agreed to this index.
+						2) Are the prices you have in your spreadsheet settlement quality since the ISO does not publish any changes to their web site that happen after 96hrs.
+						3) What method are we using to confirm the customers usage other than him sending us a file.
+						4) When can we expect to get the usage data for Feb.-July
+						5) Are these spreadsheets the detail behind what was invoiced to the customer.
+						6) Do you have a copy of the latest contract with this customer that gives the calculation language appropriate to their over-generation.
+ 
+   I will get this turned around for you as soon a possible once we get the details ironed out on the process. I understand your urgency in wanting to get this settled as soon as possible and I will make sure that happens going forward. However, I will need your patience on getting this settled for Aug. since I have yet to find a documented process for the proper settlement of this contract. Please free to give me a call if you have any questions regarding this e-mail.
+
+										             Thanks  
+											Chris Stokley
+										           503-807-8959

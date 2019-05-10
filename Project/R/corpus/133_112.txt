@@ -1,0 +1,6 @@
+NG-Price contains All physical and All intercompany
+ENA-FT-WC-SJ Financial Deals that are out of the money
+ENA - FT-WT-SOCAL Financial Deals that are in the money
+
+Shout with anymore questions.
+PL

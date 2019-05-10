@@ -1,0 +1,1 @@
+He can net imbalances together by "booking out" the imbalance of one entity with the imbalance of the other entity.  In other words,  do a book-out with himself.  This can be done without adding the single point as a division to an existing divisional contract.

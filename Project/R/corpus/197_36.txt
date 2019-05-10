@@ -1,0 +1,8 @@
+I am unable to log on to local enpower, I get a dialog box that says the following
+
+Script:  W:\Scripts\enpower.vbs
+Line:  476
+Char:  13
+Error: Permission Denied
+Code: 800A0046
+Source: Microsoft VBScript runtime Error.

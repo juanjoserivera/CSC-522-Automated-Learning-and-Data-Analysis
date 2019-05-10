@@ -1,0 +1,42 @@
+Good morning -
+
+Just wanted to let you know that I've been running the stage version of the 
+Forward Obligation report using production data, and I seem to be getting all 
+the same numbers as I do with the production version of the report. I will 
+continue to compare the two today when I run these reports, just to make 
+sure. But in the meantime, all looks well. Thanks for your help.
+
+Kate Symes
+Trading Support
+503-464-7486
+
+
+
+From: Kroum Kroumov/ENRON@enronXgate on 03/19/2001 11:32 AM CST
+To: Kate Symes/PDX/ECT@ECT
+cc: Cara Semperger/PDX/ECT@ECT 
+
+Subject: RE: Forward Ob test run
+
+
+    Thanks Kate,
+  
+    We were looking for somebody like you. You can run it with any settings,
+   as you run it every day.  Make sure you see version 3.0.0.30.
+    
+
+    I think however it is better if you can run  the report against 
+production data
+    because the test data are not good enough. I think David Poston created
+    a shortcut on Cara's and Valarie's computers, you can talk to him to do it
+    for you as well.
+
+
+     The command from the command prompt should be:
+      C:\Enpower\stage > FwdObl user_id user_password  pwrprodn_ded
+    (ask the IT people if this doesn't mean anything to you, I can phone
+       David as well you want me to)
+
+     Thanks,
+     Kroum
+     713-853-9980

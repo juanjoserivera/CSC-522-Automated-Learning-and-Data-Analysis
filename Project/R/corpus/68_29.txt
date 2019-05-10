@@ -1,0 +1,5 @@
+According to the scheduling sheet, deal#380414 is 400mw total.  This is a 50 mw deal.  25mw was booked out and 25 mw was physical under pwx tag.    Deal#381345 should be 600mw.
+
+Hope this helps...
+
+lisa

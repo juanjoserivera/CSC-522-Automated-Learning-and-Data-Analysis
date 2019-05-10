@@ -1,0 +1,21 @@
+ok.  by the way, there is no model.  i just pull these numbers out of the air.  
+
+thu
+p	30
+o	20
+
+fri
+p	30
+o	20
+
+sat
+p	28
+o	20
+
+sun
+p	28
+o	20
+
+mon
+p	45
+o	20

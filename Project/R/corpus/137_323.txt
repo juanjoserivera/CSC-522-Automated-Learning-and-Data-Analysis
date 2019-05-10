@@ -1,0 +1,18 @@
+What an awful mess.
+
+
+
+
+
+"Thompson, Peter J." <peterthompson@akllp.com> on 11/15/2000 08:13:27 AM
+To: <Kay.Mann@enron.com>
+cc:  
+
+Subject: RE: Blackline
+
+We also used CompareRite.  However, when the system swithched over the
+weekend, our current tool bars no longer work with Word as presently
+configured. In addition, those documents that had automated headings.
+etc. now are incompatible with the new versions.  We are having an
+outside vendor try to clean the documents up so that they will be
+compatible and Houston IT is working on fixing our tool bars.

@@ -1,0 +1,1 @@
+Are we sending drafts by e-mail?  I can imagine we probably are.  If so, let's run a test by sending a real draft to one of us internally to open and see if there is a metadata problem.

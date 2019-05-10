@@ -1,0 +1,15 @@
+Hey Pat,
+
+I've done some research on the actuals that you make reference to (Vectren).
+
+Enron's sale with Heartland Steel is at the interconnect between Midwestern Gas Transmission and Vectren (formerly know as Indiana Gas).  The actual volumes that you are reporting and consider to be your monthly actuals are volumes that I believe are behind Vectren's city gate (which means that you more than likely have an imbalance on Vectren's system).  This bears checking with Vectren, regarding an imbalance behind their gate.  You should be receiving some type of statement or invoice from Vectren.
+
+Per the contract, Enron uses the Midwestern Gas Transmission (pipeline statement) to actualize our monthly invoices to you.
+
+I've attempted to draw a diagram for you to make it as clear as I can.
+
+Let's talk!
+
+_________________________________________XXXX_______________________________________________________________________________XXX 
+Midwestern Gas Pipeline                            Interconnect b/t Vectren                 (this pipe owned by Vectren)                                       Heartland Steel Facility
+	                                                    & Midwestern Gas Pipeline	                                                                                           (Burner Tip)

@@ -1,0 +1,1 @@
+If we do this, we need to have both an internal group and an external group.

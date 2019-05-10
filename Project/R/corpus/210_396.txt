@@ -1,0 +1,1 @@
+One more thing, we have no way of knowing what gas was bought at index vs. daily.

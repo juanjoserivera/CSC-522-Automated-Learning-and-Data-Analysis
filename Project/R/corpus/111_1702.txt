@@ -1,0 +1,43 @@
+Michael,
+
+I think that Keynes was right on the money.
+He had great insights into the forward markets.
+
+By  the way, what are your thoughts about CA?
+
+
+Vince
+
+
+
+From: Michael SCHILMOELLER/ENRON@enronxgate on 01/04/2001 02:33 PM
+To: Stinson Gibner/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: Henwood Stuff and Thoughts about Valuation
+
+Did you guys get this?
+
+I was too interested in the conversation to interrupt with comments about
+risk/return & valuation of assets for utilities.  I thought I would mention to
+you, however, that when decisions are quantified, utilities usually use
+classical decision analysis, i.e., von Neuman utility curves.  If the decision
+is for unregulated assets or impacts shareholders directly, it is the
+President's curve; if the decision would be covered in rates, it is the
+customers' curves or equivalently the PUC's curve.
+
+I think if I were going to approach valuation in commodities where the
+assumptions of Black/Scholes do not apply, I would start with the CAPM for
+large industries in an area, use pro formas to translate this to utility
+curves for the input commodities, and add the utility curves.
+
+Another issue:  The factor that explains why Enron is lowest bidder is its
+role in the market.  In the 1930s, Keynes argued that if most market
+participants with long position were hedgers, futures prices would be higher
+than spot; if they were speculators or traders, future prices would be lower
+than spot.  Traders must be compensated for holding the risk; hedgers
+(including utilities and consumers) are willing to pay a premium for the
+certainty.  Consequently, Enron traders have bigger bid/ask spreads and lower
+bid prices.
+
+Just some random thoughts,
+Michael

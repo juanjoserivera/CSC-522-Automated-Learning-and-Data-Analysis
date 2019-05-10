@@ -1,0 +1,16 @@
+When I run a CompareRite redline I get a different number of changes, so I 
+was unclear as to the compared documents.
+
+Kay
+
+
+
+
+"Scheib, Jacqueline Pennino" <jscheib@rc.com> on 11/06/2000 10:48:55 AM
+To: "'Kay.Mann@enron.com'" <Kay.Mann@enron.com>
+cc:  
+
+Subject: RE: FuelCell / Enron Purchase Agreement
+
+The comparison was run against the last version you sent to FuelCell on the
+2nd of November.

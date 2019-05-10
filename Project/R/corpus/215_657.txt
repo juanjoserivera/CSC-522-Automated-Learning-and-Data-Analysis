@@ -1,0 +1,3 @@
+Here is PJM's attempt at NERC language.  I think it makes sense for us to support this.
+
+Jim

@@ -1,0 +1,8 @@
+Tim,
+
+Probably 3 to 5 months ago David Poston demonstrated a new position manager to work with both FSP and Enpower. David Poston showed the position manager to me, Cara Semperger, and Phil Platter. Dave suggested that the new position manager would replace the current stand-alone position managers in CAPS and Enpower. When Dave and I ran through the demonstration, I was told that the East desk had driven most of the development work to date. The functionality of the position manager in the stage Dave presented to me seemed useful, with little development needed for us to implement it. The position manager looked like it would offer several improvements over Real-Time's current position and report reconciliation methods. My impression of the application was that it would be a portion of FSP when implemented and was not a stand alone application. Within a week after demostrating the new position manager, Dave relayed to me that production of the position manager would be delayed until after FSP was in production. As a result of the FSP delay, I have heard nothing of the position manager and have had no input on it since that first meeting. I think this application (as I saw it last) has the potential to improve our reports and reduce our time spent running them. This application should be of benefit to preschedulers, risk and deal control. Now that the position manager is back on the table, I would like the real-time group to be involved in the implementation of this portion of FSP and work to improve its ability to act as a report reconciliation tool.
+
+If you have any questions please let me know.
+
+Thanks,
+Bill

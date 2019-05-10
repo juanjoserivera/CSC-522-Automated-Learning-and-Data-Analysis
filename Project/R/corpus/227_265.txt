@@ -1,0 +1,1 @@
+Thanks  Stuart, I'll add it in.  Two other questions -- should the performance of the services be delayed until requested at a later date (there isn't much need for it today) and what do we do about the fees?

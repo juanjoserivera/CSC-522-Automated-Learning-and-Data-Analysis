@@ -1,0 +1,26 @@
+what is this
+
+
+
+
+ARSystem@mailman.enron.com on 12/06/2000 07:00:30 PM
+To: jeffrey.a.shankman@enron.com
+cc:  
+Subject: Approval is Overdue: Access Request for jeffrey.a.shankman@enron.com
+
+
+This request has been pending approval for  28 days and you are the 
+alternate.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000006063&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000006063
+Approver            : jennifer.burns@enron.com
+Request Create Date : 10/30/00 4:01:37 PM
+Requested For       : jeffrey.a.shankman@enron.com
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications

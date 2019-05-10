@@ -1,0 +1,5 @@
+I went into Scheduling to view these deals and they have been zeroed out.  I'm confused as to why they would appear in the view actuals in deal entry.  I believe these should synchronize, or they read off of one another. ??
+
+diana
+
+Deal # 517673.1 and 517674.1

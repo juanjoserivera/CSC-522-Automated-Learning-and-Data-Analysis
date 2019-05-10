@@ -1,0 +1,3 @@
+The first one looks ok to me as long as someone has checked the accuracy of the reference to Gas Daily.
+
+I have trouble with the second one.  This really looks like a basis swap so I think we need to start with basis swap language.  Can you call me on this one?

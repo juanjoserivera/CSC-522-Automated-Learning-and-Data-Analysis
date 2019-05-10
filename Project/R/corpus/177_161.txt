@@ -1,0 +1,1 @@
+looks good.  i'm working some stuff now that is writing to the z:\ drive for publishing on the web -- i will have it write to i: and set it up so it will be easy to change from now going forward.  should be able to tell if it works from that.  i think your idea was a good one.

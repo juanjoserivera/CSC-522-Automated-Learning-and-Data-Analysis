@@ -1,0 +1,1 @@
+That would work well if I was trying to do projects, but I am trying to be able to utilize the curves in the business to measure VaR.    We now use them for NNG & TW in the Caminus System, and want to do so for our other pipes as well.

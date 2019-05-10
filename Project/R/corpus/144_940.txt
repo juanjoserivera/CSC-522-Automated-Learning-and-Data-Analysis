@@ -1,0 +1,35 @@
+This email was sent to me by mistake.  I didn't read it once I realized it 
+was sent to me in error.
+
+Mike McConnell
+
+
+
+
+
+
+"Moore, Darwin" <DarwinMoore@PZLQS.com> on 07/28/2000 08:35:11 AM
+To: "Billings, Tabatha" <TabathaBillings@PZLQS.com>, "Holley, Gary" 
+<GaryHolley@PZLQS.com>, "Bassett, Greg" <GregoryBassett@PZLQS.com>
+cc: "'Mike McConnell'" <mike.mcconnell@enron.com>, "Lyng, Kevin" 
+<KevinLyng@PZLQS.com>, "McCoy, David J." <DavidMcCoy@PZLQS.com>, "Kemp, 
+Russell" <RussellKemp@PZLQS.com> 
+Subject: RE: Final Report - Sales Tax Calculation for the JLI POS System
+
+
+Tabatha, please schedule this meeting for August 10th.  Greg, Gary and I
+should be able to handle it.  Russell, David, Tom - let Tab know if you want
+to attend.  Tab, also invite Kevin Lyng, or whoever he designates, so we
+have someone who can carry the ball on contacting zees who aren't taxing
+correctly.
+
+Also, does anyone have the document showing the taxes and results by store?
+I only have the "here's what we did, here's what we found" letter.
+
+To fix all this, we need to know the correct tax rate per store, the method
+they should be using, and whether parts and/or labor need to be reported on
+the invoice.  Then, our little group can make some consistency decisions
+about how taxes will be computed and reported at the company stores (there
+are some options we need to nail down), then IT will implement.
+
+>

@@ -1,0 +1,36 @@
+I'm so glad to hear it! Cara suspected it was an EOL bug that had since been 
+fixed. Thanks for clarifying this.
+
+Kate
+
+
+
+From: Duong Luu/ENRON@enronXgate on 03/26/2001 11:24 AM CST
+To: Cara Semperger/PDX/ECT@ECT, Steve Nat/ENRON@enronXgate
+cc: Tim Belden/HOU/ECT@ECT, Mike Swerzbin/HOU/ECT@ECT, Kate 
+Symes/PDX/ECT@ECT, Diana Scholtes/HOU/ECT@ECT, Sean Crandall/PDX/ECT@ECT, Tom 
+Alonso/PDX/ECT@ECT, Mark Fischer/PDX/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Jeff 
+Richter/HOU/ECT@ECT, Chris Mallory/PDX/ECT@ECT, Matt Motley/PDX/ECT@ECT, 
+Michael M Driscoll/PDX/ECT@ECT 
+
+Subject: RE: AN EOL GLITCH THAT HAS TO DO WITH APRIL DEALS
+
+
+Hello Cara,
+
+We have determined that the EOL Bridge in production is currently working and 
+handling time zone issue very well.
+Back in June 2000, there is a bug, which related to time zone issue and we 
+fixed it since then. All deals that you
+provided to us had entered before July 2000.
+
+We will run a query to identify if there are any other deals, which have 
+similar problem with time zone.
+
+Please let me know if you find more problems with EOL Bridge, we will fix it 
+immediately.
+
+Your help is highly appreciated
+
+Regards,
+dluu

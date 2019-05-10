@@ -1,0 +1,2 @@
+the price on the eol data that you have is the bid or the offer depending on if the trade is a buy or a sell
+we buy is our bid and when we sell it is our offer

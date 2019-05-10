@@ -1,0 +1,3 @@
+1.  EnronOnline is not an exchange, it is a bilateral transaction system.  It differs from futures exchanges in many respects including the following:  (i)an Enron entity is a counterparty to every transaction concluded over the system; (ii) EnronOnline transactions are not cleared;  (iii) the transactions concluded on the system are forward contracts or derivatives, not futures; and (iv) access to EnronOnline is restricted to commercial entities, i.e. no retail transactions are concluded on EnronOnline.
+
+3.  EnronOnline transactions are not cleared through any third party mechanism.  Enron evaluates the credit of its customers and determines how much credit exposure it is willing to take with respect to each of them.

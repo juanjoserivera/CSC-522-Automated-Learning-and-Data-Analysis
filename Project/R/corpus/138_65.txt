@@ -1,0 +1,3 @@
+Maybe the next step is to dig into the allocation methodology that Daniel uses to see if it assumes the correct number of people.  Then convert the monthly allocation amount to a cost per person and do the same for your other analysis so we can compare apples to apples.  When you combine origination and trading we are likely to exceed 15 people.  My guess is that we are being allocated costs based on too many people (Pre HPL Sale).
+
+Tom

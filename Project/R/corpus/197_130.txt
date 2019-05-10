@@ -1,0 +1,12 @@
+His attempts to get path confirmation he gets this error
+
+
+
+ACCESS VIOLATION AT ADDRESS 005096E9 IN MODULE "PATH CONFIRM.EXE" READ OF ADDRESS 00000000.
+
+
+He needs access asap.
+
+Thanks,
+
+Cara

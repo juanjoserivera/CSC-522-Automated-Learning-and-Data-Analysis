@@ -1,0 +1,7 @@
+Z,
+
+These are the us gas Netco curves we would like to move over.  In columns G&H we have also provided you with the gas daily curve mappings for the new database. 
+
+Thanks
+
+KK

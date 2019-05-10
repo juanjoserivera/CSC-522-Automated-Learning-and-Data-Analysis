@@ -1,0 +1,3 @@
+Ed
+
+As you requested  attached is language EPMI/ENA currently uses for index based power deals at various delivery points.  This language forms the basis for what is inserted into physical and financial confirmations for power index-based deals.  The underlying confirmations may also contain conforming language depending upon the delivery point and the counterparty.  This language is updated/revised periodically as indexes change, new information becomes available and/or to fit the agreed upon transaction.  If you have any questions, please call me at 713 853 6349.

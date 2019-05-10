@@ -1,0 +1,7 @@
+Could you please do me a favor.
+
+Deloitte is auditing our NGX feed process and they need to be able to check the integrity of our data.  Grahan Larson at Deloitte wanted us to run the query that is outline in the word doc attached with a few alterations.  He was wondering if we could include the counter party ID, counterpart flag, and the counterpart name in the query we send to him?  Could you please coordinate getting him the information he needs.   His phone number is 630-7618.
+
+Thanks,
+
+Jon

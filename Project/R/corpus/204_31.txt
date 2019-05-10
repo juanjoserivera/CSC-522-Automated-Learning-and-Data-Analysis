@@ -1,0 +1,1 @@
+Can someone do a study on the tariffs of major pipeline storage fields to determine which fields require that storage gas is withdrawn regardless of price.  If not, how much to roll storage?

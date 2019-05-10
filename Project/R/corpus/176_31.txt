@@ -1,0 +1,5 @@
+That looks pretty good.  It looks like there are a few outliers on the graphs, but overall it looks really good.  Go ahead and do whatever else you think you should do.  This load should be very temperature sensitive and there should be no linepack or anything else in this load information.
+
+Thanks,
+
+Jay

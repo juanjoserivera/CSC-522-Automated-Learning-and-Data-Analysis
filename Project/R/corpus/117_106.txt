@@ -1,0 +1,5 @@
+Thanks,
+
+Will the test database be converted by Thursday?  We will be unable to verify that the deals are bridging correctly unless we can see the EOL reports.
+
+Kam

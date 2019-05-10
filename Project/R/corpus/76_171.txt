@@ -1,0 +1,3 @@
+Attached is a file that has all of the Central Region EOL products.  EOL needs to reassign trader names and books to these products.  I realize that not all products will initially be active, but we are in the process of getting everything ready for the restart of trading business.  Just put a trader name in column H for the corresponding EOL product.  If you have any questions, let me know.  Thanks.
+
+DG

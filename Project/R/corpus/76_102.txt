@@ -1,0 +1,3 @@
+Transaction ID 610 Product ID 35729 did not book correctly.  It is a two leg deal.  The first leg is a GD index deal and the price component has the wrong book.  It has AB-PWR-ST-GD and should be FB-CENT2.  The second leg is a F4F deal and it put the wrong value in the price component and basis component.  Previous nights price settle should be in price and $.02 should be in basis.  The deal has $.02 in price and $.00 in basis.
+
+DG

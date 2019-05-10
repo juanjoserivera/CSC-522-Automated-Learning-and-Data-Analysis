@@ -1,0 +1,10 @@
+Here are the post-id's for today
+
+
+Price		1452831
+Basis		1452832
+Index		1452833
+GDM		1452834
+GDI		1452835
+GDM-Canadian	1452839
+GDY-Canadian	1452843

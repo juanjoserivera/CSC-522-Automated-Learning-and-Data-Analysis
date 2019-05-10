@@ -1,0 +1,5 @@
+Go ahead and include counterparties on our power list even if they do not have any outstanding trades.  That way, if anyone is comparing our lists later on their will be no discrepancy and they won't have to ask us again.
+
+Thanks for all the other information.
+
+Stacey

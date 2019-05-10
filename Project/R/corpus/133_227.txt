@@ -1,0 +1,2 @@
+Can you do the same thing with a different book id?  Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price.  Financial deals only.  Thanks.  Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday.
+PL

@@ -1,0 +1,19 @@
+Hey, it worked! I have no idea what happened, but it looks great. Thanks for 
+checking it out.
+
+Kate
+
+
+
+From: Brett Pate/ENRON@enronXgate on 03/30/2001 12:24 PM CST
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: RE: Forward Obligation Report error
+
+Kate, I ran the report with the exact same options and it came right up.  Try 
+it again, exactly as before.  Usually if it works for one person and not the 
+other it is a security issue.  Let me know what happens.
+
+Thanks,
+Brett

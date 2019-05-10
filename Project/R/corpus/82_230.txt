@@ -1,0 +1,2 @@
+trader wrote deal down wrong in log.  delivery point is mid c I will change 
+in a few minutes.

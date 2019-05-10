@@ -1,0 +1,7 @@
+I started calculating the bankruptcy book last night for the credit group.  This needs to be done nightly.  I may be out a few days so if I am can someone else take this over from me please?  We can also use these to check daily for counterparties that have been moved incorrectly.
+
+The file is in O:\erms\1intra\west\Bankruptcy post-ids.xls
+
+Thanks
+
+KK

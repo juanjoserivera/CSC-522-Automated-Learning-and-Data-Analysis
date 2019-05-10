@@ -1,0 +1,16 @@
+I don't understand the last sentence.
+
+
+
+
+From: Reagan Rorschach/ENRON@enronXgate on 05/25/2001 09:31 AM
+To: Kay Mann/Corp/Enron@Enron
+cc:  
+
+Subject: RE: Open items for MDEA
+
+The value in the table is the beginning balance for each month.  So if they 
+cancel in the middle of the month, they should pay the balance at the 
+beginning of that month and no prorated minimum monthly fee.  If you prorate 
+it on both ends, you end up getting the total balance shown at the beginning 
+of the month.

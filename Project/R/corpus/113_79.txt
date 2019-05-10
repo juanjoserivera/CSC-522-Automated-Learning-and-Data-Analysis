@@ -1,0 +1,1 @@
+No change.  The plan is to make the changes effective 1.01.02.  We need to discuss the communication of the changes.  My recollection from one of our earlier conversations is that this is considered a benefit change and therefore must be communicated.  Is that right?  Is it all employees or only US based?

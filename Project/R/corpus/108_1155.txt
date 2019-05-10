@@ -1,0 +1,15 @@
+At Mark's request, I am transmitting proposed changes to the collateral 
+arrangement language in the Online GTC's.  Please let me know if it meets 
+with your approval.
+
+8.  Collateral Arrangements.  Counterparty shall (at Enron,s request) from 
+time to time and at Enron,s option either:  (i) within one Business Day of 
+such request by Enron, provide to Enron a letter of credit in respect of 
+Counterparty's obligations under any Transaction, in such form and for such 
+amount and from such issuer, as is acceptable to Enron in its absolute 
+discretion; or (ii) within such period as is specified by Enron, provide for 
+the benefit of Enron a guaranty from a party, in such form and for such 
+amount as is acceptable to Enron in its absolute discretion.  Failure so to 
+provide such letter of credit or guaranty or any default under such letter of 
+credit or guaranty shall constitute a default hereunder giving rise to the 
+immediate right of termination by Enron under this Transaction.

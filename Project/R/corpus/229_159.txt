@@ -1,0 +1,51 @@
+That works to make it more bilateral.  I think we still have the fundamental 
+problem that it is a basically flawed concept.  But that's not going to be 
+fixed by drafting.
+
+
+
+	David Forster@ENRON
+	08/21/2000 06:48 PM
+		
+		 To: Mark Taylor/HOU/ECT@ECT
+		 cc: 
+		 Subject: Re: Gross Error language
+
+I think we need for this to be reciprocal -although I agree the errors are 
+likely to be only our own.
+
+Therefore, I suggest the following:
+
+(f) Notwithstanding any provision of this Agreement, any master agreement or 
+any GTC to the contrary, any Transaction resulting from a Gross Error may  be 
+voided and the parties agree that any such voided Transaction shall be of no 
+force or effect.  &Gross Error8 shall mean the posting of any price that is 
+[5]% or more above or below then prevailing market prices, which difference 
+is verified by the average of quotations from three or more participants in 
+the relevant market for Transactions which would be conducted at the time of 
+the Transaction containing the Gross Error. For a Transaction to qualify as 
+subject to Gross Error, one party must communicate by facsimile to the other 
+the claimed existence of Gross Error within [3] hours of the Transaction 
+occurring. 
+
+
+What do you think?
+
+Dave
+
+
+
+
+From: Mark Taylor@ECT on 08/14/2000 05:27 PM
+To: David Forster/Corp/Enron@Enron
+cc:  
+
+Subject: Gross Error language
+
+(f) Notwithstanding any provision of this Agreement, any master agreement or 
+any GTC to the contrary, any Transaction resulting from a Gross Error by 
+Enron shall be voided at Enron,s election and Counterparty agrees that any 
+such voided Transaction shall be of no force or effect.  &Gross Error8 shall 
+mean the posting of any price that is [30]% or more above or below then 
+prevailing market prices, which difference is verified by the average of 
+quotations from three or more participants in the relevant market.

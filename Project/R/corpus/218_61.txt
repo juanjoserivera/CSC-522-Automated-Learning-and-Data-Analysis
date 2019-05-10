@@ -1,0 +1,5 @@
+Pat,
+	The files are checked by EPMI on a daily basis, however, nothing is done w/ these files until an explanation is sent as to why they are being resubmitted. In our process we need to be able to explain both the reason for the resubmital and the MW variance to the ISO. 
+
+
+									Chris

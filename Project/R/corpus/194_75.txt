@@ -1,0 +1,6 @@
+Sell 100 Contracts June, 2001 NYMEX @ $4.36
+Sell 100 Contracts June, 2001 NYMEX @ $4.31
+Buy 100 Contracts June, 2001 NYMEX @ 4.26
+
+Settlement Price $4.239.
+Trading $4.228 on Acces.

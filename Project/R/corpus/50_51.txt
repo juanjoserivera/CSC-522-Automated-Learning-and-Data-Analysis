@@ -1,0 +1,2 @@
+FYI,
+	Looks like we have a few adm things to get in place before we can implement.

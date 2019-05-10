@@ -1,0 +1,5 @@
+Jim,
+	We are missing one significant piece of info in this document. We need to add the charges associated Positive and Negative  Load Deviation (Penalty Charges). I don't think that there are any for Positive Dev., but I know that there are charges associated to Neg. Dev.
+
+
+								Chris

@@ -1,0 +1,76 @@
+As far as I know the commissioning period we have in the current LM contracts 
+still works for the LMs.  I haven't heard any differently.  You just plug 
+those things in, right Scott?
+
+From the owner/power seller standpoint, the predictability is more important 
+than the time period (within reason, of course).  No matte what we have on 
+LDs with GE, the penalty for not moving megawatts will be more.
+
+As for standard of conduct, do we have language in the warranty section about 
+how the service techs have to work?  Maybe something similiar would be 
+work?   
+
+The discussion shows that it is a good idea to get them committed to 
+performing the TD of I at the time we sign up to buy the turbines.
+
+ckm
+
+
+
+
+John G Rigby@ENRON_DEVELOPMENT
+05/24/2001 07:54 AM
+To: Bill Williams/ENRON@enronXgate@ENRON
+cc: Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Kay 
+Mann/Corp/Enron@Enron 
+
+Subject: RE: Experience In commissioning GE 7FA's & Slow/Insufficient TDI  
+
+Good point on the LM's-  I will make that point, at this time I think the 
+baseline is 7FAs- and the time should be shortened for LM's.   Unfortunately 
+I do not think that EECC has corporate history on the 7FA's commissioning 
+time- I think NEPCO does.    As to the EPC contractor wanting a similar cure 
+time, in effect the commissioning period will have to be built into his 
+Guaranteed Completion Date.   This does not mean that GE gets all this time 
+to commission, it de facto can be shorter or longer, what it does do is sets 
+the mark in the sand for one of the criteria that must be met before GE is 
+exposed to Takeover LD's because the GE equipment will not meet Specific 
+Performance Guarantees or operate reliabily thus causing the EPC Contractor 
+to be late. (slightly run on sentence-whew)
+
+As such it is not a GE slowness LD.  
+
+As to there not being enough TDI of people or their being inept thus causing 
+a delay.  A valid concern-and perhaps we can pin GE for.   I am struggling 
+with what to use as a quantitative standard against which we could assess 
+Take Over LDs.   It is almost like good/bad art, you know it when you see 
+it.  Scott and I can try making late, insufficient or inept TDI services as 
+(iii) in Section 10.3.2 (3rd reason for trigging Take Over LD's)- but without 
+some standard it will be tought to reach an agreement with GE and tougher to 
+enforce.   I welcome your creative thoughts.   I would expect GE to rail 
+against this.
+
+Scott and Kay-  Thoughts?
+
+
+
+
+	Bill Williams/ENRON@enronXgate
+	05/23/2001 06:13 PM
+		 
+		 To: John G Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+		 cc: 
+		 Subject: RE: Experience In commissioning GE 7FA's
+
+One thing for me - this contract will not just be for 7FA's.  The LMs have 
+much shorter fire and ready to go times (days to weeks at most), and to allow 
+a generic move to 45 days could put aeroderivative gas turbine projects in 
+jeopardy with regards to schedule. I must confess I do not have the 7FA 
+experience.  EE&CC should be able to back these numbers up.
+
+I suspect this may be a TDI issue as well.  GE may be having fewer qualified 
+Technical consultants to cover the onslaught of construction - contributing 
+to the request to extend to 45 days. 
+
+Note, if we go to 45 days for the Seller, the EPC contractor will want the 
+same time period to remedy.

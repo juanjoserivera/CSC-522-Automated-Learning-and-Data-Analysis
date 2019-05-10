@@ -1,0 +1,12 @@
+Per my discussion with Sherry Glazebrook at Tennessee, she wasn't real specific since I don't have an EES ID on Tennessee but this is what I found out.
+
+CONTRACTS
+
+Balancing Agreement K# 31905 (OBAD)  This is a balancing agreement for Bethlehem on the 200 leg in Zone 5, probably meter #20816.  This balancing agreement should have been cashed out every month.  She wouldn't tell me the current balance.  ENA had a term sale to EES (sitara #1003036).  The volume was 1,200 dth per day in Tenn Zone 5 and the name of the point was Bethlehem Sales.  The term of the sale matches the term of the capacity release from Boston Gas.
+Firm Gas Storage Service K# 38454 (FS-MA Assign) -- Assignment from New York State Electric & Gas Company
+Gas Transportation Agreement K# 38535 (FT-A Assign) -- Assignment from New York State Electric & Gas Company
+Gas Transportation Agreement K# 38539 (FT-A Assign) -- Assignment from New York State Electric & GAs Company   All 3 capacity releases from NYSEG are non-recallable.  In my opinion, this capacity should be the property of the customers EES was serving behind the NYSEG city gate and the capacity should go with the customers.  But, I believe we need to address the LDC tariff issues along with the pipeline issues.
+Gas Transportation Agreement K#27848 (IT)   
+Supply Aggregation Servic e Agreement K# 80265 (SA)
+
+Of all the items shown above, I am more concerned with the Balancing Agreement k#31905.  We need to know what has happened to the sales customers EES had at this point.  I believe it was just one customer.  How is this customer currently getting its gas?  If Enron is still the operator of the balancing agreement at this point, does it "appear" that Enron is still using this agreement?

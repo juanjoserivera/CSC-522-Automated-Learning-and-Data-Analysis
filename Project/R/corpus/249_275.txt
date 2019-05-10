@@ -1,0 +1,3 @@
+Why would this person need Read/Write to m:\common\power  I typically only grant access for Write capabilities to Risk.
+
+Stacey

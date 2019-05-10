@@ -1,0 +1,27 @@
+Bob has just finished inputting his deals. These should be in now.
+
+
+
+
+Kerri Thompson@ENRON
+11/27/2000 01:55 PM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: apb checkout
+
+missing deals for bob:
+
+buy edison mission
+223.00
+dec
+np15
+25 mw
+peak
+
+sell calpine
+223.00
+dec
+np15
+25 mw
+peak

@@ -1,0 +1,3 @@
+POI 500168 has been changed in CAS to 200,000 both receipt and delivery.
+
+DS

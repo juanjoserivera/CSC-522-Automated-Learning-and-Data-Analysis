@@ -1,0 +1,22 @@
+All:
+
+I'm attempting to use lattice on windows 2000 under R 1.4.
+
+Rgui and Rterm crash when I invoke "xyplot" or "trellis.device" commands (including the oft-used "quakes" example)
+
+In particular, I get a message box from the windows OS with the following text:
+--------------------------------------------------------------------
+Rgui.exe has generated errors and will be closed by Windows.  
+You will need to restart the program.  
+
+An error log is being generated
+--------------------------------------------------------------------
+
+this seems to happen right after the graphics window is spawned. 
+
+I'm using lattice version 0.4-0 and grid version 0.5
+
+am I missing some sort of prep work for lattice graphics?
+
+thanks any help,
+Cooper

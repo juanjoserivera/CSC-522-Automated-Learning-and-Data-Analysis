@@ -1,0 +1,2 @@
+FYI - this is set up and has been added as a tab to the bankruptcy post id sheet(CAN).  If you open the attachment, you will see she set these up as MMBTU/USD books in Risktrac.  I talked with Cecilia and she has changed this in ERMS/TAGG effective today to be GJ/CAD.  Not sure how this happened, but it is fixed now.  Should not have any problems, there is nothing in this book currently.  Let me know if we need to calc these when I get back on Wednesday.
+PL

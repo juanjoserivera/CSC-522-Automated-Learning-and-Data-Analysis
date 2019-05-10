@@ -1,0 +1,9 @@
+Dan, etal --
+
+Someone from CSC was on the call (Allison Hafner).  
+
+TXU said the meters were to be read by Dec 13 with final EDI files sent to ERCOT by Dec 14.  ERCOT would process a REP of Record change on Dec 13.  
+
+Looks like everything is ok.
+
+Jim

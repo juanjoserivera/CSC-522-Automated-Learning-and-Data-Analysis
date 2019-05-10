@@ -1,0 +1,145 @@
+January __, 2000
+
+
+
+Via Facsimile
+
+MEMORANDUM TO:	Paul Simons 
+	(Enron Europe Limited) 
+	 
+	Mark Taylor 
+	(Enron North America Corp.)
+ FROM:	Kenneth M. Raisler 
+	David J. Gilberg
+ RE:	Enron Online/Credit Product
+
+This memorandum summarizes the proposed procedures we discussed during our 
+meeting on January 13, 2000 for use in connection with the credit derivatives 
+product (the &Product8) to be offered by Enron Capital & Trade Resources 
+International Corp. and its affiliates (collectively, &Enron8) through &Enron 
+Online8.  These procedures, which we will be assisting you in preparing, are 
+designed to reduce Enron,s exposure to those entities on whose credit the 
+Product will be based (the &Reference Entities8) as well as Enron,s exposure 
+to other related types of liabilities.  We have previously outlined these 
+areas of exposure in our memoranda dated December 15, 1999 and December 22, 
+1999.  
+1. Disclosure * All Reference Entities should be advised, by letter, of the 
+fact that they will be included in the list of entities that will be the 
+subject of the Product.  These disclosures will of course be separate from, 
+although related to, the disclosures to be provided to counterparties to 
+transactions in the Product.
+
+? This disclosure should inform the Reference Entity of the introduction of 
+the Product, and describe the general nature of the Product and the manner in 
+which it will be traded (e.g., through Enron Online).
+
+? In general, however, Enron need not request that the Reference Entities 
+consent to or acknowledge their inclusion in the list of the Reference 
+Entities, except as set forth below in paragraph 2. 
+
+  2. Consent * Enron should, however, obtain the prior consent of certain 
+types of Reference Entities before including them in the list of Reference 
+Entities.
+
+? In particular, consent should be obtained from any Reference Entities with 
+which Enron has a significant trading relationship that includes advice or 
+other services that could result in Enron being considered a fiduciary of the 
+Reference Entity or that could otherwise give rise to common law duties that 
+could be violated if the Reference Entity does not consent to the arrangement.
+
+? Enron need not seek consent from those large and sophisticated 
+counterparties to which Enron merely provides prices and with which Enron 
+trades on an exclusively arms, length basis with no advisory or similar 
+services being provided and with no fiduciary obligations.
+
+? Where consent is sought, Enron should include a request that the Reference 
+Entity acknowledge its receipt of the letter and its consent to being 
+included in the list of Reference Entities.  If a Reference Entity fails or 
+refuses to execute the letter, Enron will need to make a determination, on a 
+case-by-case basis, as to whether it is comfortable including that entity on 
+the list of Reference Entities.  However, it should be recognized that, by 
+requesting consent, Enron may be limiting its ability to treat an entity as a 
+Reference Entity in the absence of consent.
+
+3. Chinese Wall * We understand that it will not be feasible to construct a 
+complete &Chinese Wall8 between the operations related to the Product and 
+Enron,s other trading activities.  This is due primarily to the fact that 
+activities related to the Product will utilize the same credit function as 
+Enron,s other trading activities.  However, Enron should implement a modified 
+Chinese Wall between the trading operations.  This approach would enhance 
+Enron,s ability to defend successfully against any claims of impropriety or 
+breach of duty by facilitating Enron,s ability to demonstrate that 
+information had not been shared by other traders with those trading the 
+Product. This could be accomplished through a number of procedures.
+
+? First, Enron should maintain the maximum possible degree of physical 
+separation between personnel responsible for pricing and trading the Product, 
+on the one hand, and Enron,s other trading activities, on the other hand.  
+Even if personnel involved in the Product are located on the same floor as 
+other traders, it would be prudent to place them in a separate area of the 
+floor set off by partitions or similar features.
+
+? Second, procedures should be developed to prohibit the flow of information 
+between Product traders and other traders if such information is material to 
+the creditworthiness of trading counterparties and is not in the public 
+domain.  In addition, all trading personnel should be instructed with respect 
+to the procedures through training programs.
+
+? Finally, senior supervisory officers of Enron should be assigned to monitor 
+communications between the groups of traders and to review and make 
+determinations on requests by traders to communicate information that would 
+otherwise be prohibited under the procedures.  These procedures will be 
+similar to those that have been developed in connection with Enron,s equity 
+trading activities.
+
+4. Restricted List -- Enron should establish and maintain a &restricted list8 
+of those entities on which Products may not be traded.
+
+? Initially, the list could be used to exclude those entities on which it is 
+not feasible for Enron to offer Products due to the nature of its 
+relationships with such entities; e.g., those entities with respect to which 
+Enron might be considered a fiduciary and which have not consented to their 
+inclusion and those entities about which Enron has or regularly receives 
+material, non-public information.  In addition, those entities with which 
+Enron has entered into confidentiality agreements will most likely need to be 
+excluded, depending on the terms of such agreements.
+
+? Enron should also establish procedures to monitor its receipt of 
+information regarding Reference Entities on which Products are listed.  
+Pursuant to these procedures, Enron should suspend the listing of quotations, 
+and therefore the issuance of new Products, with respect to a Reference 
+Entity, if Enron is in possession of material, non-public information 
+regarding such Entity of a type, or in situations, that render suspension 
+necessary or advisable.  This would include situations in which Enron is 
+considering an investment in or a joint venture with a Reference Entity.  In 
+addition, the procedures should provide for Reference Entities to be excluded 
+or deleted for reasons unrelated to Enron,s possession of information as 
+well; e.g., where Enron has reached or exceeded its credit limits with 
+respect to such Entities. 
+
+? The procedures should state that Enron may close out an open position for a 
+Product held by a counterparty, if the counterparty specifically requests 
+Enron to do so.  The procedures should also address the pricing of the 
+closing transaction, however, and establish a mechanism for such pricing that 
+minimizes Enron,s potential exposure to liability as a result of its 
+effecting a transaction while in possession of material, non-public 
+information. 
+
+? Enron should provide training to the appropriate personnel, which should 
+include instructing such personnel not to furnish Product counterparties with 
+any notification or explanation of a Reference Entity being placed on the 
+restricted list. 
+
+As noted, we will be assisting you in developing these procedurew, which will 
+need to be integrated into Enron,s existing policies and procedures.  In 
+addition, as we have advised you in our prior memoranda, there are no 
+procedures that will fully insulate Enron from the potential liabilities 
+arising in connection with its offering of the Product.  However, the 
+implementation of the types of procedures described above should assist Enron 
+in mitigating such risks and defending against claims that might be made by 
+Reference Entities.
+Please call us if you have questions on these or other issues.
+  
+
+K.M.R. 
+D.J.G.

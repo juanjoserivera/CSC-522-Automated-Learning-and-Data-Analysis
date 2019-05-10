@@ -1,0 +1,2 @@
+Keoni,
+	What is the total $ amount of the payments due to the SC's for this charge type?

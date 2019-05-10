@@ -1,0 +1,16 @@
+The broker put delivery point in wrong for a second and then changed it. It 
+is Mid-C.
+
+
+
+
+Evelyn Metoyer@ENRON
+12/08/2000 12:19 PM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: 12-8-00 Mike Swerzbin error
+
+
+ref 476900
+Amerex shows delivery as Cob and we show Mid-C

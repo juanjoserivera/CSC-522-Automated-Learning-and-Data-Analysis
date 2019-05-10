@@ -1,0 +1,16 @@
+sp_WX_GetForecast
+
+
+
+
+Colin Poon Tip
+05/30/2001 06:26 PM
+To:	Cooper Richey/CAL/ECT@ECT
+cc:	 
+Subject:	weather
+
+Hey Cooper,
+Do you have any sprocs for the Weather data you were requesting for ChartFX??
+
+Let me know, so I can do that for you.
+ciao

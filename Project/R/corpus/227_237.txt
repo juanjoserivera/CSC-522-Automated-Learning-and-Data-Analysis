@@ -1,0 +1,1 @@
+Is it possible to restrict delete ability?  We need to have a lot of people with write access but they don't all need to be able to delete entire records.

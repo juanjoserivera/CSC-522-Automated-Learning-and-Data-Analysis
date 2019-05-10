@@ -1,0 +1,3 @@
+Kevin,
+
+Is the SP and NP language in the spread language the same language we use when we transact SP15 or NP15 on eol?

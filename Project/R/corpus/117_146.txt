@@ -1,0 +1,5 @@
+It is the Import Gas Daily file under Curve Maint in Runm.  We are working on an excel file with the intra-month and gas daily curves and will send it to you when we are done and we can try to load them once the database is split.
+
+Thanks
+
+kam

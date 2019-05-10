@@ -1,0 +1,5 @@
+I tried to breakout the curves for Keith and Frank in the file you are working on but we should run that by them for approval.  Mike will be setting all gas daily and physical curves.  I think we can combine basis, index and GDI curves into one file per trader leaving only three curve files to load.
+ 
+Let me know what you think.  Once we get their ok on the curves, we can set them up and let them add any formulas they need, especially Mikes file.
+
+KK

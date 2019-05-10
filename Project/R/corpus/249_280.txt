@@ -1,0 +1,11 @@
+Tom,
+
+Hope this helps.
+
+1)  Only the power positions need to be queried.  Gas positions for spread options and heat rates are included in the gas bench.
+
+2)  Any power Exchange transactions should be included, but the gas transactions calculated in ERMT should not be included as they are on the gas bench.
+
+
+Thanks,
+Stacey

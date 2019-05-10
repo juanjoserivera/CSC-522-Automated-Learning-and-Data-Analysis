@@ -1,0 +1,30 @@
+An application called AP Data Viewer.  Accounts payable uses it to retrieve 
+status on document such as invoice payments, wires, payment requests, etc....
+
+I've just spoken to Pam and I think I'm requesting the right thing but using 
+the wrong form.  Will you please reject this so I can start all over?  
+
+Thanks
+Dana
+
+
+
+
+Hope Vargas
+09/27/2000 07:14 PM
+To: Dana Davis/HOU/ECT@ECT
+cc:  
+Subject: Re: Sap Security Request  
+
+Dana, what is this requesting?
+
+
+   
+	Enron North America Corp.
+	
+	From:  Dana Davis                           09/27/2000 04:45 PM
+	
+
+To: SAP Security@enron.com
+cc: Hope Vargas/HOU/ECT@ECT, Nicole Mendez/HOU/ECT@ECT 
+Subject: Sap Security Request

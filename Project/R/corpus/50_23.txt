@@ -1,0 +1,7 @@
+Sorry, I didn't see the questions below.
+
+We were using historical rates (no fuel adjustment because we collect it in fuel sales) through 2006.  After 2006, I calculated an adjustment to add to the historical rates (assuming that we would recapture some of the value of the spread in the rate) and it made the rate greater than the max tariff rate.  Davis and I discussed that we didn't think we should assume anything in the models over max rate, so Davis said he would use the max rate after 2006.  (All of this is just pertaining to the West rates.)
+
+The historical average West rate is $.2565.  The historical West rate with fuel adjustment added is $.3404.  The max rate is $.2868.
+
+It's the same thing someone commented below (in blue) in response to the question - "if we are at average rates we would be able to get it  back (fuel over-retention) up to the max rate number."

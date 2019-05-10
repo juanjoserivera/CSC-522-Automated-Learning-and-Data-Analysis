@@ -1,0 +1,5 @@
+Please confirm the Enron Corp. account for the swap:  
+
+Citibank
+ABA #021000089
+A/C = 0076486

@@ -1,0 +1,5 @@
+We are working on this now.  We have a book with all physical active trades we will be performing on, we are now working on getting the in-the-money financial trades separated into a new book.  Once that book is ready and deals are moved, we will be able to report it to you.  
+
+Thanks,
+
+Kam

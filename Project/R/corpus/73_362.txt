@@ -1,0 +1,32 @@
+Opps -   3.2846
+
+
+
+
+Sylvia A Campos
+01/12/2000 01:41 PM
+To: Chris Germany/HOU/ECT@ECT
+cc:  
+Subject: Re: New Transco contract  
+
+Chris,
+What is the contract no.?
+
+
+
+Chris Germany
+01/12/2000 01:32 PM
+To: Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT
+cc: Beverly Beaty/HOU/ECT@ECT 
+Subject: New Transco contract
+
+Please set up the following contract 
+
+Shipper  Columbia Energy Services
+Agent  ENA
+Pipe  Transco
+Firmness IT 
+Service Type Transortation
+Rate Sched IT
+
+Term  1/1/2000 - 1/31/2000 then evergreen.

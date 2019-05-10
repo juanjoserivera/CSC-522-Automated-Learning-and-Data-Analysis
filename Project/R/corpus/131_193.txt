@@ -1,0 +1,1 @@
+This looks good from the Commercial side.  I am assuming that when a customer uses the "View Printable Page," that printout header cannot be frozen.  Otherwise, this is what we are looking for as far as viewing this spreadsheet on line.  When the formatting issues are resolved, I recommend we move this to production.  Thanks.

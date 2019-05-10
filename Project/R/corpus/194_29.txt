@@ -1,0 +1,3 @@
+Sell 75 Contracts May, 2001 NYMEX @$5.36
+Buy 75 Contracts May, 2001 NYMEX @$5.28
+Buy 100 Contracts May, 2001 NYMEX @$5.285

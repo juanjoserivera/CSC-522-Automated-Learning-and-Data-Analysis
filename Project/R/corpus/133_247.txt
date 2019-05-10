@@ -1,0 +1,2 @@
+thanks.  FYI - we will have a pretty big book move for you around lunch tomorrow and need it before 3:30 if possible.  We will be moving third party financial deals(ENA is the Enron counterparty) from NG-PRICE to ENA-FT-WC-SJ.  I will get you the list before lunch tomorrow, just thought you could get started on the script.  Thanks again.
+PL

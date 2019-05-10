@@ -1,0 +1,59 @@
+Enron North America and Enron Europe will offer credit derivatives through 
+the EnronOnline website in the near future.  These products will provide for 
+regularly scheduled payments by the purchaser and a payment by the seller in 
+the event of the bankruptcy of a specified &Reference Entity.8  
+
+For a number of reasons, including those identified below, Enron maintains a 
+&Restricted List8 in connection with its credit derivatives business, which 
+will list those entities that may not be included in the list of Reference 
+Entities or that have been deleted from the list of Reference Entities.  This 
+list is designed to comply with legal requirements, to deal with potential 
+conflicts of interest that might result because of our diverse activities, 
+and to prevent the appearance of impropriety in connection with Enron,s 
+credit derivatives trading activities.  The credit derivatives Restricted 
+List is designed for other purposes as well.  For example, a company may be 
+placed on the Restricted List if Enron is not able to assume any further 
+credit exposure to that company or believes that market conditions do not 
+warrant the trading of Credit Derivatives on such Reference Entity.
+
+A company ordinarily will be placed on the credit derivatives Restricted 
+List, either before or after it has become a Reference Entity on which credit 
+derivatives are traded, in the following circumstances:
+
+when Enron is actively engaged in effecting a material transaction with 
+respect to such company that has not been publicly announced;
+
+when Enron has an applicable standstill agreement or other confidentiality 
+agreement in place with such company;
+
+when Enron has a legal duty to keep such company's information confidential 
+and such company has not expressly consented to being a Reference Entity for 
+purposes of the trading of credit derivatives (such a legal duty may be a 
+fiduciary duty but may not rise to that level);
+
+when some part of Enron acquires material, nonpublic information about a 
+company or its securities in the course of its business activities;
+
+when Enron has reached or exceeded its credit limits with respect to such 
+company.
+
+The purpose of this memorandum is to alert you to this new business and to 
+request your assistance in evaluating proposed Reference Entities prior to 
+the trading of credit derivatives based on such companies.  Below is a list 
+of proposed Reference Entities.  Please take a few minutes to look at this 
+list and then let me know if you are aware of any reason such companies 
+should placed on the credit derivatives Restricted List.  If you have any 
+questions, please contact me at (713)853-7459 or Paul Simons in the London 
+office at 44-20-7783-6566.
+
+Cinergy Corp.
+Duke Energy Corporation
+Dynegy Inc. 
+El Paso Energy Corporation
+PG & E Corporation
+Southern Company Inc, The
+
+AOL
+Lucent Technology
+Nortel
+Qwest Communications

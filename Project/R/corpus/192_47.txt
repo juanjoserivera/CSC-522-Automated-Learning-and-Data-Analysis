@@ -1,0 +1,7 @@
+What we are looking at is cleaning up for December.  So the schedule strips have already been created.  For settlement purposes, we have to go in and clean house.  So it wouldn't help to change the deal in Deal Entry and  I'm not even sure that we can do it anyway because of deal preservation.  So we are looking at a time strip for example Dec 8-31 to zero out "Counter party".  
+
+I will be talking to John tomorrow morning to find out more about the West Bankruptcy book.  Don't know anything about it.
+
+Thanks again,
+
+Diana

@@ -1,0 +1,3 @@
+This is what we have to look forward to.  We need to get all post-id's, for the live and bankruptcy books, and get those to Sanjeev Gupta to dump into excel.  Then try to tie those MTM values back to the Gross Book Balance we reported on the final NGP&L.  Once that ties, we will format the info to fit schedule B.
+
+You can't wait, right?

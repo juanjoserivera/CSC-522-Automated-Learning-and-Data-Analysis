@@ -1,0 +1,125 @@
+I believe we are in a position to finish this contract today (or tomorrow) if 
+we can get buy in on the change in assignment highlighted in red below (last 
+paragraph of 22.2).  Previously, the unfettered right to assign arose at 
+Acceptance.  This change allows us the flexibility to pay for a unit and 
+assign it to anyone, and not have to wait until the unit is satisfactorily 
+completed, installed, etc. 
+
+Please let me know if this change is ok, and if WestLB will be in a position 
+to sign this agreement tomorrow.
+
+Thanks,
+
+Kay
+
+ARTICLE XXII.  ASSIGNMENT
+
+22.1   Assignment by Seller.  This Agreement may not be assigned by Seller 
+without the prior written consent of Purchaser, which shall not be 
+unreasonably withheld.
+
+22.2   Assignment by Purchaser.  This Agreement or any right or obligation 
+contained herein may be assigned, from time to time, by Purchaser or Agent 
+without Seller,s consent to:
+
+(i) Agent (in the case of an assignment by Purchaser) or an Affiliate of 
+either Purchaser or Agent;
+
+(ii) a joint venture, partnership, limited liability company or other similar 
+entity in which Agent or any of its Affiliates is a venturer, partner or 
+participant with no less than a nineteen and one-half percent (19.5%) equity 
+interest;
+
+(iii) any Lender;
+
+(iv) any Indemnified Party;
+
+(v) any entity for the purposes of financing or sale of the Facility;
+
+(vi) any party (1) for which Agent or any of its Affiliates has agreed to 
+construct or develop a facility using the Equipment, or (2) to which the 
+Agent or any of its Affiliates has agreed to convey a power plant project 
+which it has under development; or
+
+(vii) any contractor or developer (including, without limitation, Enron 
+Engineering & Construction Company and/or NEPCO) which is retained by 
+Purchaser or Agent or any of its Affiliates to construct or develop a 
+Facility using the Equipment.
+
+In the case of an assignment to a party described in (ii), (vi), or (vii) 
+(other than  Enron Engineering & Construction or NEPCO), Seller shall be 
+entitled to request and receive an appropriate guaranty, letter of credit, 
+payment bond or other reasonable form of payment security, in amount not to 
+exceed the amount of the Purchase Amount remaining to be paid at the time of 
+the assignment, unless the assignor agrees to remain liable for all future 
+liabilities under this Agreement.  A letter of guaranty, letter of credit, or 
+payment bond provided by an entity rated BBB+ or better shall be deemed to be 
+an appropriate form of security for the purpose of this provision.
+
+Except for (i) through (vii) above, this Agreement or any rights or 
+obligations hereunder may not be assigned by Purchaser or Agent to other 
+parties without the prior written consent of Seller which shall not be 
+unreasonably withheld, conditioned or delayed.  Seller agrees to respond to 
+any request for consent within thirty (30) Days following its receipt of such 
+request.  Any failure to respond within the foregoing time period shall be 
+deemed to be a grant by Seller of its consent to the proposed assignment.  In 
+determining whether Purchaser or Agent shall be permitted to assign this 
+Agreement, Seller shall only be deemed to be reasonable in withholding its 
+consent if the proposed assignee does not have substantially the same or 
+better credit quality than Agent unless (a) the proposed assignee provides 
+appropriate guaranties, letters of credit or other assurances of payment 
+issued by an entity or person with substantially the same or better credit 
+quality than Agent, or (b) the assignor agrees to remain liable for all 
+future liability under this Agreement.  Purchaser or Agent shall have the 
+right to assign or pledge, from time to time, all or any portion of its 
+right, title and interest in, to and under the Agreement as collateral for 
+financing of any Facility without Seller,s consent.
+
+When duly assigned in accordance with the foregoing (including, following any 
+collateral assignment, upon foreclosure by any collateral assignee) (i) this 
+Agreement shall be binding upon and shall inure to the benefit of the 
+assignee (and all rights hereunder, including, without limitation, any and 
+all warranty rights, shall be assigned to the assignee as if such assignee 
+were an original party hereto), and (ii) the assignor shall be irrevocably 
+relieved and forever discharged of all liability under this Agreement so long 
+as the assignee executes an assumption of such liabilities.  Any other 
+assignment by Purchaser or Agent other than as permitted hereunder shall be 
+void and without force or effect. 
+
+Notwithstanding the generality of the foregoing, in connection with any 
+assignment permitted under this Section 22.2 to any assignee, the Purchaser 
+shall have the right, from time to time by Notice to Seller and without 
+Seller,s consent, to (i) designate such assignee to be the successor of 
+Purchaser hereunder, (ii) designate such assignee to be the successor of  
+&Agent8 hereunder, (iii) designate such assignee as a sub-agent of the Agent 
+hereunder, and (iv) designate that such assignee has succeeded to all of the 
+rights and obligations of both Purchaser and Agent, whereupon 
+(notwithstanding the first WHEREAS clause hereof, but subject to any 
+subsequent appointment of an &Agent8 hereunder) each reference to &Purchaser8 
+hereunder shall be deemed a reference to such assignee acting in its 
+individual capacity and each reference to an &Agent8 herein shall be deemed 
+deleted.
+
+Upon any permitted assignment of the rights under this Agreement to acquire a 
+Unit or Units, and the assumption (in accordance with the terms hereof) of 
+the obligations related thereto, Seller shall enter into a separate purchase 
+agreement with the permitted assignee (each, a &Facility Agreement8).  The 
+terms of each Facility Agreement will be in strict conformity with the terms 
+and conditions of this Agreement, except for site specific changes as agreed 
+by the Seller and such assignee.  In no way shall the Facility Agreement 
+increase the liability or responsibility of Seller, Purchaser, or Agent under 
+this Agreement.
+
+The parties further agree that the provisions of this Agreement relating to 
+assignment will only control the assignment of Purchaser,s or Agent,s rights 
+and obligations under this agreement prior to payment of the Purchase Amount 
+(except for the Retention Amount) of the Unit to be assigned. Following 
+payment of the Purchase Amount (except for the Retention Amount), Purchaser 
+or Agent shall be permitted, without Seller,s consent, to: (i) assign all or 
+part of its rights or obligations under this Agreement, (ii) convey any 
+ownership interest that it may have in the Facility and/or (iii) convey any 
+ownership interest that it may have in the entity which may own the Facility. 
+
+22.3   Agreement with Lender.  Seller agrees that if requested by Purchaser, 
+Seller shall enter into a direct agreement with Lender under which Lender is 
+permitted to "step into" this Agreement.

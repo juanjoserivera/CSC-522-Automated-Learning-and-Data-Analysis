@@ -1,0 +1,9 @@
+Art,
+
+An at the money Daily call option (against first of the month index) for gas at San Juan is $.24 for Q3 next year.  At the money monthly call options would be $.58 with a strike of $3.10.  A fixed price daily call option would be $.60 with a strike of $3.10.
+
+Let me know if you have any questions.
+
+Thanks,
+
+Kim

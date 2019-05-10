@@ -1,0 +1,1 @@
+Is the intent that this will be a negotiated rate?  If not,  do we need to add language that the discounted rate will be between max and min rates?  All else looks fine. --  Teb

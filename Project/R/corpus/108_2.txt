@@ -1,0 +1,12 @@
+We have received the following executed Master Agreement:
+
+Type of Contract:   ISDA Master Agreement ( Multicurrency-Cross Border)
+
+Effective Date:  March 31, 2000
+
+Enron Entity:  Enron North America Corp.
+
+Counterparty:  Kellogg Company
+
+Transactions Covered: Approved for all products with the exception of: 
+Weather and foreign exchange

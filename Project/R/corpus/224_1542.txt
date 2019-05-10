@@ -1,0 +1,31 @@
+All these have been changed to CAISO firm energy, and deal 576511 has been 
+changed to Reliant Energy Services. Thanks for catching these. I'm forwarding 
+this e-mail on to the Real Time group (again) as a reminder.
+
+Thanks,
+Kate
+
+
+   
+	
+	
+	From:  Sharen Cason                           04/10/2001 12:37 PM
+	
+
+To: Kate Symes/PDX/ECT@ECT
+cc: Kimberly Hundl/Corp/Enron@Enron, Amy Smith/ENRON@enronXgate 
+
+Subject: corrections
+
+Hello!
+
+These deal have NP/SP delivery points with firm energy.
+576522
+576512
+576523
+576517
+576513
+and 576511, but this one is also the wrong CP name.  Reliant HLP doesn't 
+trade in the west.  I think it should be Reliant Energy Services.
+
+Thanks!

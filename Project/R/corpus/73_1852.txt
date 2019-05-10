@@ -1,0 +1,6 @@
+April prices
+		Inside Ferc	Per Midland
+ANR LA		3.31		3.3125		Looks good
+Pepl		3.29		3.3345		appears high by about $.0245 but not way off.
+Trk Tx		3.28		3.28		Trunkline should be an average but this is great, our price would have been $3.305
+Trk La		3.33		3.28

@@ -1,0 +1,15 @@
+These look ok.  I'm still unhappy with using an average of the index for each 
+day when there is only one index for the entire month but I guess we're stuck 
+with it for now.
+
+
+
+
+Dale Neuner on 02/17/2000 04:41:54 PM
+To: Mark Taylor/HOU/ECT@ECT
+cc: Mike Grigsby/HOU/ECT@ECT 
+Subject: New Basis Swap Products
+
+Please review and offer comments/approval.
+
+Dale

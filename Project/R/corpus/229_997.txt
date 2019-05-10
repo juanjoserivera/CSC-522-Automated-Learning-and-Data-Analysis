@@ -1,0 +1,35 @@
+RedMeteor.com	www.redmeteor.com	Broker/matching site
+		Crude Oil, Electricity, Natural Gas, and Natural Gas Liquids
+HoustonStreet.com	www.houstonstreet.com	Broker/matching site
+		Electricity
+Altra Energy Technologies, Inc.	www.altra.com	Broker/matching site with some 
+electronic back-office services and software packages
+		Natural Gas, Power
+Enermetrix.com Exchange	www.enermetrix.com	Many-to-many Exchange?
+		Electricity
+Coral	www.coralconnect.com	&One-to-many8 proprietary site
+Bloomberg Power Match		
+		
+NGX	www.ngx.com	Many-to-many Exchange w/ clearing
+		Natural gas
+CoalHub	www.freemarkets.coalhub.com	Auction site ) details unknown
+		Coal
+		
+		
+Essentials	www.essentials.com	Retail electricity, natural gas, propane, 
+internet access, communications
+Utility.com	www.utility.com	Retail electricity, internet service provider and 
+home warranties
+		
+ChemConnect	www.chemconnect.com	Broker/matching site
+		Chemicals
+GE Polymerland	www.gepolymerland.com	&Big Toe8 for polymer resins?
+PlasticsNet	www.plasticsnet.com	
+		
+RateXchange		Bandwidth
+		
+		
+PetroCosm	www.petrocosm.com	&Energy Industry Marketplace8 ) probably limited to 
+oil filed equipment, etc.
+Schlumberger IndigoPool	www.indigopool.com	Information only re: Oil and Gas properties 
+offered for sale

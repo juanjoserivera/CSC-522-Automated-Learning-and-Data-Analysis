@@ -1,0 +1,1 @@
+here is a spreadsheet that captures the eol price data, an analyst here built it, apparently whenever the price changes in eol it gets sent to a file server and then the macro picks up the new data

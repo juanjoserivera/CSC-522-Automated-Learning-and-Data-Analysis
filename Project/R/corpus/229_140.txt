@@ -1,0 +1,7 @@
+(f) Notwithstanding any provision of this Agreement, any master agreement or 
+any GTC to the contrary, any Transaction resulting from a Gross Error by 
+Enron shall be voided at Enron,s election and Counterparty agrees that any 
+such voided Transaction shall be of no force or effect.  &Gross Error8 shall 
+mean the posting of any price that is [30]% or more above or below then 
+prevailing market prices, which difference is verified by the average of 
+quotations from three or more participants in the relevant market.

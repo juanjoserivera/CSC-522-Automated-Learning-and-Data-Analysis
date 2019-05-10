@@ -1,0 +1,38 @@
+oops.
+
+http://www.paulgraham.com/paulgraham/avg.html
+
+definitely read at least the 2nd to last paragraph in the pdf.  
+
+
+
+
+
+
+TIM HEIZENRADER
+05/01/2001 03:38 PM
+To:	Cooper Richey/CAL/ECT@ECT
+cc:	 
+Subject:	Re: interesting article on lisp and software development   
+
+Umm... was there to be an attachment or a URL?
+
+Tim
+
+
+
+From:	Cooper Richey on 05/01/2001 02:49 PM
+To:	Tim Heizenrader/PDX/ECT@ECT
+cc:	 
+
+Subject:	interesting article on lisp and software development
+
+if you have a bit of time, you might find it entertaining.  
+
+
+
+
+
+
+
+<Embedded StdOleLink>

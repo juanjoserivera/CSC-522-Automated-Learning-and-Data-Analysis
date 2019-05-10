@@ -1,0 +1,3 @@
+1) For a full requirements deal, I would like some sense of the load shape of the customer.  Having just monthly total energy consumption is not enough to price a deal.
+2) The all requirements price may be less or greater than the peak price, it is dependent on load shape.
+3) That is correct.

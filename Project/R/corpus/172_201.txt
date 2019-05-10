@@ -1,0 +1,5 @@
+volume 1	settle is 3.198 curve adjust is -.135 and bid is -0.063 less all in bid of  3.01
+volume 2	settle is 2.997 curve adjust is -.05 and offer is +0.033  all in offer of  2.98
+volume 3	settle is 3.198 curve adjust is -.055 and bid is -0.043 less all in bid of  3.10
+
+let me know if you have any questions ?

@@ -1,0 +1,2 @@
+We need to take the central off before the NY, NY Market, southeast curve files.  We need to add the GDI East curve file.  Also add the two east phy/gas daily curve files - o:tds/tds curve/east/intramonth & gas daily files/eastprodnewstyle and eastmktnewstyle.  Sandra's curve file is o:tds/tds curve/east/fteast.  The P&L files are o:erms/1intra/ireport/2002/0102phy/regions/EATP0102 and o:erms/erms_adm/firmtrad/2002/0102/regions/Intra-East Transport 0102.
+PL

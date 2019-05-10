@@ -1,0 +1,14 @@
+These are the post-id's for today
+
+Price			1450823
+Basis			1450824	
+Index			1450825
+GDM			1450826
+GDY			1450827
+GDM-Canadian		1451412		these two books were added to capture the canadian priced deals
+GDY-Canadian		1451413
+
+
+Thanks
+
+Kam

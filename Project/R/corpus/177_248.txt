@@ -1,0 +1,4 @@
+EXEC  [dbo].[sp_AB_GetGenerationData_RealTime]
+	@GenCode 	= 'sd3'	,
+ 	@StartDate 	= '1 MAY 2001' 		,
+	@EndDate  	= '10 MAY 2001'

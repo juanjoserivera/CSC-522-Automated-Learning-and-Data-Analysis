@@ -1,0 +1,8 @@
+Kate,
+We are missing an ID-S from ST-WBOM to ST-CALI for Saturday.  We sold 50 mws to ST-CALI at $42.89.  This should be the same as Friday's deal #683947.  We either need a new deal for Saturday or need to make Friday's on-peak deal carry over into Saturday.
+
+If you are changing the Friday deal you need to do it before the flash, otherwise if you make a new deal for Saturday you should have some time.
+
+Thanks for the help.
+
+Bill

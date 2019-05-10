@@ -1,0 +1,40 @@
+John:
+My fault.  It should say "succeeding Scheduled Payment Date" and Scheduled 
+Payment Date is defined in Section 14 of the ISDA form.  As far as choice of 
+law, we can go with NY although I disagree with your counsel, in that in 
+order for the New York choice of law to be enforced by a court, the parties 
+have to demonstrate some minimum relationship with the jurisdiction chose.
+
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+
+
+
+	"Shuttee, John" <ShutteeJ@EPEnergy.com>
+	05/31/2000 10:51 AM
+		 
+		 To: "'Carol St Clair'" <Carol.St.Clair@enron.com>
+		 cc: "Shuttee, John" <ShutteeJ@EPEnergy.com>
+		 Subject: NY vs. Texas Law and Definition
+
+
+Carol - two issues:  First, dealing with the applicable law, you can see
+from the copies message below, from our legal counsel, that we will not
+accept Texas law.  Second, I looked through my ISDA booklets and cannot find
+that term "Succeeding Payment Date" defined anywhere.  Can you specify where
+it is defined?
+
+John
+****************************************************************************
+*****************************************************
+Answer from Legal:
+We will not accept Texas law as the governing law over the ISDA. All of El
+Paso's ISDA's are governed by New York law. The ISDA was created under NY
+law by NY financial practitioners. There is substantial case law for ISDA's
+using New York Law. The User's Guides reference NY case law. You do not have
+to have a contact in New York. New York is not the venue, it is the
+governing law.
+
+Arbitration may be held in Houston, Texas, using New York law.

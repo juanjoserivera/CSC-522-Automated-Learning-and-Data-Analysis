@@ -1,0 +1,67 @@
+Thank you for your helpful comments.  Good points.
+
+On the timing issue, we still have the time sensitivity, but I hate to give 
+it a precise day.  Maybe the way to address that is within 10 BD's, as 
+mutually agreed.
+
+I don't have the doc in front of me (I'm in Florida), but I thought it said 
+ENA was taking responsibility for increases in the Purchase Amount as it 
+exists the date of closing.  I'll check.
+
+I agree with deleting CO definition.  It doesn't add anything.
+
+Again, thanks.
+
+Kay
+
+
+
+
+"Campbell, Carolyn" <CCampbell@KSLAW.com> on 03/01/2001 02:07:06 PM
+To: "'kay.mann@enron.com'" <kay.mann@enron.com>
+cc: "Keffer, John" <JKeffer@KSLAW.com> 
+
+Subject: FW: Form for Blue Dog
+
+
+Kay:
+
+I have a few minor comments to the new draft of the LLC Letter Agreement:
+
+1.  Section 2 - The new draft provides for closing "no later than 10
+business days" after funding the escrow, while the old draft provided for
+closing "on the 7th business day" after funding the escrow.  I have a
+recollection that ENA actually needed the 7 business days and no less (thus
+the requirement of ON the 7th business day) in order to prepare for closing,
+and was trying to avoid the possibility of the counterparty wanting to close
+before ENA could complete the matters required of it to properly effect a
+transfer.  If the timing on this is not sensitive, the new draft is fine.
+
+2.   Section 5(a) - The new draft provides that ENA is responsible for any
+"increase in the Purchase Amount," if the increase is caused by ENA's acts
+or omissions.  The new draft does not mention the base amount or point of
+reference, any increase over which would thus be ENA's responsibility.  (The
+old draft provided that ENA was responsible for the Purchase Amount, as
+determined on the basis of facts and circumstances existing prior to
+closing).
+
+3.  Section 9(a)(xiv) - It appears that a verb is missing from this
+sentence.
+
+4.  Section 19(c) - I think the definition of "Commercial Operation" can be
+deleted, since the only place it appears is in Section 19(g), where it is
+used with the parenthetical (as defined in the Turbine Contract).  However,
+we need to confirm that "commercial operation" is actually defined in the
+Turbine Contract, as I believe this was the transaction where the term was
+constantly used in the underlying agreement without definition.
+
+5.  Section 19(g) - In the definition of "Take Over," replace both
+references to "Unit" with references to the "GE Equipment".
+
+Please call if you want to discuss these comments.  Thank you.
+
+Carolyn M. Campbell
+King?& Spalding
+713-276-7307 (phone)
+713-751-3280 (fax)
+ccampbell@kslaw.com <mailto:ccampbell@kslaw.com>

@@ -1,0 +1,22 @@
+Philip,
+
+Thanks. You are the best.
+
+Vince
+
+
+
+From: Phillip Randle/ENRON@enronXgate on 05/02/2001 07:28 AM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: RE: Installation of new programs
+
+I gave you local admin rights on your laptop yesterday. What you have to do 
+is to log into the laptop using the local
+Machine account. The id and the password is the same as your Corp login now. 
+The password on the local account will 
+Never change. If you have a minute today I will show you how. Let me know a 
+time.
+
+Phillip Randle
+Desktop Support Specialist x39665

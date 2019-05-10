@@ -1,0 +1,1 @@
+Jan already has TW's average historical rates derived from TW's actuals (contract rates and throughput/MAXDTQ's) totaled up to TW's contract paths for 2000 and 2001.  I am going to use these numbers to allocate the path average rates to the pipeline segments in Davis' template.

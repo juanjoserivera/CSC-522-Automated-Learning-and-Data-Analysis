@@ -1,0 +1,29 @@
+Authorization granted.
+The system is not accepting my ID and password.
+
+Vince Kaminski
+
+
+
+
+
+ARSystem@ect.enron.com on 09/28/2000 07:05:09 PM
+To: vince.j.kaminski@enron.com
+cc:  
+Subject: Your Approval is Overdue: Access Request for 
+tom.halliburton@enron.com
+
+
+This request has been pending your approval for  2 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000003619&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000003619
+Request Create Date : 9/27/00 9:18:21 AM
+Requested For       : tom.halliburton@enron.com
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications

@@ -1,0 +1,1 @@
+CAS continues to reserve the capacity under the contract, as if it's not terminated, as long as there is a ROFR flag on the contract.  ROFR indicates that the customer has a contractual right to extend the contract pursuant to certain parameters in the tariff.

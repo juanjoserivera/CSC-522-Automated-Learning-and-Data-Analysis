@@ -1,0 +1,23 @@
+Excuse me, but what does this mean?
+
+
+
+
+
+
+<HelpDesk@mailman.enron.com> on 05/17/2000 10:42:29 PM
+To: <Kenneth_Lay@enron.com>
+cc:  
+Subject: HelpDesk Request
+
+
+TESTMODE
+Houston -- Houston.Resolution.Center@enron.com
+
+From: Kenneth Lay - Kenneth_Lay@enron.com
+For:  N/A - N/A
+Phone:  1234
+Office: 3211
+
+Description of Problem:
+blah!

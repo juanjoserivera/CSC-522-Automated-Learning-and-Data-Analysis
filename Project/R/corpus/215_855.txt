@@ -1,0 +1,9 @@
+Luiz --
+
+Yes there has been a shift in the thinking - away from the "natural gas" model and toward the financial structure.  Some of this is related to the political realities of the US market and FERC.  Some is that our traders in the East are comfortable with PJM and have been making term markets at PJM West hub.  All of this assumes that we should be able to migrate to a more physical model if the industry needs to later.
+
+I do think that it would be helpful for you to get together and work up a discussion for all Government Affairs to explain the key differences and what policy discussions we need to focus upon - (i.e., setting up good "hubs" and auctioning transmission rights).
+
+Also, I think that any thoughts you have on the implications for EES are important.  Not sure that either model is really "great" for competitive retailers.  The difficulty is that our predictions of load and the actual usage will always be different.  As long as (1) our analytics have the data to "price" basis between hubs and from a hub to a customer and (2) there is no discrimination in allocation of transmission rights then our ability to sell at retail will be competitive.
+
+Jim

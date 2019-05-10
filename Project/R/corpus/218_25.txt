@@ -1,0 +1,1 @@
+Also, could you please add the associated charge codes to the description. Then go back and audit the document by cross checking the number of ISO charge types vs. what you have been given in the document. The final document should have all charge types that the ISO currently has in place.

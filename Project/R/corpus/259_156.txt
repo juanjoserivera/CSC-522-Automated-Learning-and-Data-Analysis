@@ -1,0 +1,15 @@
+From the beginning of the year to July 25
+
+No of Trades:		1247
+MWH:			6,537,273
+Notional Value:		CDN$ 570,602,236
+Counterparties (10):	Aquila Canada
+			Conoco Canada
+			Duke Energy Marketing Ltd
+			Dynegy Canada
+			El Paso Merchant Energy
+			Engage Canada
+			Enmax Energy Corp
+			Idaho Power Company
+			TransAlta Energy Marketing
+			TransCanada Energy Financial Products

@@ -1,0 +1,26 @@
+P&L Responsibility 
+
+
+Midcontinent Region
+
+Andy Lewis - Basis and Gas Daily
+                    PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+
+Jason Williams - Cash trading and index
+                    PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+
+
+
+Market Area
+
+Hunter Shively - Basis and Gas Daily
+                        Chicago
+
+Geof Storey - Basis and Gas Daily
+                    Michcon and Dawn
+
+Vladi Pimenov - Cash trading and Index (no VAR)
+                        Chicago
+
+Souad Mahmassani - Cash trading and Index (no VAR)
+                                Michcon and Dawn

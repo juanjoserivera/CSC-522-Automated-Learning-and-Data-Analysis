@@ -1,0 +1,7 @@
+Can you map the following three curves to Omicron curves.  Nilay did his side and I need you to do the other side according to the IT guys.
+GDP-St.CLAIR		Omicron 14
+GDP-NGPL(IA-IL	Omicron 11
+GDP-MONCHY		Omicron 11
+
+Can you let me know when this is done so that I can get Souad's VaR rerun.  Thanks for your help.  You also need to let me know if you guys can go to lunch on me on Friday.
+PL

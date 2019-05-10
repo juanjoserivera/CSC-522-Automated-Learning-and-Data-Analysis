@@ -1,0 +1,3 @@
+The supply from the desk-to-desk transaction (#1075281) is pathed to the transport.  The 1023 contract is an ENA agreement.  So, deal 1075281 transfers the gas to ENA.  ENA then transports the gas on it's agreement on Lone Star.
+
+D

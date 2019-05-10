@@ -1,0 +1,38 @@
+Here's a couple of clauses from some other contracts:
+
+From ABB contract:
+
+Maximum Liability.  Seller,s maximum aggregate liability for claims by 
+Purchaser arising out of Seller,s performance of this Agreement whether 
+arising from tort (including negligence), breach of contract or any other 
+cause of action is limited to one hundred percent (100%) of the Purchase 
+Amount; provided, however, that the foregoing limitation of liability of 
+Seller shall not apply to the following: 
+
+(i) under Article XX (Indemnification);
+
+(ii) under Article XXIV (Liens and Claims);
+
+(iii) Section 3.8(a) and 3.8(b), (Compliance with Governmental Rules);
+
+(iv) Section 5.2 (Taxes);
+
+(v) Article XIX obligation to maintain insurance; 
+
+(vi) arising from or related to environmental harm caused by an action or 
+inaction of Seller, its agents, employees or Vendors during the performance 
+of the Scope of Work;
+
+(vii) resulting from the gross negligence or willful misconduct of Seller, 
+their agents, employees or Vendors;
+
+(viii) patent or copyright infringement in accordance with Section 15.2, or
+(ix) Article XXI (Non-Disclosure of Information).
+      
+which liabilities shall not be limited.  Additionally, any liability of 
+Seller provided for by the proceeds of the insurance maintained pursuant to 
+Article XIX shall not be counted toward any of the foregoing limitations of 
+liability. 
+
+The indemnity language in the ABB contract probably wouldn't work.  I'll look 
+around.

@@ -1,0 +1,7 @@
+SELECT MAX(ABDAteTime), DATEADD(hour,-24,MAX(ABDAteTime)) FROM AB_PoolGeneration_REalTime WHERE DataType = 'A'
+
+EXEC sp_AB_GetGenerationData 
+	@GenCode = 'FNG1', 
+	@Interval = 'hourly',  
+	@StartDate = '1 MAY 2001',
+	@EndDate = '15 MAY 2001'

@@ -1,0 +1,8 @@
+I won't be here tomorrow but I found an error on the New Power deals I 
+entered yesterday.
+
+Deal   Previous Vol & Rate Current Vol & Rate P&L Impact
+508872 (buy) 540596 @ $6.0736 234908 @ $5.6860 $1,947,000  positive
+508870 (sell) 540596 @ $4.7525 234908 @ $4.7525 ($1,452,000) negative
+
+      Net Impact $495,000

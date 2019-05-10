@@ -1,0 +1,40 @@
+After our IOS adventure last week, I put together the following questions 
+that need to be resolved.  Some of them have needed to be resolved for quite 
+some time.  Tony, let's talk since I think some of these have already been 
+discussed and maybe resolved in the context of developing TW's EnronOnline 
+site, and I just need to get up to speed.  To the extent there aren't answers 
+yet, I'll get busy researching.  Drew -- comments?  Shall we all get on the 
+phone & discuss this?
+
+List of TW contracting issues
+
+1.  Reevaluate the following in the context of current FERC negotiated rate 
+policy:
+
+ a.  Transwestern's current form discount letter states:  "[t]he total charge 
+shall include all applicable surcharges."   Should this language be revised, 
+and if so, how?
+
+ b.  Transwestern usually charges one-part rates, and includes language in 
+its discount letter stating that Transwestern shall allocate the combined 
+rate between the reservation and commodity components inclusive of 
+surcharges.  Are one-part rates really negotiated rates?  material deviations 
+from the tariff? 
+
+ c.  Transwestern's discount letter includes a statement that in no event 
+shall the contract rate be greater than the maximum or lower than the minimum 
+rates provided in Transwestern,s tariff.  This was intended as assurance that 
+the contract is not a negotiated rate.  Is this language still effective?  
+necessary?
+
+2.  IOS/EnronOnline:
+
+ a.  When should IOS be conducted, if at all?
+
+ b.  Once notice of IOS or EnronOnline bidding has been posted, can the 
+subject capacity still be sold off-line (i.e., pursuant to traditional 
+bidding procedures)?
+
+ c.  Is our system for IOS and EnronOnline set up to handle max rate bidding 
+situations in a nondiscriminatory manner and in compliance with the bid 
+evaluation procedures in the tariff?  If not, what changes need to be made?

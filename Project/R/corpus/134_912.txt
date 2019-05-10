@@ -1,0 +1,39 @@
+I am not officializing 1091026 because we ran two basis calcs for the last 
+day and we officialized the other one and it has the same value - that post 
+id is 1091034.  Also, FT-Ontario's book admin is now Patrick Ryder, Market 
+Mich is Jad Doan and FT Intra Ontario is Chuck Ames.  Please shout with 
+anymore questions.  Thanks.
+PL
+
+
+
+From: Rachel Crowell/ENRON@enronXgate on 04/10/2001 10:20 AM
+To: Clara Carrington/ENRON@enronXgate, Victor Guggenheim/HOU/ECT@ECT, Ryan 
+O'Rourke/ENRON@enronXgate, Darron C Giron/HOU/ECT@ECT, Luchas 
+Johnson/NA/Enron@Enron, Kyle R Lilly/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, 
+Phillip M Love/HOU/ECT@ECT, Souad Mahmassani/Corp/Enron@ENRON
+cc: Patrick Frnka/NA/Enron@Enron, Tracey Irvin/ENRON@enronXgate 
+Subject: Book Names
+
+These are the book names according to my data.; Please advise if further 
+detail is needed.
+;
+Post ID  Book Code  Calculated by  Book Name/Description 
+    
+1091025  G2P  V. Guggenheim  FT Ontario (Price) 
+1091026  G2D  V. Guggenheim  FT Ontario (Basis) 
+1091076  A(D  R. O'Rourke  FT West 
+1090337  P!M  L. Johnson  East Gas Daily 
+1089877  LVP  K. Lilly  LT Transport (Price) 
+1089878  LVD  K. Lilly  LT Transport (Basis) 
+1089880  LVM  K. Lilly  LT Transport (Index) 
+1090725  GOP  P. Love  FT Intra Ontario (Transport Price Roll) 
+1090726  GOD  P. Love  FT Intra Ontario (Transport Basis Roll) 
+1090727  GOI  P. Love  FT Intra Ontario (Transport Index Roll) 
+1090730  47D  P. Love  FT Intra Ontario (Ontario Basis Roll) 
+1089826  55P  S. Mahmassani  Central Mich (Market Mich Roll) 
+
+;Best regards,
+;
+Rachel
+;

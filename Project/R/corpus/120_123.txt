@@ -1,0 +1,1 @@
+Seems like something which takes time to implement particularly as we do not have margin contracts with our counterparty - this changes the function of EnronOnline to a margin exchange mechanism.  Long run not a short term solution.

@@ -1,0 +1,1 @@
+This is the procedure which currently is documented in the Product Control Function concerning the validity of a signature.

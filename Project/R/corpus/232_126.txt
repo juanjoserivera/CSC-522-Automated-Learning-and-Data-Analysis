@@ -1,0 +1,8 @@
+Virtual Bidding Questions
+
+1)	How is uplift allocated when there is thunderstorm alert in NYC?  Is the uplift allocated to those short going into the real time
+ in Zone J/K only or is it allocated statewide?
+2)	When is uplift allocated statewide as opposed to superzone?
+3)	Are credit amounts going to be adjusted and when?  Right now they are using the delta @ Zone K x 14 days of exposure.
+
+Thanks Tom

@@ -1,0 +1,10 @@
+This request is saved in O:\_dropbox\Kam\In-the-money trades\Summary.xls.  The file is too large to attach. 
+It reflects all active in-the-money trades in our books as of last night. 
+
+The summary tab gives you the total deal count and MTM value by month.  The next tab will break out the value by counterparty by month.
+
+Please let me know if this is everything you need.
+
+
+Thanks
+KK

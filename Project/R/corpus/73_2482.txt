@@ -1,0 +1,9 @@
+Interesting because this capacity was released non-recallable to CES which was assigned (not via capacity release) to ENA.  
+
+FYI, 
+
+	demand charge =  $2.6614 per month    = $.0875 per dth 
+	and the commodity is			$.0136
+	Fuel =  2.902 % and at $2.10 = 		$.0628
+
+	100% load factor cost = 			$.1639

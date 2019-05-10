@@ -1,0 +1,5 @@
+Hey:
+1.  Theoretically we could agree upon a trade and cross it on ICE after hours when the risk that someone else gets inside is remote.  This is a prearranged trade and is illegal on Nymex, but it is my understanding it will be legal on ICE assuming ICE uses the IPE clearing platform, where prearranged trading is legal.   Agree about liquidity.  I dont think this really helps ICE's volumes, nor liquidity.  Funds want liquidity so they will not flock to ICE in the current state.  
+2.  My guess is not intercommodity, but maybe intracommodity.  For instance, a gas daily swap against front month futures may have lower margin than the 2 trades additive.  
+
+Important Note: ICE is our competition and I am very,very wary to support their system, unless absolutely necessary.

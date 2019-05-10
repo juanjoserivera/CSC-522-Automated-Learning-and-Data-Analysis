@@ -1,0 +1,4 @@
+I was getting an error messge until I downloaded something from the IOL Setup & Help tab.  
+Now, I go to http://www.iroquois.com/igts/info/section-frame.html and select "Transportation" at the top of the screen.  
+Then I select "Customer Activities" from the left side of the screen.
+And this is where I used to get an error message, now I just get a small symbol - looks like some sort of "flash" plug in is not loaded.

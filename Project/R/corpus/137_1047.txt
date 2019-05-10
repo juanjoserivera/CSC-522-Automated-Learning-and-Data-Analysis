@@ -1,0 +1,23 @@
+I don't think we need the language, especially since the guarantees won't 
+apply to retrofitting the plant later.
+
+
+
+
+"Thompson, Peter J." <peterthompson@akllp.com> on 02/07/2001 09:08:48 AM
+To: <Kay.Mann@enron.com>
+cc:  
+
+Subject: RE: Words to go with the other 2 emails regarding Austin
+
+I would recommend that we not insert Eric's comments regarding the
+exhaust temperature and energy guarantees for combined cycle facilities.
+As Eric indicates, this is a simple cycle plant, which is similar to
+Fountain Valley.  When commenting on the Fountain Valley agreement, Lee
+recommended that all references to exhaust temperature and energy
+guarantees be stricken and we did so.  In addition, Lee has already seen
+a version of the City of Austin agreement that had Sections 10.4.1 and
+10.4.3 (the sections Eric would like to reinstated) stricken. Let me
+know what you think, but I recommend we leave them out, particularly if
+such sections are not necessary and would only be useful to have in the
+future if the plant ever went combined cycle.

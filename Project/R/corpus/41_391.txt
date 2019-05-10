@@ -1,0 +1,3 @@
+Correction:
+
+1) ensures that DA customers' costs are NOT shifted to utility customers.

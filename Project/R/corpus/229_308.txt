@@ -1,0 +1,111 @@
+Done - sorry for the delay.
+
+
+
+	Robert B Cass
+	11/17/2000 05:11 PM
+		 
+		 To: Mark Taylor/HOU/ECT@ECT, Jeff Blumenthal/HOU/ECT@ECT, Stephen H 
+Douglas/HOU/ECT@ECT, Tom Moran/HOU/ECT@ECT, Rudi Zipter/HOU/ECT@ECT, Bjorn 
+Hagelmann/HOU/ECT@ECT, John Swinney/HOU/ECT@ECT
+		 cc: Karen Lambert/HOU/ECT@ECT, Lisa Lees/HOU/ECT@ECT, Stephanie 
+Sever/HOU/ECT@ECT, Robert Fuller/HOU/ECT@ECT, Melba Lozano/HOU/ECT@ECT, Jason 
+Althaus/Corp/Enron@Enron
+		 Subject: NEW ENRONONLINE PRODUCT - PLEASE APPROVE
+
+Your review and approval of the following product type in the EOL Datamanager 
+is urgently needed (for directions on approval , please see steps for 
+approval at the bottom of this e-mail).  
+
+Trader :   Rob Fuller*-
+
+
+Example:
+
+US WTI Basis  Platts LLS            Jan01      USD/bbl
+
+Physical Description :
+New Product TypeCommodity:  
+Product Type:   US Crude WTI Fin Basis Swap
+Commodity: Crude Oil
+Currency:     USD
+Default UOM:   Barrels
+Country:   USA
+
+Financial Description (e.g):
+A US Crude financial Swap Transaction with Enron North America Corp., under 
+which either (A) for the case in which Counterparty submits an offer to buy 
+from Enron, Counterparty shall pay the Fixed Price and shall receive the 
+Floating Price, each in respect of the Notional Quantity per Determination 
+Period; or (B) for the case in which Counterparty submits an offer to sell to 
+Enron, Counterparty shall receive the Fixed Price and shall pay the Floating 
+Price, each in respect of the Notional Quantity per Determination Period. 
+Each calendar month during the term of the Transaction will be a 
+Determination Period. The Notional Quantity per Determination Period is the 
+volume submitted by the Counterparty via the website.  The Payment Date(s) 
+will be 5 business days after both the Fixed Price and the Floating Price are 
+determinable. The Floating Price shall be the average of the Index for each 
+day in the relevant Determination Period.
+
+The term of the Transaction shall be from the Effective Date to the 
+Termination Date. The Effective Date is 01 Jan 2001. The Termination Date is 
+31 Jan 2001.
+
+(Note:  The following are 3 of 12 indices - examples - that will be 
+applicable)
+(Light Louisiana Sweet)
+The Fixed Price for a Determination Period shall be the mean of the daily 
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the 
+Crude Price Assessments section of Platt,s Oilgram Price Report for those 
+issues published for the applicable Calculation Period, modified by the price 
+submitted by the Counterparty on the website.  The Index for a day shall be 
+the mean of the daily quotations for LLS under the heading "U.S. $/Bbl" in 
+the Crude Price assessments section of Platt,s Oilgram Price Report for those 
+issues published for the applicable Calculation Period. 
+
+(West Texas Sour)
+The Fixed Price for a Determination Period shall be the mean of the daily 
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the 
+Crude Price Assessments section of Platt,s Oilgram Price Report for those 
+issues published for the applicable Calculation Period, modified by the price 
+submitted by the Counterparty on the website.  The Index for a day shall be 
+the mean of the daily quotations for WTS under the heading "U.S. $/Bbl" in 
+the Crude Price assessments section of Platt,s Oilgram Price Report for those 
+issues published for the applicable Calculation Period.
+
+(Midland Sweet.)  
+The Fixed Price for a Determination Period shall be the mean of the daily 
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the 
+Crude Price Assessments section of Platt,s Oilgram Price Report for those 
+issues published for the applicable Calculation Period, modified by the price 
+submitted by the Counterparty on the website.  The Index for a day shall be 
+the mean of the daily quotations for WTI Midland under the heading "U.S. 
+$/Bbl" in the Crude Price assessments section of Platt,s Oilgram Price Report 
+for those issues published for the applicable Calculation Period.
+
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be Barrels per 
+month and the quantity shown shall be in Barrels per month.
+
+==============================================================================
+=====
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+  
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986

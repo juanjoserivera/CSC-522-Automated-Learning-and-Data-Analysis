@@ -1,0 +1,10 @@
+Start Date	October		November
+
+1year		4.64		4.71
+2year		4.82		4.86
+3year		4.91		4.94
+5year		5.01		5.02
+
+Regards,
+
+Jon

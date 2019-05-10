@@ -1,0 +1,3 @@
+Gary -- The biggest problem that I have experienced with emergency employee contact information during Tropical Storm Allison & during recent system outages is that all our contact lists are stored in an intranet environment.  When systems or the Internet are down, we can't get to the contact info.  I am now resorting to keeping a copy of customer contact info stored on a diskette.
+
+ Are there any plans to store a copy of this info on a non-Enron ISP that could be accessed from our Home ISP if the Enron intranet or servers are down?

@@ -1,0 +1,5 @@
+Bart,
+
+Yes, you should be able to pull the loads.  IMPORTANT NOTE:  there are several "scenario" runs of the model.  You should only use the "New Model" scenario which, I believe, is number 25.
+
+Mat

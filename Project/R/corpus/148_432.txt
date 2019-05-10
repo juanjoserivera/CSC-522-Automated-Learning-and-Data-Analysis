@@ -1,0 +1,21 @@
+done.
+
+
+   
+	Enron North America Corp.
+	
+	From:  Larry Joe Hunter @ ECT                           10/18/2000 03:23 PM
+	
+
+To: Errol McLaughlin/Corp/Enron@ENRON
+cc:  
+
+Subject: Reliant Q22542 - EOL GD/NYMEX error
+
+Errol,
+
+Yet another deal in which C/P claims deal should have been NYMEX rather than 
+Gas Daily.  Can you adjust in TAGG?
+
+Thanks,
+Joe
